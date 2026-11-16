@@ -1,0 +1,119 @@
+{
+  "schedule": [
+    {
+      "by": "daily",
+      "label": "Daily scan",
+      "days": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "time": "08:30",
+      "tz": "America/Toronto",
+      "active": false
+    },
+    {
+      "by": "weekly",
+      "label": "Weekly research",
+      "days": [
+        1
+      ],
+      "time": "11:00",
+      "tz": "America/Toronto",
+      "active": false
+    }
+  ],
+  "runs": [
+    {
+      "at": "2026-11-16T05:28:59Z",
+      "by": "research",
+      "added": [
+        "canada-council-for-the-arts-explore-and-create-artistic-creation",
+        "canada-council-for-the-arts-arts-across-canada-and-abroad-micro-grants",
+        "canada-council-for-the-arts-arts-across-canada-and-abroad-representation-and-pro",
+        "canada-council-for-the-arts-arts-across-canada-and-abroad-circulation-and-tourin",
+        "telefilm-canada-talent-to-watch-filmmaker-apply-direct-stream",
+        "telefilm-canada-talent-to-watch-industry-partner-stream",
+        "telefilm-canada-international-promotion-program-participation-in-international-f",
+        "telefilm-canada-marketing-program-canada-feature-film-fund",
+        "canadian-audio-visual-certification-office-cavco-canadian-heritage-with-the-cana",
+        "employment-and-social-development-canada-service-canada-canada-summer-jobs-2027",
+        "canadian-heritage-multiculturalism-and-anti-racism-program-events-component",
+        "canadian-independent-screen-fund-for-bpoc-creators-cisf-cisf-programs-for-bpoc-c",
+        "ontario-arts-council-media-artists-creation-projects-emerging",
+        "toronto-arts-council-media-artists-program-creation",
+        "ontario-arts-council-market-development-travel",
+        "ontario-arts-council-skills-and-career-development-indigenous-arts-professionals",
+        "ontario-creates-ip-fund-linear-content-stream-development-and-production",
+        "ontario-creates-ontario-film-and-television-tax-credit-ofttc",
+        "sodec-and-conseil-des-arts-et-des-lettres-du-quebec-quebec-support-for-the-montr",
+        "government-of-alberta-alberta-support-for-the-rockies-shoot-alberta-media-fund-a",
+        "film-development-council-of-the-philippines-film-philippines-office-internationa",
+        "film-development-council-of-the-philippines-film-philippines-office-film-locatio",
+        "film-development-council-of-the-philippines-createphfilms-fund-for-small-budget",
+        "national-commission-for-culture-and-the-arts-ncca-philippines-competitive-grants",
+        "lift-liaison-of-independent-filmmakers-of-toronto-with-the-independent-media-art",
+        "panavision-administered-for-panavision-canada-new-filmmaker-program-camera-equip",
+        "charles-street-video-production-membership-artist-rates-on-equipment-and-suites",
+        "lift-liaison-of-independent-filmmakers-of-toronto-production-and-post-production",
+        "lift-liaison-of-independent-filmmakers-of-toronto-digital-cinema-residency",
+        "charles-street-video-media-art-creation-grant",
+        "toronto-arts-foundation-toronto-arts-awards-che-kothari-artist-instigator-award",
+        "university-of-toronto-john-h-daniels-faculty-of-architecture-landscape-and-desig",
+        "purin-pictures-purin-film-fund-thailand-purin-production-fund",
+        "ontario-arts-foundation-tom-phillips-prize-media-arts",
+        "reelworld-screen-institute-presented-by-hollywood-suite-reelworld-market-ready",
+        "soundlab-pickering-ontario-new-client-discount-on-post-production-sound",
+        "seed-spark-and-gold-house-aapi-renaissance-rally-crowdfunding-challenge",
+        "seed-spark-seed-spark-crowdfunding-film-only-platform",
+        "kickstarter-kickstarter-canadian-creators",
+        "indiegogo-indiegogo-fixed-funding-only",
+        "patreon-patreon-membership-page",
+        "canada-revenue-agency-rules-for-registered-charities-tax-receipted-donations-thr",
+        "jollibee-canada-jollibee-fundraising-day-20-of-a-day-s-sales",
+        "abs-cbn-global-the-filipino-channel-tfc-tfc-abs-cbn-global-media-partnership",
+        "kapisanan-philippine-centre-for-arts-culture-community-partnership-filipino-cana",
+        "sine-institute-sine-film-fest-sine-institute-community-and-screening-partnership",
+        "air-canada-corporate-sponsorships-sports-and-culture",
+        "westjet-airport-community-giving-gift-of-flight",
+        "porter-airlines-community-support-flight-vouchers",
+        "canadian-museum-of-nature-film-inquiries-filming-in-the-fossil-gallery-and-museu",
+        "notre-dame-basilica-of-montreal-fabrique-de-la-paroisse-notre-dame-de-montreal-f",
+        "parks-canada-banff-field-unit-film-permit-or-small-scale-registration-banff-nati",
+        "parks-canada-jasper-field-unit-commercial-film-permit-or-small-scale-registratio",
+        "banff-lake-louise-tourism-media-team-filming-support-b-roll-library-and-leasehol",
+        "tourism-jasper-tourism-jasper-and-jasper-dark-sky-festival-partnership",
+        "ottawa-film-office-and-city-of-ottawa-event-central-free-city-of-ottawa-filming"
+      ],
+      "updated": [
+        "film-development-council-of-the-philippines-film-philippines-office-film-locatio"
+      ],
+      "closed": [
+        "telefilm-canada-talent-to-watch-filmmaker-apply-direct-stream",
+        "telefilm-canada-talent-to-watch-industry-partner-stream",
+        "canadian-independent-screen-fund-for-bpoc-creators-cisf-cisf-programs-for-bpoc-c",
+        "ontario-arts-council-media-artists-creation-projects-emerging",
+        "toronto-arts-council-media-artists-program-creation",
+        "ontario-arts-council-market-development-travel",
+        "ontario-arts-council-skills-and-career-development-indigenous-arts-professionals",
+        "ontario-creates-ip-fund-linear-content-stream-development-and-production",
+        "film-development-council-of-the-philippines-film-philippines-office-internationa",
+        "film-development-council-of-the-philippines-createphfilms-fund-for-small-budget",
+        "national-commission-for-culture-and-the-arts-ncca-philippines-competitive-grants",
+        "lift-liaison-of-independent-filmmakers-of-toronto-production-and-post-production",
+        "lift-liaison-of-independent-filmmakers-of-toronto-digital-cinema-residency",
+        "charles-street-video-media-art-creation-grant",
+        "toronto-arts-foundation-toronto-arts-awards-che-kothari-artist-instigator-award",
+        "university-of-toronto-john-h-daniels-faculty-of-architecture-landscape-and-desig",
+        "purin-pictures-purin-film-fund-thailand-purin-production-fund",
+        "reelworld-screen-institute-presented-by-hollywood-suite-reelworld-market-ready",
+        "parks-canada-jasper-field-unit-commercial-film-permit-or-small-scale-registratio"
+      ],
+      "reopened": [],
+      "note": "First research session: federal and national funders, Ontario, Toronto, Quebec, Alberta and the Philippines, private funds and in-kind help, sponsors and crowdfunding. Most urgent: Canada Summer Jobs closes 3 Dec 2026 (only employers operating 2+ years); Canada Council Explore and Create: Artistic Creation takes applications any time, about 5 months to a decision, so apply by mid-December to hear before the May shoot (portal profile takes up to 15 business days). Most arts-council grants (OAC, TAC) need a finished film you directed. Parks Canada does not consider commercial filming at Lake Louise and nearby sites from 1 June to 30 September, which affects the July shoot."
+    }
+  ]
+}

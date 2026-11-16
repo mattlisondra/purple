@@ -1,0 +1,2056 @@
+{
+  "updated": "2026-11-16",
+  "items": [
+    {
+      "id": "page-international-screenwriting-awards-page-international-screenwriting-awards",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "PAGE International Screenwriting Awards 2027",
+      "funder": "PAGE International Screenwriting Awards",
+      "type": "Screenplay competition",
+      "region": "USA",
+      "amount": "Grand Prize US$25,000; in each of 10 genres: Gold US$1,000, Silver US$500, Bronze US$250",
+      "currency": "USD",
+      "why_fit": "Open now to writers anywhere, cheap to enter, and a script stays eligible if it is produced after entry, so PURPLE can enter before the May 2027 shoot. The US$25,000 Grand Prize alone would cover the whole cash gap.",
+      "priorities": "Scripts are judged anonymously by title and number in ten genre categories. The contest exists to launch new writers and promotes its winners to agents, managers and producers.",
+      "eligibility": "Writers 18+ anywhere in the world who have earned no more than US$50,000 in total as screenwriters or fiction TV writers. English-language script wholly owned by the writer and not sold, optioned, produced or otherwise encumbered on the submission date. Previous PAGE winners are ineligible.",
+      "watch_out": "A long shot: one Grand Prize across all genres. Recommended feature length is 80-120 pages; PURPLE's 65 pages is under that range (only scripts over 135 pages are disqualified, and the rules say a few pages under will not disqualify), so length may count against it. Enter before principal photography and before any option. Fees are paid in US dollars. Adaptations of someone else's work are ineligible.",
+      "deadline": "Early 15 Jan 2027 (US$49); Regular 15 Feb 2027 ($59); Late 15 Mar 2027 ($69); Last Minute 15 Apr 2027 ($79); each at 11:59pm PT. Entries open 1 Dec 2026.",
+      "deadline_date": "2027-01-15",
+      "opens": "2026-12-01",
+      "url": "https://pageawards.com/",
+      "apply_url": "https://pageawards.com/the-contest/how-to-enter/",
+      "guidelines_url": "https://pageawards.com/the-contest/the-rules/",
+      "how_to_apply": "Enter online from 1 December 2026: upload the script as a PDF whose title page shows only the title, choose one genre category (Drama fits) and pay in US dollars. Entering by 15 January gets the lowest fee.",
+      "tips": "Judges see only the title and a number. Do not send synopses, casting suggestions, letters or résumés. A script sold, optioned or produced after entry stays eligible.",
+      "fee": "US$49 early, $59 regular, $69 late, $79 last minute (includes one genre category)",
+      "prize": "Grand Prize: US$25,000 cash, free tuition to a Nostos Screenwriting Retreat (Tuscany), InkTip Pro membership, Stage 32 promo package and 10 VPF pitches. Gold/Silver/Bronze genre winners: US$1,000/$500/$250 plus promotion. Winners are announced in a press release to 5,000+ agents, managers and producers.",
+      "phases": [
+        "development"
+      ],
+      "amount_max": 25000,
+      "questions": [
+        {
+          "q": "Screenplay (PDF), title page with the title only",
+          "limit": "Recommended 80-120 pages; over 135 pages disqualified",
+          "kit": "custom",
+          "hint": "PURPLE script with Matthew's name and contact details removed from every page. Do not attach a synopsis, résumé or letter."
+        },
+        {
+          "q": "Genre category",
+          "kit": "custom",
+          "hint": "Drama (family / road drama). One category is included in the fee."
+        }
+      ],
+      "evidence": [
+        "https://pageawards.com/the-contest/the-rules/",
+        "https://pageawards.com/the-contest/how-to-enter/",
+        "https://pageawards.com/the-contest/the-prizes/"
+      ]
+    },
+    {
+      "id": "reelworld-reelworld-emerging-20-e20-program-film-stream",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Reelworld Emerging 20 (E20) Program: Film stream",
+      "funder": "Reelworld",
+      "type": "Lab",
+      "region": "Canada",
+      "amount": "No cash; five months of story editing, pitch training and curated industry meetings",
+      "why_fit": "Built for Asian, Black, Indigenous and racialized Canadian writers with a finished feature draft, which is exactly PURPLE's writer-director and script, and it is open right now. Its curated industry meetings can produce the letters of interest that Telefilm, Ontario Creates and broadcasters ask for.",
+      "priorities": "Develops Indigenous, Black, Asian and racialized Canadian screenwriters through story editing, character and structure work, pitch development and industry access. Ten writers are selected for the Film stream.",
+      "eligibility": "Canadian citizen or permanent resident who is Indigenous (First Nations, Métis or Inuit), Black, Asian or a person of colour, with a completed Access Reelworld Profile. Film stream: a completed first draft of a feature script.",
+      "watch_out": "No cash prize, so it does not close the gap directly. Sessions run February to May 2027, remote, about 2-3 hours on Tuesdays and Thursdays, which overlaps prep for the May shoot; table reads and Face2Face are in August 2027. The page still labels files '2026E20', so confirm the cohort year with Reelworld.",
+      "deadline": "16 Dec 2026, 2:00pm ET (window opened 11 Nov 2026)",
+      "deadline_date": "2026-12-16",
+      "opens": "2026-11-11",
+      "url": "https://www.reelworld.ca/reelworld-e20-program",
+      "contact_email": "programming@reelworld.ca",
+      "contact_source": "https://www.reelworld.ca/reelworld-producer-program",
+      "how_to_apply": "Create or update an Access Reelworld Profile first, then submit the online E20 application with every item below before 2pm ET on 16 December 2026.",
+      "fee": "No application fee listed on the program page",
+      "prize": "One-on-one story editing; craft and pitch training; meetings with working screenwriters; curated industry meetings that can lead to letters of interest; ACTRA table read; E20 Face2Face industry mixer; pass to the Reelworld Film Festival+Summit",
+      "festival_dates": "Sessions February to May 2027; table reads and Face2Face in August 2027 (remote program)",
+      "phases": [
+        "development",
+        "pre-production"
+      ],
+      "questions": [
+        {
+          "q": "Access Reelworld Profile",
+          "kit": "custom",
+          "hint": "Create or update Matthew's Reelworld talent profile before starting the application."
+        },
+        {
+          "q": "High-resolution colour headshot, labelled 'First Name, Last Name-2026E20'",
+          "kit": "custom",
+          "hint": "Matthew's headshot, renamed as instructed."
+        },
+        {
+          "q": "Bio",
+          "limit": "50 words",
+          "kit": "bio"
+        },
+        {
+          "q": "Letter of intent",
+          "limit": "500 words",
+          "kit": "cover_letter"
+        },
+        {
+          "q": "Professional CV",
+          "kit": "previous_work"
+        },
+        {
+          "q": "One-minute video",
+          "limit": "1 minute",
+          "kit": "custom",
+          "hint": "Matthew on camera: who he is, PURPLE in one line, and why E20 now, before the 2027 shoot."
+        },
+        {
+          "q": "Writing sample",
+          "limit": "10-15 pages",
+          "kit": "custom",
+          "hint": "A 10-15 page excerpt of the PURPLE script, ideally a key father-son sequence."
+        },
+        {
+          "q": "Optional supporting documents (pitch deck, previous scripts)",
+          "kit": "custom",
+          "hint": "PURPLE pitch deck."
+        }
+      ],
+      "evidence": [
+        "https://www.reelworld.ca/reelworld-e20-program"
+      ]
+    },
+    {
+      "id": "reelworld-reelworld-producer-program",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Reelworld Producer Program",
+      "funder": "Reelworld",
+      "type": "Lab",
+      "region": "Canada",
+      "amount": "No cash; four-month producer training with broadcaster meetings and a pitch",
+      "why_fit": "If one of PURPLE's producers identifies as Black, Indigenous, Asian or a person of colour, this program trains them to package and pitch a project to broadcasters, and Bell Media's interest could become the broadcaster letter PURPLE does not have yet.",
+      "priorities": "Builds the business and pitching skills of racialized Canadian producers; each participant develops and pitches a project with the potential to move it into development.",
+      "eligibility": "Canadian citizen or permanent resident who is Indigenous, Black, Asian or a person of colour, with prior production experience. For producers, not for writers or directors developing their own creative work. No ready project is needed to apply.",
+      "watch_out": "It is for a producer, not for Matthew as writer-director, and needs a reference letter about producing skills. Sessions run March to June 2027 (remote, part-time, 2-3 hours a week), during prep and the first shoot block. No cash. The deadline year is inferred from the 10 Nov 2026 opening date on the page.",
+      "deadline": "18 Dec 2026, 2:00pm ET (opened 10 Nov 2026)",
+      "deadline_date": "2026-12-18",
+      "opens": "2026-11-10",
+      "url": "https://www.reelworld.ca/reelworld-producer-program",
+      "contact_email": "programming@reelworld.ca",
+      "contact_source": "https://www.reelworld.ca/reelworld-producer-program",
+      "how_to_apply": "The producer applies online with the materials below before 2pm ET on 18 December 2026.",
+      "fee": "No application fee listed on the program page",
+      "prize": "Pitch-material coaching and in-person pitches; priority access to industry markets; meetings with broadcaster and production-company executives (Bell Media takes an active interest in selected projects); pass to the 2027 Reelworld Film Festival+Summit",
+      "festival_dates": "Sessions March to June 2027; Reelworld Film Festival+Summit in October 2027",
+      "phases": [
+        "development"
+      ],
+      "questions": [
+        {
+          "q": "Proof of permanent resident or citizenship status",
+          "kit": "custom",
+          "hint": "Producer's status (eligibility check)."
+        },
+        {
+          "q": "High-resolution colour headshot, labelled 'First Name, Last Name- 2026PP'",
+          "kit": "custom",
+          "hint": "Producer's headshot, renamed as instructed."
+        },
+        {
+          "q": "Professional CV",
+          "kit": "team"
+        },
+        {
+          "q": "Bio",
+          "limit": "50 words",
+          "kit": "bio"
+        },
+        {
+          "q": "Letter of intent: what you want to achieve as a producer",
+          "limit": "500 words",
+          "kit": "cover_letter"
+        },
+        {
+          "q": "One-minute video: introduce yourself, why you want to join, your goals",
+          "limit": "1 minute",
+          "kit": "custom",
+          "hint": "Producer on camera; mention PURPLE as the project they are packaging."
+        },
+        {
+          "q": "Reference letter on your producing skills (with referee contact information)",
+          "kit": "custom",
+          "hint": "Ask someone who saw the producer's work, for example on Quiet Father."
+        },
+        {
+          "q": "Secondary reference (name, title, email, phone)",
+          "kit": "custom",
+          "hint": "A second referee's contact details."
+        }
+      ],
+      "evidence": [
+        "https://www.reelworld.ca/reelworld-producer-program"
+      ]
+    },
+    {
+      "id": "final-draft-final-draft-big-break-screenwriting-contest-2027",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Final Draft Big Break Screenwriting Contest 2027",
+      "funder": "Final Draft",
+      "type": "Screenplay competition",
+      "region": "USA",
+      "amount": "2026 prizes: Feature Grand Prize US$10,000; category winners US$1,000",
+      "currency": "USD",
+      "why_fit": "A well-known contest open to writers anywhere, with a US$10,000 feature Grand Prize; its early-bird window (late April in 2026) falls just before PURPLE's May 2027 shoot.",
+      "priorities": "Looks for new screenwriting talent across genre categories and offers paid written feedback.",
+      "eligibility": "Writers 18+ anywhere. Scripts under option at submission are ineligible; adaptations only of the entrant's own or public-domain material.",
+      "watch_out": "2027 dates and fees are not published yet. Feature scripts are expected at about 80-120 pages, so the 65-page script is short (only entries over 150 pages are disqualified). A script sold or optioned after entry is removed from judging, and the rules do not say what happens to a script that is produced, so enter early and confirm with Final Draft. Long odds.",
+      "deadline": "2027 dates not yet published. 2026 windows: Early Bird 27 Apr 2026, Regular 18 May, Final 8 Jun, Extended 29 Jun 2026, all at midnight PT.",
+      "deadline_estimate": "2027-04",
+      "reopens": "2026 contest closed 29 Jun 2026; Grand Prize winners announced 18 Dec 2026. The 2027 contest is expected to open in spring 2027 with an early-bird deadline around late April.",
+      "closed_reason": "2026 contest closed; 2027 call not yet published",
+      "url": "https://www.finaldraft.com/big-break-screenwriting-contest/",
+      "guidelines_url": "https://www.finaldraft.com/big-break-screenwriting-contest/#rules",
+      "how_to_apply": "Online entry with the script PDF and fee once the 2027 contest opens; choose the feedback option if useful.",
+      "fee": "2026 feature fees: US$45 early bird, $65 regular, $75 final, $85 extended ($115-$155 with feedback); 2027 fees not yet published",
+      "prize": "2026: two Grand Prize winners (Feature and TV) receive US$10,000 each; category winners US$1,000",
+      "notification": "2026 schedule: quarterfinalists 28 Aug, semifinalists 25 Sep, Top 10 16 Oct, category winners 20 Nov, Grand Prize winners 18 Dec",
+      "phases": [
+        "development"
+      ],
+      "amount_max": 10000,
+      "questions": [
+        {
+          "q": "Feature screenplay (PDF)",
+          "limit": "About 80-120 pages",
+          "kit": "custom",
+          "hint": "PURPLE script in standard format."
+        }
+      ],
+      "evidence": [
+        "https://www.finaldraft.com/big-break-screenwriting-contest/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "austin-film-festival-austin-film-festival-screenplay-competition-2027-drama-feat",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Austin Film Festival Screenplay Competition 2027 (Drama Feature)",
+      "funder": "Austin Film Festival",
+      "type": "Screenplay competition",
+      "region": "USA",
+      "amount": "Drama Feature winner: US$5,000 plus up to US$500 airfare and US$500 hotel reimbursement",
+      "currency": "USD",
+      "why_fit": "One of the most respected screenplay competitions, with a Drama Feature category (presented by the Writers Guild of America East) that suits PURPLE's family drama; even a second-round placement is noticed by producers.",
+      "priorities": "AFF says it values a great story above all else; scripts are read anonymously.",
+      "eligibility": "Writers who do not earn a living writing for film or TV and have no WGA writing credits. English-language scripts not optioned, under a shopping agreement or sold.",
+      "watch_out": "The 2026 rules say feature scripts 'must be approximately 90-120 pages', so the 65-page PURPLE is far under and may be marked down or refused; ask AFF before paying. Scripts must be in English, so Tagalog and French lines should carry English translations on the page. Categories can close early when full. 2027 dates are not published yet.",
+      "deadline": "2027 dates not yet published. 2026: Early Bird 27 Mar 2026 ($60), Regular 24 Apr ($70), Late 27 May 2026 ($90), 11:59pm CDT.",
+      "deadline_estimate": "2027-03",
+      "reopens": "2026 competition closed 27 May 2026; winners announced 31 Oct 2026. The 2027 call is expected to follow the same late-March / April / late-May pattern.",
+      "closed_reason": "2026 competition closed; 2027 call not yet published",
+      "url": "https://austinfilmfestival.com/about-aff-script-competitions/",
+      "guidelines_url": "https://austinfilmfestival.com/wp-content/uploads/2025/11/2026-SPLAY-COMPETITION-RULES.pdf",
+      "how_to_apply": "Submit online as a PDF under 5MB once the 2027 call opens; enter the Drama Feature category.",
+      "fee": "2026: US$60 early bird, $70 regular, $90 late",
+      "prize": "US$5,000 cash, airfare (up to $500) and hotel (up to $500) reimbursement, Bronze Typewriter Award; semifinalists and finalists are recognized at the AFF Writers Conference",
+      "festival_dates": "Late October, Austin Film Festival and Writers Conference",
+      "notification": "Mid-September first- and second-round letters (semifinalists called); finalists in early October; winners at the conference (31 Oct in 2026)",
+      "phases": [
+        "development"
+      ],
+      "amount_max": 5000,
+      "questions": [
+        {
+          "q": "Feature screenplay (PDF under 5MB, title only on the cover page)",
+          "limit": "Approximately 90-120 pages; 12pt Courier",
+          "kit": "custom",
+          "hint": "PURPLE script with no name or contact details anywhere in it."
+        }
+      ],
+      "evidence": [
+        "https://austinfilmfestival.com/about-aff-script-competitions/",
+        "https://austinfilmfestival.com/wp-content/uploads/2025/11/2026-SPLAY-COMPETITION-RULES.pdf"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "academy-of-motion-picture-arts-and-sciences-academy-nicholl-fellowships-in-scree",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Academy Nicholl Fellowships in Screenwriting",
+      "funder": "Academy of Motion Picture Arts and Sciences",
+      "type": "Fellowship",
+      "region": "USA",
+      "amount": "Up to five fellowships of US$35,000",
+      "currency": "USD",
+      "why_fit": "The most prestigious fellowship for amateur screenwriters worldwide; worth keeping in view for Matthew's next feature script.",
+      "priorities": "Rewards amateur screenwriters; since 2026-2027 entries reach Academy judges through partner organizations, including two public portals (the Black List and the Writers Guild Foundation) that each recommend their top 1%.",
+      "eligibility": "Amateur screenwriters; the 2024 rules capped lifetime film/TV writing earnings at US$25,000 and required features of 70-160 pages (suggested 80-125).",
+      "watch_out": "Poor fit for PURPLE: the next public window is around June-July 2027, when PURPLE is shooting, and the 2024 rules' 70-page minimum excludes a 65-page script. The 2026-2027 rules page could not be loaded, so current page limits, fees and earnings cap are not confirmed.",
+      "deadline": "Current cycle closed: Black List portal 8 Jun-6 Jul 2026, Writers Guild Foundation portal 22 Jun-20 Jul 2026 (or earlier if entry caps of 2,500 / 2,000 are reached). Fellows awarded spring 2027.",
+      "deadline_estimate": "2027-06",
+      "reopens": "Next public portals expected to open around June 2027 for the 2027-2028 cycle.",
+      "closed_reason": "2026-2027 public portals closed in July 2026",
+      "url": "https://www.oscars.org/nicholl",
+      "guidelines_url": "https://www.oscars.org/nicholl-fellowships-screenwriting-program-details",
+      "how_to_apply": "Enter through one of the partner portals (the Black List or the Writers Guild Foundation) during their summer windows.",
+      "prize": "Up to five US$35,000 fellowships awarded each spring",
+      "notification": "Fellows awarded in spring",
+      "phases": [
+        "development"
+      ],
+      "amount_max": 35000,
+      "evidence": [
+        "https://www.oscars.org/nicholl-fellowships-screenwriting-program-details",
+        "https://www.oscars.org/sites/oscars/files/2024_nicholl_rules.pdf"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "tiff-and-cbc-films-tiff-cbc-films-screenwriter-award",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "TIFF-CBC Films Screenwriter Award",
+      "funder": "TIFF and CBC Films",
+      "type": "Award",
+      "region": "Canada",
+      "amount": "$15,000 plus mentorship",
+      "currency": "CAD",
+      "why_fit": "A $15,000 Toronto-based award for Canadian feature screenwriters from equity-deserving communities; recent winners include Asian-Canadian writers (Lloyd Lee Choi in 2025, Yuqi Kang in 2026).",
+      "priorities": "Supports emerging Canadian screenwriters from equity-deserving communities and the development of new Canadian feature screenplays.",
+      "eligibility": "Canadian screenwriters from equity-deserving communities with a writer or director credit on a short or feature that screened at one of the award's recognized festivals. Past winners are ineligible.",
+      "watch_out": "Matthew needs a writer or director credit on a film that played a recognized festival; an assistant-director credit on Quiet Father does not count. The 2027 call could not be confirmed because tiff.net blocks automated reading. The 2026 award was announced at TIFF's market in September 2026, so a 2027 award would come after PURPLE has shot; check whether a script already in production qualifies.",
+      "deadline": "2027 call not confirmed. The 2026 winner was announced at TIFF in September 2026.",
+      "reopens": "Watch tiff.net/industry-cbc-award in early 2027 for the next call.",
+      "closed_reason": "No open call found",
+      "url": "https://tiff.net/industry-cbc-award",
+      "prize": "$15,000 and mentorship opportunities to help produce the film",
+      "phases": [
+        "development"
+      ],
+      "amount_max": 15000,
+      "evidence": [
+        "https://en.wikipedia.org/wiki/TIFF-CBC_Films_Screenwriter_Award",
+        "https://mediacentre.cbc.ca/announcement/5530/lloyd-lee-choi-is-the-winner-of-the-2025-tiff-cbc-films-screenwriter-award"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "tiff-tiff-directors-lab-formerly-tiff-filmmaker-lab",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "TIFF Directors' Lab (formerly TIFF Filmmaker Lab)",
+      "funder": "TIFF",
+      "type": "Lab",
+      "region": "Canada",
+      "amount": "Five-day talent program with business meetings during TIFF; no cash published",
+      "why_fit": "A five-day competitive lab during TIFF that now focuses on directors making their feature debut and takes Canadian and international emerging directors; Matthew is a Toronto first-time feature director.",
+      "priorities": "Supports creators embarking on their directorial debuts, with programme attendance and business meetings at TIFF's market in September.",
+      "eligibility": "Canadian and international emerging directors preparing a debut feature.",
+      "watch_out": "tiff.net could not be loaded, so 2027 rules and dates are not confirmed. In the 2026 cycle TIFF's market pages gave 13 April 2026 as the Directors' and Writers' Labs deadline (another TIFF page said 20 May). A September 2027 lab would come after PURPLE has shot, so ask TIFF whether a debut in post-production qualifies.",
+      "deadline": "2027 dates not published. 2026 cycle: applications opened February 2026 and closed 13 April 2026 (TIFF: The Market key dates).",
+      "deadline_estimate": "2027-04",
+      "reopens": "2026 applications closed in April 2026; the 2027 call is expected to open around February 2027.",
+      "closed_reason": "2026 applications closed",
+      "url": "https://tiff.net/industry-filmmaker-lab",
+      "festival_dates": "Five days during TIFF in September",
+      "phases": [
+        "development"
+      ],
+      "evidence": [
+        "https://www.tiff.net/themarket/programming/labs-learning",
+        "https://www.tiff.net/themarket"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "viff-institute-for-the-moving-image-viff-works-in-progress",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "VIFF Works-in-Progress",
+      "funder": "VIFF (Institute for the Moving Image)",
+      "type": "Market",
+      "region": "Canada",
+      "amount": "No published cash prize; showcase to buyers and programmers, with possible post-production support and gap financing",
+      "why_fit": "Four of eight slots go to Canadian features in editing or post, which is where PURPLE will be in summer and fall 2027; it puts a rough cut in front of sales agents, distributors and festival programmers just before the 2028 festival season.",
+      "priorities": "Connects features in editing or post-production with co-producers, programmers, sales agents and distributors.",
+      "eligibility": "Feature-length (60+ minutes) fiction, non-fiction or animation in editing or post-production; 4 Canadian and 4 international projects.",
+      "watch_out": "Needs a 10-minute rough-cut excerpt by the deadline (13 July in 2026), so the team would need to assemble Ottawa, Montreal and early Alberta footage fast. Attendance in Vancouver in early October is required; travel support is not published. The 2027 call is not announced yet.",
+      "deadline": "2027 call not yet announced. 2026: closed 13 Jul 2026, 12:00pm PT; participants notified mid-August; presentations 5-6 Oct 2026.",
+      "deadline_estimate": "2027-07",
+      "reopens": "2026 applications closed 13 Jul 2026; the 2027 call is expected in early summer 2027.",
+      "closed_reason": "2026 call closed; 2027 call not yet announced",
+      "url": "https://viff.org/institute/wip/",
+      "how_to_apply": "Online application with a secure viewing link to the rough cut or assembly.",
+      "prize": "Live pitch and rough-cut excerpt screening for sales agents, distributors, festival programmers and financiers, then feedback sessions with invited experts",
+      "festival_dates": "During VIFF in early October (5-6 Oct in 2026)",
+      "notification": "Mid-August (2026 pattern)",
+      "phases": [
+        "post-production"
+      ],
+      "questions": [
+        {
+          "q": "Secure viewing link to the rough cut or assembly (10-minute excerpt is screened)",
+          "kit": "custom",
+          "hint": "Password-protected Vimeo link to a 10-minute PURPLE assembly from the Canadian shoot."
+        },
+        {
+          "q": "Synopses",
+          "kit": "synopsis_short"
+        },
+        {
+          "q": "Director's statement",
+          "kit": "statement"
+        },
+        {
+          "q": "Producer's statement",
+          "kit": "custom",
+          "hint": "Johnson Luong on where the film stands, what post still needs and the plan for release."
+        },
+        {
+          "q": "Technical details",
+          "kit": "custom",
+          "hint": "Running time, format, languages (English, Tagalog, French), completion date (February 2028)."
+        }
+      ],
+      "evidence": [
+        "https://viff.org/institute/wip/",
+        "https://viff.org/institute/wip/viff-2026/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "telefilm-canada-and-first-cut-lab-first-cut-lab-canada",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "First Cut Lab Canada",
+      "funder": "Telefilm Canada and First Cut Lab",
+      "type": "Lab",
+      "region": "Canada",
+      "amount": "Two-day online editing consultancy with three international advisers and a consultant editor; no cash",
+      "why_fit": "An online rough-cut consultancy whose November-to-March window matches PURPLE's edit (September 2027 to February 2028), aimed at improving a film's festival and sales chances.",
+      "priorities": "Strengthens Canadian features artistically and boosts their sales, festival and circulation potential; two teams are selected.",
+      "eligibility": "Narrative features financed in production or post by Telefilm's Canadian Feature Film Fund or Talent to Watch Program, with a Canadian screenwriter and director, at least 75 minutes long, not yet screened publicly.",
+      "watch_out": "Only for Telefilm-financed films, so PURPLE would need Talent to Watch or other Telefilm money first. The 75-minute minimum may exclude PURPLE if it runs 65-75 minutes. The 2027 edition closed 15 Sep 2026; the next call is expected in September 2027.",
+      "deadline": "Next edition expected to close in September 2027 (2027 edition closed 15 Sep 2026).",
+      "deadline_estimate": "2027-09",
+      "reopens": "Telefilm posts the call each summer with a mid-September deadline.",
+      "closed_reason": "2027 edition closed 15 Sep 2026",
+      "url": "https://telefilm.ca/en/appel-inscription/first-cut-lab-canada-2027",
+      "contact_email": "Julie.marnay@firstcutlab.eu",
+      "contact_source": "https://telefilm.ca/en/appel-inscription/first-cut-lab-canada-2027",
+      "how_to_apply": "Submit through the 'SUBMIT HERE' link on firstcutlab.eu, copying Telefilm. Projects still shooting at the deadline should apply anyway and agree a later date for the video.",
+      "prize": "Private rough-cut screenings with three international industry advisers and a consultant editor, then a written report and editing roadmap",
+      "phases": [
+        "post-production"
+      ],
+      "questions": [
+        {
+          "q": "Application form (in English)",
+          "kit": "custom",
+          "hint": "Project, team and preferred lab dates."
+        },
+        {
+          "q": "Video of at least 30 minutes with English subtitles (selected scenes, first assembly or rough cut) on a password-protected streaming link",
+          "limit": "30 minutes minimum",
+          "kit": "custom",
+          "hint": "Vimeo link to the PURPLE assembly with English subtitles for Tagalog and French."
+        }
+      ],
+      "evidence": [
+        "https://telefilm.ca/en/appel-inscription/first-cut-lab-canada-2027",
+        "https://firstcutlab.eu/project/first-cut-lab-canada-2027/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "chilliwack-independent-film-festival-pitch-sessions-telefilm-talent-to-watch-nom",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Pitch Sessions (Telefilm Talent to Watch nomination)",
+      "funder": "Chilliwack Independent Film Festival",
+      "type": "Pitch competition",
+      "region": "Canada",
+      "amount": "$2,500 cash plus nomination to Telefilm's Talent to Watch program (up to $250,000)",
+      "currency": "CAD",
+      "why_fit": "One of the few pitch competitions open to first-feature teams from anywhere in Canada, and the winner becomes the festival's nominee for Telefilm Talent to Watch.",
+      "priorities": "Helps emerging Canadian teams get a first feature made and learn to pitch it, following Telefilm's Talent to Watch criteria without exceptions.",
+      "eligibility": "A team with producer, director and screenwriter (director and writer can be the same person), all Canadian citizens or permanent residents, each with short, web, TV or similar credits and none having held the same key role on a feature before. A completed script is strongly recommended.",
+      "watch_out": "Timing does not fit this shoot: the 2026 round closed and its winner applies to Telefilm in April 2027. The next round would close around May 2027 and lead to the 2028 Talent to Watch window, after PURPLE has shot. Finalists must be in Chilliwack, BC, for three days in late October at their own travel cost.",
+      "deadline": "2026 round closed: regular 3 May 2026, late 26 Jul 2026. The next round is expected to follow the same pattern.",
+      "deadline_estimate": "2027-05",
+      "reopens": "2026 submissions closed 26 Jul 2026 (pitch 24 Oct 2026); the next round is expected to open in spring 2027.",
+      "closed_reason": "2026 round closed",
+      "url": "https://www.ciff.ca/attend/pitch-sessions",
+      "apply_url": "https://form.jotform.com/260595261703255",
+      "fee": "2026: CA$44.99 regular, $69.99 late",
+      "prize": "Winner: $2,500 by e-transfer and the festival's Telefilm Talent to Watch nomination. Ten finalist teams: three nights' hotel, two festival passes, a virtual and an in-person pitch session and a mentor.",
+      "festival_dates": "Late October in Chilliwack, BC (23-25 Oct 2026)",
+      "notification": "2026 round: finalists announced 7 Sep; pitch 24 Oct; winner announced at closing awards 25 Oct",
+      "phases": [
+        "development"
+      ],
+      "amount_max": 2500,
+      "questions": [
+        {
+          "q": "Logline",
+          "limit": "500 characters",
+          "kit": "logline"
+        },
+        {
+          "q": "Synopsis",
+          "limit": "2,000 characters",
+          "kit": "synopsis_short"
+        },
+        {
+          "q": "Do you have a completed feature script? (Yes/No)",
+          "kit": "custom",
+          "hint": "Yes: 65-page shooting draft."
+        },
+        {
+          "q": "Introduction / pitch video: you, the project and why it should be made",
+          "limit": "2 minutes",
+          "kit": "custom",
+          "hint": "Matthew and Johnson on camera pitching PURPLE."
+        },
+        {
+          "q": "Link to previous qualifying work",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Optional pitch deck or director's vision (PDF)",
+          "kit": "statement"
+        }
+      ],
+      "evidence": [
+        "https://www.ciff.ca/attend/pitch-sessions",
+        "https://form.jotform.com/260595261703255"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "busan-international-film-festival-asian-contents-film-market-asian-project-marke",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Asian Project Market (APM)",
+      "funder": "Busan International Film Festival (Asian Contents & Film Market)",
+      "type": "Market",
+      "region": "International",
+      "amount": "APM Awards for selected projects (11 awards in 2026; amounts not published in the guideline), plus travel and hotel",
+      "why_fit": "Asia's leading co-production market accepts Asian feature fiction at any stage, including production and post, as long as it is not finished before the October market; PURPLE (Filipino-Canadian director, Tagalog dialogue, Philippine shoot) could pitch there in October 2027 for finishing money and sales interest.",
+      "priorities": "Connects Asian feature projects with international co-producers, financiers and sales agents; about 30 projects are selected.",
+      "eligibility": "Asian feature-length fiction project at any stage, not fully financed and not completed before the market; director with at least one short or feature; producer with at least one produced or co-produced feature; applicant holds the rights.",
+      "watch_out": "The producer must already have a feature credit, which PURPLE's producers may not have. The guideline does not define 'Asian' or say whether diaspora projects count, so ask APM before applying. The director's previous work must have been released or screened, with English subtitles. In-person attendance in Busan for four days.",
+      "deadline": "2027 call not yet published. 2026: 20 Apr 2026, 10:00 to 18 May 2026, 23:59 KST; market 10-13 Oct 2026.",
+      "deadline_estimate": "2027-05",
+      "reopens": "2026 submissions closed 18 May 2026 (2025 closed 12 May); the 2027 call is expected to open in April 2027.",
+      "closed_reason": "2026 submissions closed",
+      "url": "https://apm.biff.kr/",
+      "guidelines_url": "https://apm.biff.kr/eng/addon/10000001/page.asp?page_num=8714",
+      "how_to_apply": "Online submission in English during the April-May window.",
+      "fee": "No application fee mentioned in the 2026 guideline",
+      "prize": "Selected projects: official invitation, two market badges, economy return flight for one, five nights' hotel for two, one-on-one meetings, an official pitch session and automatic nomination for the APM Awards",
+      "festival_dates": "October, during BIFF's Asian Contents & Film Market (10-13 Oct in 2026)",
+      "notification": "2026 official selections announced 8 Aug 2026 (by email only)",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "questions": [
+        {
+          "q": "Logline",
+          "limit": "300 characters",
+          "kit": "logline"
+        },
+        {
+          "q": "Synopsis",
+          "limit": "1,000 characters",
+          "kit": "synopsis_short"
+        },
+        {
+          "q": "Director's statement",
+          "limit": "1,000 characters",
+          "kit": "statement"
+        },
+        {
+          "q": "Producer's statement and financial plan",
+          "limit": "1,000 characters",
+          "kit": "funding_plan"
+        },
+        {
+          "q": "Director's profile and filmography",
+          "limit": "1,500 characters",
+          "kit": "bio"
+        },
+        {
+          "q": "Producer's profile and filmography",
+          "kit": "team"
+        },
+        {
+          "q": "Production company profile and production schedule",
+          "kit": "schedule"
+        },
+        {
+          "q": "Treatment (prose summary of the script, PDF, 11pt)",
+          "limit": "5-10 pages",
+          "kit": "synopsis_long"
+        },
+        {
+          "q": "Director's previous work (up to 3 films, released and screened, English subtitles)",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Project information (title, completion date, language, running time, country, format, genre, status, budget plan)",
+          "kit": "budget"
+        }
+      ],
+      "evidence": [
+        "https://apm.biff.kr/eng/addon/10000001/page.asp?page_num=8714",
+        "https://apm.biff.kr/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "hong-kong-international-film-festival-society-haf-haf-work-in-progress-projects",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "HAF Work-in-Progress Projects (for HAF 2028)",
+      "funder": "Hong Kong International Film Festival Society (HAF)",
+      "type": "Market",
+      "region": "International",
+      "amount": "Meetings with post-production funds, sales agents and festival programmers; HAF cash and in-kind awards (amounts not on the criteria page)",
+      "why_fit": "HAF's work-in-progress track is built for features in production or post that need finishing money and sales, and PURPLE will be in post when the next call closes (December 2027); the March 2028 market sits right after PURPLE's planned first screening.",
+      "priorities": "Connects producers and directors of features in later production with post-production funds, sales agents and festival programmers; looks for artistic and commercial quality with Asian and/or international market potential.",
+      "eligibility": "Full-length (60+ minutes) live-action or animated film in production or post-production, with director, producer and production company attached and a proposed budget. Priority to projects from HAF, HCG or Operation Greenlight.",
+      "watch_out": "Needs a production company attached, and PURPLE has none yet. Requires a video clip (about 10 minutes) and the full script. The call open now (2 Nov-16 Dec 2026, for HAF in March 2027) is too early for PURPLE, which will have no footage; aim for the next one.",
+      "deadline": "Next call expected around November-December 2027 for HAF in March 2028. Current call: 2 Nov-16 Dec 2026, 23:59 HKT, for HAF 15-17 Mar 2027.",
+      "deadline_estimate": "2027-12",
+      "reopens": "The current WIP call closes 16 Dec 2026 (for March 2027); the next is expected to open in early November 2027.",
+      "closed_reason": "No open call yet for HAF 2028",
+      "url": "https://industry.hkiff.org.hk/haf/introduction",
+      "guidelines_url": "https://industry.hkiff.org.hk/en/haf/wip/eligibility-and-selection-criteria",
+      "how_to_apply": "Online project submission form plus the materials below and the fee; incomplete submissions are not processed.",
+      "fee": "Required and non-refundable; amount not published on the criteria page",
+      "festival_dates": "March, alongside Hong Kong FILMART (15-17 Mar 2027 for the current edition)",
+      "notification": "Selected projects are notified individually in early January",
+      "phases": [
+        "post-production"
+      ],
+      "questions": [
+        {
+          "q": "One-sentence synopsis",
+          "limit": "30 words",
+          "kit": "logline"
+        },
+        {
+          "q": "Synopsis",
+          "limit": "100 words",
+          "kit": "synopsis_short"
+        },
+        {
+          "q": "Director's statement",
+          "limit": "100 words",
+          "kit": "statement"
+        },
+        {
+          "q": "Director's biography and filmography",
+          "limit": "100 words",
+          "kit": "bio"
+        },
+        {
+          "q": "Producer's biography and filmography",
+          "limit": "100 words",
+          "kit": "team"
+        },
+        {
+          "q": "Production company profile",
+          "limit": "100 words",
+          "kit": "custom",
+          "hint": "Profile of the company that holds PURPLE (one must be set up first)."
+        },
+        {
+          "q": "Budget plan (HKIFFS live-action template)",
+          "kit": "budget"
+        },
+        {
+          "q": "Video clip (about 10 minutes) on a streaming platform, up to three links",
+          "kit": "custom",
+          "hint": "Scenes from the PURPLE cut, links valid until the end of March."
+        },
+        {
+          "q": "Full script (electronic)",
+          "kit": "custom",
+          "hint": "PURPLE shooting script."
+        }
+      ],
+      "evidence": [
+        "https://industry.hkiff.org.hk/en/haf/wip/eligibility-and-selection-criteria",
+        "https://industry.hkiff.org.hk/haf/introduction"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "qcinema-international-film-festival-qcinema-project-market-qpm",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "QCinema Project Market (QPM)",
+      "funder": "QCinema International Film Festival",
+      "type": "Market",
+      "region": "Philippines",
+      "amount": "2025: over PHP 18 million in awards; Quezon City Best Project PHP 1,000,000; Filipino Project 1st PHP 500,000; post-production, colour, sound and equipment grants",
+      "currency": "PHP",
+      "why_fit": "QCinema's market has a dedicated Filipino-project category and hands out post-production, colour and sound grants that match PURPLE's Philippine shoot and post needs.",
+      "priorities": "Supports emerging and established Filipino and Southeast Asian feature filmmakers with production, post-production, development and marketing grants; about 20 projects are selected from about 70 submissions.",
+      "eligibility": "Feature projects by Filipino and Southeast Asian filmmakers (exact rules not confirmed).",
+      "watch_out": "The official call pages could not be read (qcinema.ph blocks automated access), so call dates, fees, stage rules and whether diaspora directors qualify are unconfirmed. Pitches happen in Quezon City in November, so someone must travel. A Philippine co-producer would likely help.",
+      "deadline": "Call dates not confirmed. Selections have been announced in mid-October, with the market in November during QCinema (19-22 Nov 2025).",
+      "reopens": "Check qcinema.ph in mid-2027 for the QPM 2027 call.",
+      "closed_reason": "No open call found",
+      "url": "https://qcinema.ph/",
+      "prize": "2025 major awards: Quezon City Best Project PHP 1,000,000; Southeast Asian and Filipino Project prizes PHP 500,000 and 300,000; Discovery Award PHP 500,000; Best Pitch PHP 100,000. Partner awards included post-production services (Mocha Chai up to about US$50,000; Narra PHP 500,000 each), colour grading, sound and music grants and equipment packages.",
+      "festival_dates": "November, during the QCinema International Film Festival in Quezon City (festival 13-22 Nov 2026)",
+      "phases": [
+        "development",
+        "post-production"
+      ],
+      "amount_max": 1000000,
+      "evidence": [
+        "https://www.lionheartv.net/2025/11/qcinema-project-market-2025-awards-over-php-20-million-approx-usd-340000-as-quezon-city-joins-unesco-creative-cities-of-film",
+        "https://www.lionheartv.net/2023/10/qcinema-project-market-announces-selected-projects",
+        "https://tribune.net.ph/2026/10/23/qcinema-2026-meet-the-competing-films"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "tiffcom-unijapan-tokyo-gap-financing-market-tgfm",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Tokyo Gap-Financing Market (TGFM)",
+      "funder": "TIFFCOM (UNIJAPAN)",
+      "type": "Market",
+      "region": "International",
+      "amount": "Pitch and one-on-one meetings with financiers; awards announced at the market (amounts not published)",
+      "why_fit": "A gap-financing market for features with Asian elements; projects can be shooting or completed and there is no budget minimum, so PURPLE could pitch for its last post money in October 2027.",
+      "priorities": "Helps feature projects from Asia, or international projects with prominent Asian elements, close the last part of their financing.",
+      "eligibility": "Fiction or animated features over 70 minutes with prominent Asian elements (Asian personnel, settings, production activity or source material); at least 60% of the budget financed with documented proof; a co-production track record; a newcomer director needs at least one released or sold short.",
+      "watch_out": "PURPLE has about 34% of its budget in hand and would need 60% documented. The film must run over 70 minutes. Financing contracts must be translated into English. 2027 application dates are not published.",
+      "deadline": "2027 application dates not published (2026 selection announced 9 Sep 2026; market 28-30 Oct 2026).",
+      "reopens": "Ask tgfm@unijapan.org for the 2027 call dates.",
+      "closed_reason": "2026 edition closed",
+      "url": "https://tgfm.tiffcom.jp/en/",
+      "guidelines_url": "https://tgfm.tiffcom.jp/en/faq/",
+      "contact_email": "tgfm@unijapan.org",
+      "contact_source": "https://tgfm.tiffcom.jp/en/",
+      "fee": "No fee to apply",
+      "festival_dates": "Late October during TIFFCOM, Tokyo (28-30 Oct 2026)",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "questions": [
+        {
+          "q": "Financing plan",
+          "kit": "funding_plan"
+        },
+        {
+          "q": "English translations of contracts or deal memos showing confirmed financing",
+          "kit": "custom",
+          "hint": "Proof of the money in hand (at least 60% of budget)."
+        },
+        {
+          "q": "Director's CV",
+          "kit": "bio"
+        },
+        {
+          "q": "Cast wish list (if cast not contracted)",
+          "kit": "custom",
+          "hint": "PURPLE cast list."
+        },
+        {
+          "q": "Optional video presentation or look book",
+          "kit": "custom",
+          "hint": "Clips from the PURPLE cut."
+        }
+      ],
+      "evidence": [
+        "https://tgfm.tiffcom.jp/en/",
+        "https://tgfm.tiffcom.jp/en/faq/",
+        "https://www.gamebusiness.jp/article/2026/09/11/28001.html"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "tokyo-metropolitan-government-arts-council-tokyo-and-talents-tokyo-organizing-co",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Talents Tokyo",
+      "funder": "Tokyo Metropolitan Government, Arts Council Tokyo and Talents Tokyo Organizing Committee",
+      "type": "Lab",
+      "region": "International",
+      "amount": "Six-day program in Tokyo (lectures, project development, networking); alumni can apply to the Next Masters Support Program grants",
+      "why_fit": "The Asian counterpart of Berlinale Talents, for up to 17 emerging directors and producers from East and Southeast Asia who develop and present a feature project; a Filipino director's door into Asian co-production networks.",
+      "priorities": "Develops a new generation of East and Southeast Asian directors and producers with expert lectures, project development and networking, in cooperation with Berlinale Talents.",
+      "eligibility": "Aspiring directors and producers from East and Southeast Asia (the 2025 rules admitted people from the region regardless of where they live); application in English.",
+      "watch_out": "Eligibility rests on being 'from' East or Southeast Asia; whether a Canadian-born Filipino-Canadian qualifies is not confirmed, so ask before applying. The program develops a feature project, so by November 2027 it suits Matthew's next film more than PURPLE.",
+      "deadline": "2026 call ran 1 May (12:00 JST) to 31 May 2026 (23:59 JST). 2027 call expected in May 2027.",
+      "deadline_estimate": "2027-05",
+      "reopens": "2026 applications closed 31 May 2026; the 2027 call is expected to run through May 2027.",
+      "closed_reason": "2026 applications closed",
+      "url": "https://talents-tokyo.jp",
+      "contact_email": "talents@talents-tokyo.jp",
+      "contact_source": "https://www.artscouncil-tokyo.jp/sys/wp-content/uploads/2026/04/2026_press_talents-tokyo_260430_en.pdf",
+      "festival_dates": "Late November in Tokyo (23-29 Nov 2026)",
+      "notification": "Selection June to August",
+      "phases": [
+        "development"
+      ],
+      "evidence": [
+        "https://www.artscouncil-tokyo.jp/sys/wp-content/uploads/2026/04/2026_press_talents-tokyo_260430_en.pdf",
+        "https://www.artscouncil-tokyo.jp/en/news/2570/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "film-development-council-of-the-philippines-fdcp-isapelikula-the-fdcp-film-fund",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "ISAPELIKULA: The FDCP Film Fund & Labs",
+      "funder": "Film Development Council of the Philippines (FDCP)",
+      "type": "Lab",
+      "region": "Philippines",
+      "amount": "Incubation lab, then FDCP match funding of up to PHP 10 million against a producer's investment",
+      "currency": "PHP",
+      "why_fit": "FDCP's lab and match fund for Filipino feature filmmakers accepts English-language features and Filipinos living abroad, and its match funding is large.",
+      "priorities": "Supports emerging Filipino filmmakers through incubation (script development and pitching), match funding and distribution support.",
+      "eligibility": "Filipino citizens 18+ with a Philippine passport, registered in FDCP's National Registry for Audiovisual Workers (NRAW), who have written or co-written at least one feature and hold the project's rights; project directed by a Filipino citizen; English or a Filipino language with English subtitles; not completed or in production.",
+      "watch_out": "Matthew would need Philippine citizenship (passport), NRAW registration and a previous feature writing credit. Projects already in production are ineligible, so it only works if a call opens and closes before May 2027; no date is announced. Online and onsite workshops are mandatory.",
+      "deadline": "No call date announced; FDCP says the submission date will be posted on its online platforms.",
+      "reopens": "Watch fdcp.ph for the next ISAPELIKULA call.",
+      "closed_reason": "No open call",
+      "url": "https://fdcp.ph/isapelikula",
+      "contact_email": "education@fdcp.gov.ph",
+      "contact_source": "https://fdcp.ph/isapelikula",
+      "how_to_apply": "One online Google Form with all documents together; materials sent separately are not considered.",
+      "phases": [
+        "development",
+        "production"
+      ],
+      "amount_max": 10000000,
+      "questions": [
+        {
+          "q": "Storyline",
+          "limit": "5 pages, Courier New 12pt, single-spaced",
+          "kit": "synopsis_long"
+        },
+        {
+          "q": "Sequence treatment (if available)",
+          "kit": "custom",
+          "hint": "Scene-by-scene outline of PURPLE."
+        },
+        {
+          "q": "Resume and filmography with proof of credits",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Producer details (if applicable)",
+          "kit": "team"
+        },
+        {
+          "q": "Writer's statement or motivation letter",
+          "kit": "statement"
+        },
+        {
+          "q": "NRAW registration, Philippine passport and secondary ID, notarized proof of IP ownership",
+          "kit": "custom",
+          "hint": "Eligibility documents."
+        }
+      ],
+      "evidence": [
+        "https://fdcp.ph/isapelikula",
+        "https://www.fdcp.ph/programs/special-programs"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "berlin-international-film-festival-berlinale-talents",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Berlinale Talents",
+      "funder": "Berlin International Film Festival",
+      "type": "Lab",
+      "region": "International",
+      "amount": "Six-day talent summit during the Berlinale; no participation fee and no cash",
+      "why_fit": "The best-known talent summit in the world; the 2028 call (expected July to September 2027) arrives while PURPLE is in post, so Matthew could apply with a work sample from the film itself.",
+      "priorities": "Workshops and networking for emerging film professionals who already have a track record; no age limit and no country or field quota.",
+      "eligibility": "Professionals with at least one feature, two shorts, or a drama series or TV movie screened at festivals or widely streamed, in the applicant's main field.",
+      "watch_out": "Matthew needs a feature or two festival-screened shorts as director; an assistant-director credit does not count, and PURPLE will not have screened by September 2027. Travel and lodging in Berlin are self-funded. The 2027 edition closed 2 Sep 2026.",
+      "deadline": "2028 edition expected to open early July 2027 and close early September 2027 (2027 edition closed 2 Sep 2026, 12:00 noon CEST; early-bird fee until 19 Aug 2026).",
+      "deadline_estimate": "2027-09",
+      "reopens": "Applications usually open in early July and close in early September.",
+      "closed_reason": "2027 edition closed 2 Sep 2026",
+      "url": "https://www.berlinale-talents.de/bt/page/c/faq",
+      "fee": "Service fee €15 (€10 early bird); optional €5 contribution",
+      "festival_dates": "During the Berlinale in February (12-17 Feb 2027)",
+      "notification": "Mid-December",
+      "phases": [
+        "development",
+        "post-production"
+      ],
+      "questions": [
+        {
+          "q": "Work sample (no trailers or showreels)",
+          "limit": "About 3 minutes, no more than two scenes",
+          "kit": "custom",
+          "hint": "One or two PURPLE scenes with English subtitles."
+        },
+        {
+          "q": "Filmography (finished films and projects in development with a key role)",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Milestones (education, companies, social projects)",
+          "kit": "bio"
+        }
+      ],
+      "evidence": [
+        "https://www.berlinale-talents.de/bt/page/c/faq",
+        "https://telefilm.ca/en/appel-inscription/berlinale-talents-2027"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "sundance-institute-sundance-institute-feature-film-program-development-track-202",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Sundance Institute Feature Film Program: Development Track (2028 cohort)",
+      "funder": "Sundance Institute",
+      "type": "Lab",
+      "region": "USA",
+      "amount": "No program fees; travel, lodging and food covered for up to two people per project at the Utah labs; alumni grants and fellowships",
+      "why_fit": "One application covers the Screenwriters Lab, the Screenwriters Intensive and the Sloan grant for first or second fiction features, and international writer-directors are accepted when a director is attached.",
+      "priorities": "Supports independent fiction filmmakers from development through distribution; the Screenwriters Lab always includes international projects, and the Intensive focuses on underrepresented first-time writers.",
+      "eligibility": "Screenwriters, directors, writer-directors or teams on a first or second fiction feature with a complete screenplay draft; international projects must have a director attached.",
+      "watch_out": "The window closes weeks before PURPLE shoots and the labs (January 2028) come after the film is shot, so it only makes sense if the shoot moves or for Matthew's next script. If a lab project is produced, Sundance asks a budget-based contribution ($0 under US$1.5M).",
+      "deadline": "30 Mar-20 Apr 2027 for the 2028 cohort (closing time not stated)",
+      "deadline_date": "2027-04-20",
+      "opens": "2027-03-30",
+      "url": "https://www.sundance.org/programs/feature-film/",
+      "apply_url": "https://www.sundance.org/deadlines",
+      "how_to_apply": "Online application: screenplay excerpts in round one, full script for those invited to round two.",
+      "fee": "US$40 application fee listed on the program page (may be outdated)",
+      "festival_dates": "January Screenwriters Lab in Sundance, Utah (15-20 Jan in 2027); Screenwriters Intensive online in March",
+      "phases": [
+        "development"
+      ],
+      "questions": [
+        {
+          "q": "Screenplay excerpt (round one)",
+          "kit": "custom",
+          "hint": "Strongest pages of the PURPLE script."
+        },
+        {
+          "q": "Full screenplay (round two, if invited)",
+          "kit": "custom",
+          "hint": "Complete PURPLE draft."
+        }
+      ],
+      "evidence": [
+        "https://www.sundance.org/deadlines",
+        "https://www.sundance.org/programs/feature-film/"
+      ]
+    },
+    {
+      "id": "toronto-international-film-festival-tiff-tiff-2028-canadian-features-world-premi",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "TIFF 2028: Canadian features (world premiere target)",
+      "funder": "Toronto International Film Festival (TIFF)",
+      "type": "Festival",
+      "region": "Toronto",
+      "amount": "Best Canadian Feature Film Award C$10,000; Best Canadian Discovery Award C$10,000 (first or second Canadian feature)",
+      "currency": "CAD",
+      "why_fit": "The most valuable launch for a Toronto first feature: Canadian press, buyers and Telefilm all watch TIFF, and the Best Canadian Discovery Award is reserved for first and second features. In 2026 Serville Poblete's Sunburn, a Filipino-Canadian Toronto indie, won TIFF's Best Canadian Feature Film award.",
+      "priorities": "TIFF programmes world, international and North American premieres; it may accept a film with only a Canadian premiere, but premiere status is weighed in final programming decisions.",
+      "eligibility": "Features of 60+ minutes completed in the year before the festival (2026 edition: on or after 4 Sept 2025); not released in North America in theatres, on TV, streaming, DVD/Blu-ray or VOD; never submitted to TIFF before. Non-English films need English subtitles; English-language films need English closed captions. FilmFreeway only.",
+      "watch_out": "Premiere status decides this one. A public screening in early January 2028 in Toronto would use up PURPLE's world premiere and, because it is in Canada, its Canadian premiere too, which in practice rules out TIFF 2028. Keep the January screening private (invite-only cast, crew, funders and family; no tickets, no public listing, no press or reviews, no festival) and confirm with TIFF's submissions team before it happens. A film can be submitted to TIFF only once, so do not send an early rough cut. 2026 to 2028 fees could not be confirmed (tiff.net blocks automated reading).",
+      "deadline": "Not yet published for 2028. 2026 cycle: opened 27 Feb 2026; early-bird 27 Mar 2026; standard 8 May 2026, 11:59pm ET, via FilmFreeway.",
+      "deadline_estimate": "2028-05",
+      "reopens": "The 2026 call closed 8 May 2026; the 2027 call is expected around late February 2027. For TIFF 2028 (PURPLE's target) expect the call to open in late February 2028, early-bird in late March and the standard deadline in early May 2028.",
+      "closed_reason": "2026 call closed 8 May 2026; 2027 call not yet open.",
+      "url": "https://tiff.net/submissions",
+      "apply_url": "https://filmfreeway.com/TIFF",
+      "how_to_apply": "When the 2028 call opens (around late February 2028), submit a secure screener link on FilmFreeway, ideally by the early-bird deadline. Send the most finished cut you have: TIFF takes one submission per film.",
+      "tips": "TIFF notifies in mid-August, after the spring deadlines of VIFF, Calgary, Edmonton, FNC, Reel Asian, VAFF and Reelworld, so submit to those in parallel as fallbacks. Telefilm's International Promotion Program recognizes TIFF selections for promotion support.",
+      "fee": "2025 cycle (as reported from TIFF's listing): Canadian feature C$155 at the standard deadline for general submitters, C$131.75 for TIFF industry members; early-bird is lower. 2026 to 2028 fees not confirmed.",
+      "prize": "Best Canadian Feature Film C$10,000; Best Canadian Discovery C$10,000 (first or second feature by a Canadian); FIPRESCI prize for a debut feature in Discovery; People's Choice Awards (no cash stated).",
+      "festival_dates": "2026: 10 to 20 September (51st edition). 2028 expected in early to mid September 2028; dates not announced.",
+      "premiere": "World, international or North American premiere required at submission; a Canadian premiere is accepted only at TIFF's discretion. No prior North American theatrical, TV, streaming or VOD release.",
+      "notification": "2026 edition: 14 August 2026.",
+      "phases": [
+        "distribution"
+      ],
+      "amount_max": 10000,
+      "evidence": [
+        "https://asianfilmfestivals.com/2026/03/03/toronto-international-film-festival-call-for-entry-2026/",
+        "https://www.insauga.com/here-are-the-major-award-winners-at-tiff-2026/",
+        "https://nowtoronto.com/culture/tiff-2026-la-bola-negra-peoples-choice-award/",
+        "https://playbackonline.ca/2025/09/15/uiksaringitara-wrong-husband-wins-best-canadian-feature-at-tiff/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "vancouver-international-film-festival-viff-viff-2028-canadian-feature-submission",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "VIFF 2028: Canadian feature submissions",
+      "funder": "Vancouver International Film Festival (VIFF)",
+      "type": "Festival",
+      "region": "Canada",
+      "amount": "Juried awards for Canadian films (amounts not confirmed); VIFF pays a screening fee to every film selected through open submissions",
+      "why_fit": "Canada's second big fall festival takes many Canadian first features, pays a screening fee to selected films, and only asks that PURPLE has not screened in the Vancouver area, so it pairs with a TIFF premiere or works as the launch if TIFF says no.",
+      "priorities": "VIFF prioritizes films debuting in the festival year. Canadian submissions need a Canadian director (citizen or permanent resident) and Canada as a production country or 51% or more Canadian financing.",
+      "eligibility": "Features over 40 minutes completed after 1 June of the previous year (2026 edition: after 1 June 2025); not broadcast, not on VOD or home video, not screened at another festival or in theatres in the Vancouver area.",
+      "watch_out": "A January 2028 screening in Toronto does not break VIFF's rule (only Vancouver-area screenings count), and a January 2028 debut is still a 2028 debut. Do not screen in Vancouver before VIFF (for example at VAFF), and note that VIFF uses up the BC premiere that Whistler's Borsos Competition needs. Rough cuts are accepted but VIFF previews only one version. No fee waivers. VIFF pages show two different 2026 fee scales (US$45/50/55 in the Canadian FAQ, US$55/65/75 elsewhere): check FilmFreeway.",
+      "deadline": "Not yet published for 2028. 2026 cycle (Canadian FAQ): opened 20 Jan 2026; early 17 Apr, regular 15 May, late 5 Jun 2026, via FilmFreeway (time not stated).",
+      "deadline_estimate": "2028-06",
+      "reopens": "2026 call closed 5 June 2026. For VIFF 2028 expect the call to open in January 2028 with early, regular and late deadlines in mid April, mid May and early June 2028.",
+      "closed_reason": "2026 call closed 5 June 2026; 2027 call expected January 2027.",
+      "url": "https://viff.org/festival/submissions/",
+      "apply_url": "https://filmfreeway.com/Viff",
+      "guidelines_url": "https://viff.org/festival/submissions/canadian-submissions-faq/",
+      "how_to_apply": "Submit on FilmFreeway once the January 2028 call opens. For a rough cut, add a title card showing its state and give the expected completion date in the cover letter.",
+      "tips": "VIFF strongly recommends submitting the most finished version possible and cannot preview multiple versions. Enter at the early deadline (mid April) to save fees.",
+      "fee": "2026 Canadian features: US$45 early, US$50 regular, US$55 late (Canadian FAQ). Non-refundable; no waivers.",
+      "prize": "Juried awards including Canadian categories (2026 list confirmed in early summer; amounts not found). Screening fee for every film selected through submissions.",
+      "festival_dates": "2026: 1 to 11 October. 2028 expected late September to mid October.",
+      "premiere": "No world premiere required. Features must not have screened at another festival or theatrically in the Vancouver area, or been broadcast or released on VOD/home video.",
+      "notification": "2026: by email no later than 26 August 2026.",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "questions": [
+        {
+          "q": "Cover letter (for a rough cut: current state and expected completion date; any use of generative AI; changes if resubmitting)",
+          "kit": "cover_letter"
+        }
+      ],
+      "evidence": [
+        "https://viff.org/festival/submissions/canadian-submissions-faq/",
+        "https://asianfilmfestivals.com/2026/01/21/vancouver-international-film-festival-call-for-entry-2026/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "festival-du-nouveau-cinema-de-montreal-festival-du-nouveau-cinema-fnc-2028-featu",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Festival du nouveau cinéma (FNC) 2028: feature submissions",
+      "funder": "Festival du nouveau cinéma de Montréal",
+      "type": "Festival",
+      "region": "Quebec",
+      "amount": "National competition awards (amounts not confirmed in this run)",
+      "why_fit": "PURPLE's Montreal chapter and French dialogue make a Quebec premiere at FNC a natural stop; FNC is Montreal's main auteur festival and runs a national competition for Canadian films.",
+      "priorities": "FNC champions new and independent cinema and requires a Quebec premiere for feature films.",
+      "eligibility": "Features over 59 minutes produced after 1 January of the previous year (2026 edition: after 1 Jan 2025); not previously submitted; not already available online across Canada; non-French or English films need French or English subtitles. FilmFreeway only.",
+      "watch_out": "A Toronto screening in January 2028 does not affect a Quebec premiere, but any public screening in Quebec (for example a thank-you screening for Montreal locations) or a Canada-wide online release would. Fees and prize amounts are on FilmFreeway, which could not be read in this run.",
+      "deadline": "Not yet published for 2028. 2026 cycle: films accepted until 14 May 2026 via FilmFreeway.",
+      "deadline_estimate": "2028-05",
+      "reopens": "2026 call closed 14 May 2026. For FNC 2028 expect a spring 2028 call closing around mid May 2028.",
+      "closed_reason": "2026 call closed 14 May 2026.",
+      "url": "https://nouveaucinema.ca/en/submissions",
+      "apply_url": "https://filmfreeway.com/NouveauCinema",
+      "how_to_apply": "Submit on FilmFreeway during the spring 2028 call.",
+      "fee": "Charged on FilmFreeway; 2026 amounts not confirmed.",
+      "prize": "National and international competition awards; amounts not confirmed.",
+      "festival_dates": "2026: 7 to 18 October (55th edition). 2028 expected in October.",
+      "premiere": "Quebec premiere required for features; films already available online across Canada are not eligible.",
+      "notification": "2026: 9 September 2026.",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://asianfilmfestivals.com/2026/02/28/montreal-festival-du-nouveau-cinema-call-for-entry-2026/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "whistler-film-festival-society-whistler-film-festival-2028-borsos-competition-fo",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Whistler Film Festival 2028: Borsos Competition for Best Canadian Feature",
+      "funder": "Whistler Film Festival Society",
+      "type": "Festival",
+      "region": "Canada",
+      "amount": "Borsos Best Canadian Feature: C$15,000 cash (DGC BC) plus a C$20,000 production prize (Company 3)",
+      "currency": "CAD",
+      "why_fit": "Every Canadian feature with BC premiere status is automatically in the Borsos Competition, one of the richest Canadian feature prizes, and Whistler regularly programmes first features; PURPLE's Banff, Lake Louise and Jasper scenes also suit its Mountain Culture awards.",
+      "priorities": "Whistler presents about 30 features and 60 shorts a year from Canada and abroad, with a strong Canadian focus and industry connections through its Content Summit.",
+      "eligibility": "Canadian and international films of all lengths and genres. Borsos Competition: all Canadian feature films with BC premiere status.",
+      "watch_out": "Needs a BC premiere: screening at VIFF (October) or VAFF (November) first removes PURPLE from the Borsos Competition, so choose between them. A Toronto screening in January 2028 does not affect BC premiere status. Closing dates and fees are only on FilmFreeway, which could not be read in this run, so the deadline estimate below is not verified.",
+      "deadline": "Not yet published. WFF26 submissions opened 1 March 2026 and are now closed; WFF27 submissions open in March 2027.",
+      "deadline_estimate": "2028-07",
+      "reopens": "WFF27 opens March 2027. For WFF28 (December 2028) expect a window opening in March 2028 and closing in summer 2028; confirm the exact dates on FilmFreeway or the WFF newsletter.",
+      "closed_reason": "WFF26 submissions closed; WFF27 opens March 2027.",
+      "url": "https://www.whistlerfilmfestival.com/film-festival/submissions",
+      "apply_url": "https://filmfreeway.com/WhistlerFilmFestival",
+      "guidelines_url": "https://www.whistlerfilmfestival.com/film-festival/awards-and-juries",
+      "how_to_apply": "Subscribe to the WFF newsletter for dates, then submit on FilmFreeway when the March 2028 window opens.",
+      "tips": "Whistler's Power Pitch (a C$36,000 package including a C$25,000 Company 3 post-production credit) is on hold; watch for its return. The Best Canadian Feature production prize is in-kind from Company 3.",
+      "fee": "On FilmFreeway; amounts not confirmed in this run.",
+      "prize": "Borsos: Best Canadian Feature C$15,000 cash + C$20,000 Company 3 production prize; Best Director, Best Screenplay, Best Performance; Best Cinematography (C$4,500 Nikon package); Best Editing (C$1,000, IATSE 891). Also Audience Award, Mountain Culture Awards, Haebler Award (women and non-binary directors, C$3,500 for a feature).",
+      "festival_dates": "2026: 2 to 6 December (WFF26). 2028 expected in early December.",
+      "premiere": "BC premiere required for the Borsos Competition (no earlier screening in British Columbia).",
+      "phases": [
+        "distribution"
+      ],
+      "amount_max": 15000,
+      "evidence": [
+        "https://www.whistlerfilmfestival.com/film-festival/awards-and-juries",
+        "https://www.whistlerfilmfestival.com/film-festival/faqs"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "calgary-international-film-festival-calgary-international-film-festival-ciff-202",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Calgary International Film Festival (CIFF) 2028",
+      "funder": "Calgary International Film Festival",
+      "type": "Festival",
+      "region": "Alberta",
+      "amount": "Canadian Narrative Feature Award C$2,500 (juried)",
+      "currency": "CAD",
+      "why_fit": "PURPLE's Rockies chapter is shot in Alberta (Banff, Lake Louise, Jasper), giving it a local angle in Calgary, and CIFF runs a juried award for Canadian narrative features.",
+      "priorities": "A curated international festival that requires at least a Calgary premiere for features.",
+      "eligibility": "Features over 40 minutes; not exhibited before 1 June of the year before the festival (2026 edition: 1 June 2025); not previously submitted, in any form including rough cuts; English subtitles for non-English films. FilmFreeway only.",
+      "watch_out": "Calgary premiere required, and CIFF counts cast-and-crew screenings in Calgary as public screenings: do not hold an Alberta crew screening in Calgary. A Toronto screening in January 2028 is fine. A film submitted once, even as a rough cut, cannot be resubmitted. The FilmFreeway rules mention fee waivers for Alberta productions; ask whether PURPLE's Alberta shoot qualifies.",
+      "deadline": "Not yet published for 2028. 2026 cycle closed 4 June 2026 (FilmFreeway).",
+      "deadline_estimate": "2028-06",
+      "reopens": "2026 call closed 4 June 2026. Expect the 2028 call in spring 2028 with a final deadline in early June 2028.",
+      "closed_reason": "2026 call closed 4 June 2026.",
+      "url": "https://www.ciffcalgary.ca/submissions/",
+      "apply_url": "https://filmfreeway.com/CalgaryInternationalFilmFestival",
+      "contact_email": "programming@ciffcalgary.ca",
+      "contact_source": "https://www.ciffcalgary.ca/submissions/",
+      "how_to_apply": "Submit once on FilmFreeway with the finished film during the spring 2028 call; ask programming about an Alberta-production waiver first.",
+      "fee": "Tiered on FilmFreeway; amounts not confirmed in this run. Waivers mentioned for festival alumni and Alberta productions.",
+      "prize": "Canadian Narrative Feature Award C$2,500 (juried), plus audience awards.",
+      "festival_dates": "2026: 24 September to 4 October (27th edition). 2028 expected late September.",
+      "premiere": "At least a Calgary premiere: no earlier public screening in Calgary, including local festivals, broadcasts and cast-and-crew screenings.",
+      "notification": "2026: 20 August 2026.",
+      "phases": [
+        "distribution"
+      ],
+      "amount_max": 2500,
+      "evidence": [
+        "https://asianfilmfestivals.com/2025/12/29/calgary-international-film-festival-call-for-entry-2026/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "cinefest-sudbury-cinefest-sudbury-international-film-festival-2028",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Cinéfest Sudbury International Film Festival 2028",
+      "funder": "Cinéfest Sudbury",
+      "type": "Festival",
+      "region": "Ontario",
+      "amount": "Cash awards including the Outstanding Canadian Feature Film Award and the Inspiring Voices and Perspectives Feature Film Award (amounts not published)",
+      "why_fit": "A respected Ontario festival with a Canadian feature award, an award for inspiring voices and perspectives, and a French-language feature prize; a good Ontario stop after a fall premiere for an English, French and Tagalog film.",
+      "priorities": "Canadian and international features; Canadian status is set by the festival's points system.",
+      "eligibility": "Canadian and international films; Canadian status per the festival's points system. Submit on FilmFreeway.",
+      "watch_out": "Premiere rules are not published on the FAQ; a Toronto screening in January 2028 is unlikely to matter for Sudbury, but confirm. Award cash amounts are not published and may change. Deadlines for the 2027 call were not yet posted, so the 2028 timing is not known.",
+      "deadline": "Not yet published. Submissions for the 39th edition (September 2027) open on FilmFreeway on 1 December 2026; deadlines not yet posted.",
+      "reopens": "The 2027 call opens 1 Dec 2026. For the 2028 (40th) edition expect the call to open around 1 December 2027 with deadlines in the first half of 2028.",
+      "url": "https://cinefest.com/2022/faq",
+      "apply_url": "https://filmfreeway.com/cinefestsudbury",
+      "how_to_apply": "Submit on FilmFreeway when the call for the 2028 edition opens (expected December 2027).",
+      "fee": "2025 cycle (third-party listing): narrative features of 70 to 180 minutes C$40 early, C$45 regular, C$90 late. Confirm on FilmFreeway.",
+      "prize": "2026 categories: Outstanding Canadian Feature Film, Outstanding International Feature Film, Meilleur long métrage de langue française, Outstanding Female-Led Feature, Inspiring Voices and Perspectives Feature, Audience Choice awards (cash amounts not published).",
+      "festival_dates": "2027: 18 to 26 September at SilverCity Sudbury (39th edition). 2026 ran 19 to 27 September.",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://festagent.com/en/festivals/cinefestsudbury"
+      ]
+    },
+    {
+      "id": "kingston-canadian-film-festival-kingston-canadian-film-festival-kcff-features",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Kingston Canadian Film Festival (KCFF): features",
+      "funder": "Kingston Canadian Film Festival",
+      "type": "Festival",
+      "region": "Ontario",
+      "amount": "Playback Prize for Best Canadian Film; Visual Menace Best First Feature Award (amounts not published)",
+      "why_fit": "An all-Canadian festival with a Best First Feature award, two hours from Toronto and Ottawa; it accepts a working copy and prefers premieres at any level, so PURPLE could play there in early 2028 or early 2029.",
+      "priorities": "New Canadian films by Canadian filmmakers, selected on quality and form; premieres (international, national, provincial, regional or local) are preferred.",
+      "eligibility": "Canadian films by Canadian filmmakers (citizens, permanent residents, newcomers, anyone living and working in Canada, Canadians abroad); features 70+ minutes; new releases not previously submitted; English or English subtitles.",
+      "watch_out": "KCFF28 (around late February 2028) would fall right after the January 2028 screening and before TIFF: a public screening there would end TIFF 2028 eligibility. The safer target under a TIFF-first plan is KCFF29 (around late February 2029, deadline around mid-November 2028). Fee is a 'nominal' FilmFreeway charge; amounts not shown.",
+      "deadline": "KCFF27 deadline was 15 November 2026. Next: KCFF28 deadline expected around mid-November 2027 (working copy allowed); KCFF29 around mid-November 2028.",
+      "deadline_estimate": "2027-11",
+      "reopens": "The KCFF27 call closed 15 Nov 2026. KCFF opens each call in late spring; expect KCFF28 to open in late spring 2027 and close around mid-November 2027.",
+      "closed_reason": "KCFF27 deadline passed on 15 November 2026.",
+      "url": "https://kingcanfilmfest.com/submit/",
+      "apply_url": "https://filmfreeway.com/KingstonCanadianFilmFestival",
+      "contact_email": "info@kingcanfilmfest.com",
+      "contact_source": "https://kingcanfilmfest.com/submit/",
+      "how_to_apply": "Submit on FilmFreeway; to send a working copy, email KCFF first for details.",
+      "fee": "Nominal FilmFreeway fee (amount not shown); proceeds fund KCFF workshops.",
+      "prize": "Playback Prize for Best Canadian Film; Visual Menace Best First Feature Award (2026 awards; cash amounts not published).",
+      "festival_dates": "KCFF27: 24 to 28 February 2027; KCFF26 ran 25 February to 1 March 2026, Kingston, Ontario.",
+      "premiere": "Premieres of any level are preferred but not required.",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "evidence": [
+        "https://kingcanfilmfest.com/2026/01/28/awards/",
+        "https://kingcanfilmfest.com/submissions-closed/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "toronto-reel-asian-international-film-festival-toronto-reel-asian-international",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Toronto Reel Asian International Film Festival 2028",
+      "funder": "Toronto Reel Asian International Film Festival",
+      "type": "Festival",
+      "region": "Toronto",
+      "amount": "Small cash awards: RBC Best Canadian Feature (C$2,000 in 2023), Osler Best Feature (C$1,500 in 2020), Best First Feature (C$1,000 in 2020)",
+      "currency": "CAD",
+      "why_fit": "Canada's largest pan-Asian festival, in PURPLE's home city, with Best Canadian Feature and Best First Feature awards; Filipino-Canadian stories are central to its audience, and the Canadian debut Akashi won its Best First Feature award in 2025.",
+      "priorities": "Works by Asian-identifying artists in a major creative role, behind the camera or on screen, from Canada, the US, Asia and elsewhere; works completed in the current or previous year are prioritized.",
+      "eligibility": "Works by Asian-identifying artists in a key creative role; all genres; completed in the previous or current year (prioritized); resubmissions need significant edits. FilmFreeway only.",
+      "watch_out": "No premiere rule is published, but as a Toronto festival Reel Asian values a Toronto premiere, which a public January 2028 screening in Toronto would weaken. Under a TIFF-first plan, Reel Asian in November 2028 still works as PURPLE's Asian-Canadian community showcase. Award amounts on the site date from 2020; current amounts not confirmed.",
+      "deadline": "Not yet published for 2028. 2026 cycle: opened 13 Mar 2026; early 16 Mar (free), regular 18 May, final 2 Jun 2026, via FilmFreeway.",
+      "deadline_estimate": "2028-06",
+      "reopens": "2026 call closed 2 June 2026. For the November 2028 festival expect a call opening in mid-March 2028 (with a short free early window) and a final deadline in early June 2028.",
+      "closed_reason": "2026 call closed 2 June 2026.",
+      "url": "https://www.reelasian.com/submissions/",
+      "apply_url": "https://filmfreeway.com/reelasian",
+      "contact_email": "submissions@reelasian.com",
+      "contact_source": "https://www.reelasian.com/submissions/",
+      "how_to_apply": "Sign up for the Reel Asian newsletter for dates and submit on FilmFreeway, ideally in the free early window in mid-March 2028.",
+      "tips": "The free early window lasts only a few days. Reel Asian's Reel Ideas Pitch! and industry programs are a way to meet the programmers before the film is done.",
+      "fee": "2026: early deadline free; regular US$25; final US$50 per feature. Reel Asian Alumni Network members get 50% off.",
+      "prize": "RBC Best Canadian Feature Film Award; Osler Best Feature; Best First Feature; documentary and short awards (C$1,000 to C$2,000 range in recent years).",
+      "festival_dates": "2026: in person 11 to 21 November, online 16 to 29 November (30th edition). 2028 expected in November.",
+      "premiere": "No premiere rule published; recent work prioritized.",
+      "notification": "2026: 8 October 2026.",
+      "phases": [
+        "distribution"
+      ],
+      "amount_max": 2000,
+      "evidence": [
+        "https://www.reelasian.com/awards/",
+        "https://playbackonline.ca/2025/11/06/montreal-my-beautiful-wins-best-canadian-film-prize-at-reel-asian/",
+        "https://asianfilmfestivals.com/2026/03/13/toronto-reel-asian-international-film-festival-call-for-entry-2026/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "vancouver-asian-film-festival-society-vancouver-asian-film-festival-vaff-2028",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Vancouver Asian Film Festival (VAFF) 2028",
+      "funder": "Vancouver Asian Film Festival Society",
+      "type": "Festival",
+      "region": "Canada",
+      "amount": "Prize fund of at least C$6,500, including C$5,000 for the Canadian feature awards",
+      "currency": "CAD",
+      "why_fit": "VAFF's juried awards are only for Canadian films with an Asian key creative and an Asian lead actor, which PURPLE has; there is no premiere rule, it pays screening fees to Canadian directors, and it screens online across Canada.",
+      "priorities": "VAFF helps North American Asian filmmakers and actors define and express themselves on screen, showcasing Asian diaspora and Asian-Canadian work.",
+      "eligibility": "Narrative films with at least one Asian or part-Asian key creative (director, writer, producer or cinematographer) and one Asian lead actor; English or English subtitles; completed after 31 May two years before the festival (2026: after 31 May 2024); not self-distributed online; not previously submitted.",
+      "watch_out": "For the juried awards the film must be independently produced without majority funding from institutions (public or federal bodies, film schools, broadcasters): if Telefilm, the Canada Council or arts councils pay most of PURPLE's budget, it may lose award eligibility. A Vancouver screening uses up the BC premiere that Whistler's Borsos Competition needs. The January 2028 Toronto screening does not matter for VAFF. The full marketing package must be uploaded with the entry or it is disqualified without refund.",
+      "deadline": "Not yet published for 2028. 2026 cycle: 19 Feb to 22 May 2026; early bird 15 Mar, regular 15 Apr, last chance 22 May 2026, all 11:59pm PST.",
+      "deadline_estimate": "2028-05",
+      "reopens": "2026 open call closed 22 May 2026. Expect the 2028 call to open in mid-February 2028 and close in late May 2028.",
+      "closed_reason": "2026 open call closed 22 May 2026.",
+      "url": "https://vaff.org/open-call/",
+      "apply_url": "https://filmfreeway.com/vaff",
+      "guidelines_url": "https://vaff.org/wp-content/uploads/2026/02/VAFF-2026-Open-Call-Guidelines_Final.docx.pdf",
+      "contact_email": "submissions@vaff.org",
+      "contact_source": "https://vaff.org/wp-content/uploads/2026/02/VAFF-2026-Open-Call-Guidelines_Final.docx.pdf",
+      "how_to_apply": "Submit on FilmFreeway (free on the opening day for Canadian features), upload the full marketing package with the entry, and explain eligibility in the cover letter.",
+      "tips": "Submit on the free opening day. VAFF also pays artist fees to independent Asian-Canadian artists from public funding.",
+      "fee": "2026: features US$40 early bird, US$50 regular, US$75 last chance; free for Canadian features on the opening day only (19 Feb 2026). No waivers.",
+      "prize": "Juried Canadian awards: Best Canadian Feature (presented by Telefilm), Best Director for Canadian Feature (DGC BC), Best Cinematography and Best Editing for Canadian Feature, paid from a C$5,000 feature pool; audience People's Choice awards.",
+      "festival_dates": "2026: 5 to 15 November, Vancouver and online across Canada (30th edition). 2028 expected in November.",
+      "premiere": "No premiere requirement published. Films self-distributed online are ineligible; award films must not have been broadcast or released theatrically.",
+      "phases": [
+        "distribution"
+      ],
+      "amount_max": 5000,
+      "questions": [
+        {
+          "q": "Cover letter or submission notes: how the work meets eligibility (Asian key creative and Asian lead actor)",
+          "kit": "cover_letter"
+        },
+        {
+          "q": "Logline",
+          "kit": "logline"
+        },
+        {
+          "q": "Film synopsis",
+          "limit": "100 words",
+          "kit": "synopsis_short"
+        },
+        {
+          "q": "Director bios and headshots",
+          "kit": "bio"
+        },
+        {
+          "q": "Trailer and press materials",
+          "limit": "Trailer 30 seconds to 1 minute (MP4 and a public YouTube link)",
+          "kit": "custom",
+          "hint": "Cut a 30 to 60 second trailer; also upload stills (no text, CMYK, 4:3, 300 dpi), a poster, cast and crew list, press clips, awards list, website and social links."
+        }
+      ],
+      "evidence": [
+        "https://asianfilmfestivals.com/2026/02/19/vancouver-asian-film-festival-call-for-entry-2026/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "sine-institute-sine-film-fest-filipino-cinema-at-tiff-lightbox",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Siné Film Fest (Filipino cinema at TIFF Lightbox)",
+      "funder": "Siné Institute",
+      "type": "Festival",
+      "region": "Toronto",
+      "amount": "Screening showcase; no prizes published",
+      "why_fit": "Canada's festival dedicated to Filipino cinema, held at TIFF Lightbox by a Toronto non-profit for second- and third-generation Filipino-Canadian storytellers: PURPLE's exact community and audience.",
+      "priorities": "Siné Institute calls itself the home for the next generation of Filipino storytellers; the festival shows Filipino features and shorts, new voices and legends, with an industry conference.",
+      "eligibility": "Filipino and Filipino-Canadian features and shorts; formal submission rules are not published (calls go out on Instagram first).",
+      "watch_out": "A spring 2028 Siné screening in Toronto would be PURPLE's Toronto and likely world premiere and would rule out TIFF 2028; Siné in spring 2029, after a fall premiere, is the safer timing. Another option is to ask Siné to co-host the private January 2028 community preview, kept invite-only. No published rules, fees or premiere policy.",
+      "deadline": "No call published. Siné says festival submissions are announced first on Instagram (@sineinstitute).",
+      "reopens": "Siné Film Fest 2027 (4th edition) runs in April 2027 at TIFF Lightbox; 2026 ran 5 to 8 March. Watch @sineinstitute for the 2028 and 2029 calls.",
+      "closed_reason": "No open call; the next call will be announced on Instagram.",
+      "url": "https://sineinstitute.com/",
+      "apply_url": "https://www.instagram.com/sineinstitute/",
+      "contact_email": "info@sineinstitute.com",
+      "contact_source": "https://sineinstitute.com/",
+      "how_to_apply": "Follow @sineinstitute for the call; email info@sineinstitute.com to introduce PURPLE and ask about timing and premiere expectations.",
+      "tips": "Build the relationship early: the Siné 48-Hour Film Challenge (6 to 7 March 2027) and the industry conference (March 2027) are ways to meet the organizers before PURPLE is finished.",
+      "festival_dates": "2026: 5 to 8 March at TIFF Lightbox (3rd edition); 2027: April 2027 at TIFF Lightbox (three days).",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://mytfc.com/community/sine-film-fest-returns-march-5-8-at-tiff-lightbox-with-curated-lineup-and-industry-conference",
+        "https://usa.inquirer.net/137767/sine-institute-toronto-filipino-film"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "reelworld-screen-institute-reelworld-film-festival-2028",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Reelworld Film Festival 2028",
+      "funder": "Reelworld Screen Institute",
+      "type": "Festival",
+      "region": "Toronto",
+      "amount": "Juried awards: Outstanding Feature Film and feature Director, Writer, Producer, Actor, Actress and Cinematographer awards; Audience Choice (cash not published)",
+      "why_fit": "A Toronto festival for films directed by Black, Indigenous and racialized Canadian filmmakers; PURPLE fits its mandate exactly, and its feature acting awards could spotlight the 11-year-old lead and the father.",
+      "priorities": "Reelworld spotlights the boldest racialized Canadian voices, with a summit and a digital day focused on industry careers.",
+      "eligibility": "Films directed by Black, Indigenous and/or People of Colour Canadian filmmakers; captions required for all submissions. Submit on FilmFreeway.",
+      "watch_out": "Feature acting, directing and writing awards are only for premiere-qualifying films; a public Toronto screening in January 2028 or an earlier Toronto premiere could cost that status (the exact premiere level could not be confirmed because FilmFreeway was not readable). The 2026 deadlines below come from a third-party listing and are not verified.",
+      "deadline": "Not yet published for 2028. 2026 cycle (third-party listing, unverified): early 23 Feb, standard 7 Apr, late 28 May 2026, via FilmFreeway.",
+      "deadline_estimate": "2028-05",
+      "reopens": "Expect a call from about February to late May 2028 for the October 2028 festival; confirm on Reelworld's FilmFreeway page.",
+      "url": "https://www.reelworld.ca/reelworld-film-festival-summit",
+      "apply_url": "https://filmfreeway.com/reelworld",
+      "how_to_apply": "Submit on FilmFreeway with captions during the spring 2028 call.",
+      "tips": "Reelworld also runs producer and E20 programs for racialized creators, useful for PURPLE's producers.",
+      "fee": "Not confirmed (a third-party listing showed free deadlines in 2026).",
+      "prize": "Outstanding Feature Film; Outstanding Feature Film Director, Writer, Producer, Actor, Actress and Cinematographer; Audience Choice Award (cash not published).",
+      "festival_dates": "2026: Summit 20 to 21 October; Festival 22 to 25 October at Scotiabank Theatre Toronto; Digital Day 26 October.",
+      "premiere": "Premiere-qualifying films in competition can be considered for feature acting, directing and writing awards (level not confirmed).",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://www.reelworld.ca/2026-reelworld-film-festival-awards",
+        "https://festagent.com/ru/festivals/reelworld_fest"
+      ]
+    },
+    {
+      "id": "edmonton-international-film-festival-society-edmonton-international-film-festiva",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Edmonton International Film Festival (EIFF) 2028",
+      "funder": "Edmonton International Film Festival Society",
+      "type": "Festival",
+      "region": "Alberta",
+      "amount": "Juried Best Dramatic Feature (cash not published)",
+      "why_fit": "PURPLE is partly shot in Alberta, so it can use EIFF's discounted Alberta-filmmaker rate by explaining its Alberta connection (the page names films shot in Alberta), and EIFF only needs an Edmonton premiere.",
+      "priorities": "Diverse international cinema shown in theatres; films produced within 20 months of the festival, selected on story, quality and originality.",
+      "eligibility": "Features of 60+ minutes produced within 20 months of the festival; Edmonton premiere; online submissions via FilmFreeway.",
+      "watch_out": "Must be an Edmonton premiere: a Toronto screening in January 2028 is fine, but avoid an Edmonton or Jasper community screening first. The 2026 fee table lists dramatic-feature fees oddly ($50, $40, $65 by deadline) and does not state the currency.",
+      "deadline": "Not yet published for 2028. 2026 edition: earlybird 1 Feb, regular 15 Apr, late 1 May 2026, via FilmFreeway. Submissions for 2027 open in November 2026.",
+      "deadline_estimate": "2028-05",
+      "reopens": "EIFF takes submissions from November to May each year; for the 2028 festival expect deadlines of about 1 Feb, 15 Apr and 1 May 2028.",
+      "url": "https://edmontonfilmfest.com/submit-your-film/",
+      "apply_url": "https://filmfreeway.com/EdmontonInternationalFilmFestival",
+      "how_to_apply": "Submit on FilmFreeway; in the cover letter, explain PURPLE's Alberta connection to get the Alberta-filmmaker fee.",
+      "fee": "2026: dramatic feature $40 to $65 by deadline; Alberta filmmakers (all lengths) $15, $25, $40; full waiver for EIFF alumni of the past five years.",
+      "prize": "Juried Best Dramatic Feature and Best Documentary Feature; short film awards (Oscar-qualifying for shorts).",
+      "festival_dates": "2026: 24 September to 3 October (40th edition). 2028 expected late September.",
+      "premiere": "Edmonton premiere required.",
+      "notification": "1 August (2026 edition), by email through FilmFreeway.",
+      "phases": [
+        "distribution"
+      ],
+      "questions": [
+        {
+          "q": "Cover letter: your Alberta mailing address, or explain your Alberta roots ('Alberta-ness')",
+          "kit": "custom",
+          "hint": "Explain that PURPLE shot its Rockies chapter in Alberta in July 2027 (Banff, Lake Louise, Jasper Dark Sky Preserve)."
+        }
+      ],
+      "evidence": [
+        "https://edmontonfilmfest.com/awards/"
+      ]
+    },
+    {
+      "id": "atlantic-film-festival-association-fin-fin-atlantic-international-film-festival",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "FIN Atlantic International Film Festival 2028",
+      "funder": "Atlantic Film Festival Association (FIN)",
+      "type": "Festival",
+      "region": "Canada",
+      "amount": "Awards for Atlantic Canadian films and creators only",
+      "why_fit": "A well-attended September festival in Halifax that screens Canadian features; useful only as an extra Canadian screening after PURPLE's premiere.",
+      "eligibility": "Feature submissions via FilmFreeway; award categories are for Atlantic Canadian films, performers and creators.",
+      "watch_out": "PURPLE has no Atlantic connection, so it would screen outside the awards. Premiere rules are not stated on the page; a January 2028 Toronto screening is unlikely to matter, but its September dates clash with TIFF, so it only works the year after a premiere elsewhere or as an Atlantic premiere in the same season.",
+      "deadline": "Not yet published for 2028. 2026 cycle: opened 12 Jan 2026; earlybird 20 Mar, regular 1 May, late 5 Jun, final 12 Jun 2026.",
+      "deadline_estimate": "2028-06",
+      "reopens": "2026 call closed 12 June 2026. Expect the 2028 call to open in January 2028 and close in early to mid June 2028.",
+      "closed_reason": "2026 call closed 12 June 2026.",
+      "url": "https://atlanticfilmfestival.ca/submissions/",
+      "contact_email": "submissions@atlanticfilm.ca",
+      "contact_source": "https://atlanticfilmfestival.ca/submissions/",
+      "how_to_apply": "Submit on FilmFreeway during the January to June call.",
+      "fee": "On FilmFreeway (amounts not stated on the page); alumni get 50% off.",
+      "prize": "Atlantic-only awards such as the Gordon Parsons Award for Best Atlantic Feature.",
+      "festival_dates": "2026: 16 to 23 September; 2027: 15 to 22 September, Halifax.",
+      "phases": [
+        "distribution"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "sundance-institute-sundance-film-festival-2029-world-cinema-dramatic-competition",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Sundance Film Festival 2029: World Cinema Dramatic Competition",
+      "funder": "Sundance Institute",
+      "type": "Festival",
+      "region": "USA",
+      "amount": "Grand Jury Prize, jury awards and Audience Award (no cash published)",
+      "why_fit": "The top US launch for independent first features; its World Cinema Dramatic Competition is for non-US films, and Telefilm runs a free screening session for Canadian films with Sundance programmers.",
+      "priorities": "International features must be international premieres; Sundance looks for distinctive independent voices.",
+      "eligibility": "International narrative features completed after 1 January of the year before the festival; not exhibited theatrically, at festivals or online outside the country of origin before 1 February of the festival year.",
+      "watch_out": "Timing: Sundance 2028 deadlines (July to September 2027) come before PURPLE is shot, so the target is January 2029. A January 2028 screening in Canada does not break international premiere status (only screenings outside Canada count), and neither would TIFF, but Sundance rarely takes films that have played TIFF, and any festival outside Canada first (Giffoni, Busan, LAAPFF) would end eligibility. Very competitive.",
+      "deadline": "Not yet published for 2029. 2027 edition: early 27 Jul ($80), official 28 Aug ($100), late 21 Sep 2026 ($125). Telefilm's free Canadian session needed screeners available by 1 Sep 2026 for a Montreal screening on 6 to 9 Sep.",
+      "deadline_estimate": "2028-08",
+      "reopens": "For Sundance 2029 expect deadlines from late July to late September 2028 and Telefilm's Montreal session in early September 2028.",
+      "closed_reason": "2027 submissions closed (late deadline 21 Sep 2026).",
+      "url": "https://www.sundance.org/festivals/sundance-film-festival/submit",
+      "apply_url": "https://telefilm.ca/en/appel-inscription/2027-sundance-film-festival",
+      "how_to_apply": "Enter through Telefilm's Canadian session (fee waived; Telefilm does not preselect) or submit directly to Sundance with Telefilm's waiver code.",
+      "fee": "2027 cycle features: US$80 early, US$100 official, US$125 late; waived for films entered through Telefilm's Montreal session.",
+      "prize": "World Cinema Dramatic: Grand Jury Prize, jury awards, Audience Award (no cash published).",
+      "festival_dates": "2027: 21 to 31 January, Boulder, Colorado (the festival's first year in Boulder).",
+      "premiere": "International features: international premiere (no exhibition outside the country of origin before 1 February of the festival year). US features: world premiere.",
+      "notification": "Late November (the festival sends final decisions directly).",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://telefilm.ca/en/appel-inscription/2027-sundance-film-festival"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "slamdance-slamdance-film-festival-narrative-first-feature-competition",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Slamdance Film Festival: Narrative First Feature competition",
+      "funder": "Slamdance",
+      "type": "Festival",
+      "region": "USA",
+      "amount": "Jury and audience awards (cash not listed)",
+      "why_fit": "Slamdance's main competition is only for first-time feature directors with budgets under US$1 million, which PURPLE meets by a wide margin, and it has no premiere requirement, so it can follow any other festival.",
+      "priorities": "First-time directors and low-budget independent features; Breakouts for later features.",
+      "eligibility": "Narrative and Documentary First Feature: first-time feature director, budget under US$1M; features over 40 minutes; not released in the US by a third-party distributor and not distributed online.",
+      "watch_out": "No premiere rule, so the January 2028 screening does not matter. Slamdance 2028 (deadline early October 2027) is too early: WIP is considered with a title card describing what is unfinished, but a cut weeks after the Philippines shoot is unrealistic, so target Slamdance 2029. Self-distributing online disqualifies the film.",
+      "deadline": "Not yet published for 2029. 2027 edition: earlybird 18 May to 6 Jul ($70), regular to 10 Aug ($90), late to 14 Sep ($110), extended to 6 Oct 2026 ($130), 11:59pm PST.",
+      "deadline_estimate": "2028-10",
+      "reopens": "For Slamdance 2029 expect the call to open in May 2028 with the earlybird deadline in early July and the final deadline in early October 2028.",
+      "closed_reason": "2027 submissions closed 6 October 2026.",
+      "url": "https://slamdance.com/festival-submit/",
+      "how_to_apply": "Submit through Slamdance's submission page; enter by the earlybird deadline to save fees. Mark any unfinished cut with an opening title card describing what is missing.",
+      "tips": "Telefilm's International Promotion Program recognizes Slamdance selections.",
+      "fee": "2027 cycle features: US$70, US$90, US$110, US$130 by deadline.",
+      "prize": "Juried and audience awards (no cash listed).",
+      "festival_dates": "2027: 18 to 24 February, Los Angeles (multiple venues).",
+      "premiere": "None: Slamdance does not disqualify films for premiere status or completion date.",
+      "notification": "17 December 2026 for the 2027 edition.",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "evidence": [
+        "https://telefilm.ca/en/appel-inscription/slamdance-film-festival",
+        "https://asianfilmfestivals.com/2026/06/08/slamdance-film-festival-call-for-entry-2027/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "sxsw-sxsw-film-tv-festival-narrative-features",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "SXSW Film & TV Festival: narrative features",
+      "funder": "SXSW",
+      "type": "Festival",
+      "region": "USA",
+      "amount": "Jury and audience awards (no cash published)",
+      "why_fit": "A major US launch with strong press and sales presence that could take an English-language father-son road movie to US buyers.",
+      "eligibility": "Features over 40 minutes, recently completed (2027 edition: 2025 to 2026, or on track for early 2027) and not released on any public online platform.",
+      "watch_out": "SXSW 2028 deadlines (August to October 2027) fall during or right after the Philippines shoot; trailers and rough assemblies are not suitable, and SXSW reviews only the first cut it receives. Realistic target: SXSW 2029 (deadlines around August to October 2028), after PURPLE may have premiered elsewhere. Premiere rules are not stated on the submissions page; SXSW's competition has historically favoured world premieres, so a public screening in January 2028 could cost competition eligibility. Confirm in the SXSW FAQ.",
+      "deadline": "Not yet published for 2029. 2027 edition: first 25 Aug ($75), second 15 Sep ($95), final 1 Oct 2026 ($125), 11:59pm PT.",
+      "deadline_estimate": "2028-10",
+      "reopens": "For SXSW 2029 expect deadlines in late August, mid September and early October 2028.",
+      "closed_reason": "2027 submissions closed 1 October 2026.",
+      "url": "https://www.sxsw.com/apply/film-submissions",
+      "how_to_apply": "Submit a working secure screener link when the film is as finished as possible; SXSW does not re-watch later versions.",
+      "fee": "2027 cycle features: US$75 first, US$95 second, US$125 final.",
+      "prize": "Jury and audience awards; SXSW is a qualifying festival for the Film Independent Spirit Awards.",
+      "festival_dates": "2027: 15 to 21 March, Austin, Texas.",
+      "premiere": "Not stated on the submissions page; confirm in the SXSW FAQ.",
+      "notification": "By 9 February 2027 for the 2027 edition.",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "evidence": [
+        "https://asianfilmfestivals.com/2026/08/14/south-by-southwest-film-festival-call-for-entry-2027/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "tribeca-festival-tribeca-festival-2028-international-narrative-competition-and-f",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Tribeca Festival 2028: International Narrative Competition and features",
+      "funder": "Tribeca Festival",
+      "type": "Festival",
+      "region": "USA",
+      "amount": "Juried competition awards (a third-party report put total cash awards at about US$80,000 in 2026)",
+      "why_fit": "Tribeca accepts work-in-progress cuts and its June dates fit PURPLE's schedule: a rough cut by December 2027 could land a June 2028 New York premiere, and its International Narrative Competition is for non-US films.",
+      "priorities": "Features must keep at least New York (State) regional premiere status; world, international, North American and US premieres may be given priority.",
+      "eligibility": "Features; work-in-progress or rough cuts allowed if clearly marked 'Work in Progress' or 'Rough Cut' with notes on what will change; English subtitles required at submission.",
+      "watch_out": "The International Narrative Competition needs at least a North American premiere: a public screening in Canada in January 2028 would make PURPLE ineligible for it (Canada is North America), leaving only non-competitive sections. A June 2028 Tribeca premiere would also rule out TIFF 2028. Cash amounts are not confirmed.",
+      "deadline": "Not yet published for 2028. 2027 edition: opened 30 Sep 2026; early 21 Oct ($70), official 18 Nov ($90), extended 16 Dec 2026 ($115), 11:59pm ET.",
+      "deadline_estimate": "2027-12",
+      "reopens": "For Tribeca 2028 expect the call to open in late September 2027 with deadlines in October, November and mid December 2027. A WIP link can be updated until the last deadline if the link and password stay the same.",
+      "url": "https://tribecafilm.com/festival/submissions",
+      "how_to_apply": "Submit through Tribeca's submission platform with a secure link; mark an unfinished cut 'Work in Progress' and list what will change; keep the same link and password to swap in newer cuts.",
+      "fee": "2027 cycle features: US$70 early, US$90 official, US$115 extended.",
+      "prize": "Juried awards in the International Narrative Competition (best feature, actor, screenplay, cinematography) and Best New Narrative Director; cash amounts not confirmed.",
+      "festival_dates": "2027: 3 to 12 June, New York (26th edition). 2028 expected in June.",
+      "premiere": "At least New York regional premiere for all features; International Narrative Competition: at least North American premiere (2025 FAQ).",
+      "notification": "About 30 April 2027 for the 2027 edition (third-party listing).",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "questions": [
+        {
+          "q": "Work-in-progress note: what will change or is missing",
+          "kit": "custom",
+          "hint": "List missing elements (colour grade, final mix, music, subtitles) and the expected completion date (February 2028)."
+        }
+      ],
+      "evidence": [
+        "https://tribecafilm.com/press-center/press-releases/tribeca-festival-announces-2027-dates-and-calls-for-submissions",
+        "https://extranet.tribecafilm.com/media/1197/submission-faq-2025-v-2.pdf",
+        "https://asianfilmfestivals.com/2026/10/26/tribeca-festival-call-for-entry-2027/"
+      ]
+    },
+    {
+      "id": "visual-communications-los-angeles-asian-pacific-film-festival-laapff",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Los Angeles Asian Pacific Film Festival (LAAPFF)",
+      "funder": "Visual Communications",
+      "type": "Festival",
+      "region": "USA",
+      "amount": "Grand Jury Awards (North American and International features), Audience Award, Emerging Filmmaker Award (no cash listed)",
+      "why_fit": "The largest Asian Pacific American festival in the US, with a North American feature competition and an Emerging Filmmaker Award; Filipino-diaspora family stories are core to its audience, it accepts unfinished cuts, and it sets no premiere rule.",
+      "priorities": "Uplifts films principally made by and/or about Asian Pacific Islander individuals and communities.",
+      "eligibility": "Features of 41+ minutes completed on or after 1 November two years before the festival (2026 edition: 1 Nov 2024); English subtitles; DCP for exhibition.",
+      "watch_out": "No premiere rule, so the January 2028 screening does not matter. But a spring 2028 LAAPFF screening would end TIFF 2028 world-premiere eligibility if PURPLE has not premiered yet; under a TIFF-first plan, target LAAPFF 2029 (deadline around December 2028). No fee waivers, and the festival does not pay screening fees.",
+      "deadline": "Not yet published for 2028. 2026 edition: early 1 Oct, regular 1 Nov, final 1 Dec 2025, 11:59pm PST, via FilmFreeway.",
+      "deadline_estimate": "2027-12",
+      "reopens": "The 2026 call closed 1 Dec 2025; the 2027 call was not visible on vcmedia.org in this run. For the spring 2028 festival expect deadlines of about 1 Oct, 1 Nov and 1 Dec 2027.",
+      "url": "https://vcmedia.org/call-for-entries",
+      "apply_url": "https://filmfreeway.com/laapff",
+      "contact_email": "hello@vcmedia.org",
+      "contact_source": "https://vcmedia.org/call-for-entries",
+      "how_to_apply": "Submit on FilmFreeway by the early deadline; for an unfinished cut, state its stage and what is incomplete on the screener.",
+      "fee": "2026 edition: features about US$35 early, US$40 regular, US$45 final (third-party listing; confirm on FilmFreeway). No waivers.",
+      "prize": "Grand Jury Awards (North American and International features), Festival Audience Award, Emerging Filmmaker Award.",
+      "festival_dates": "2026: late April to early May (42nd edition; sources give 29 April to 3 May and 30 April to 7 May). Held each spring around AAPI Heritage Month.",
+      "premiere": "No premiere requirement published.",
+      "notification": "2026 edition: 4 April 2026.",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "questions": [
+        {
+          "q": "Preview screener note: stage of the cut (rough cut, fine cut, picture lock) and which elements are incomplete",
+          "kit": "custom",
+          "hint": "State the cut stage, the missing elements (grade, mix, subtitles) and the completion date of February 2028."
+        }
+      ],
+      "evidence": [
+        "https://asianfilmfestivals.com/2025/10/22/los-angeles-asian-pacific-film-festival-call-for-entry-2026/",
+        "https://vcmedia.org/entry-guidelines"
+      ]
+    },
+    {
+      "id": "center-for-asian-american-media-caam-caamfest-san-francisco",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "CAAMFest (San Francisco)",
+      "funder": "Center for Asian American Media (CAAM)",
+      "type": "Festival",
+      "region": "USA",
+      "amount": "Juried and audience awards (not listed)",
+      "why_fit": "A leading showcase for Asian American and diasporic stories that accepts works in progress and only asks for a Bay Area premiere.",
+      "eligibility": "Fiction, documentary, experimental and animation by or about Asian American and diasporic experiences; features over 41 minutes; English subtitles for non-English dialogue.",
+      "watch_out": "Works in progress are considered only if finished by 1 February of the festival year (2027 rule): for CAAMFest 2028, PURPLE would need to be finished by about 1 Feb 2028, while post ends in February 2028, which is tight. The January 2028 Canadian screening does not affect a Bay Area premiere, but a May 2028 CAAMFest screening would end TIFF 2028 eligibility. Rules were read through a third-party summary of the FilmFreeway page.",
+      "deadline": "The current call is for CAAMFest 2027 (too early for PURPLE): early bird 16 Nov 2026 ($35), normal 18 Dec 2026 ($40).",
+      "deadline_estimate": "2027-12",
+      "reopens": "For CAAMFest 2028 expect the call to run from about October to mid December 2027; for CAAMFest 2029, October to December 2028.",
+      "url": "https://filmfreeway.com/CAAMFest",
+      "apply_url": "https://filmfreeway.com/CAAMFest",
+      "contact_email": "festival@caamedia.org",
+      "contact_source": "https://filmfreeway.com/CAAMFest",
+      "how_to_apply": "Submit on FilmFreeway by the early-bird deadline in mid November.",
+      "fee": "2027 edition: US$35 early bird, US$40 normal; one fee waiver for CAAMFest alumni.",
+      "prize": "Awards not listed in the call.",
+      "festival_dates": "2027: 13 to 16 May, San Francisco (45th edition).",
+      "premiere": "At least a Bay Area premiere.",
+      "notification": "2 April 2027 for the 2027 edition.",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "evidence": [
+        "https://asianfilmfestivals.com/2026/10/27/caamfest-call-for-entry-2027/"
+      ]
+    },
+    {
+      "id": "asian-cinevision-asian-american-international-film-festival-aaiff-new-york",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Asian American International Film Festival (AAIFF), New York",
+      "funder": "Asian CineVision",
+      "type": "Festival",
+      "region": "USA",
+      "amount": "Juried and audience awards (details not confirmed)",
+      "why_fit": "The longest-running Asian American festival, in New York, with a Works-in-Progress category and only a preference for NYC premieres: a good East Coast stop for a Filipino-diaspora film.",
+      "eligibility": "At least one person of Asian or Pacific Islander descent in a key creative role and/or a story of the Asian diasporic experience; features over 40 minutes; completed after 1 January of the previous year (Works-in-Progress category exempt).",
+      "watch_out": "NYC premieres are prioritized, so play AAIFF before any Tribeca or other New York screening. The January 2028 Canadian screening does not matter. The 2027 (50th edition) call and fees were not yet published.",
+      "deadline": "2026 edition closed 15 March 2026 (FilmFreeway). 2027 call not yet published.",
+      "deadline_estimate": "2028-03",
+      "reopens": "The call usually opens in winter and closes in mid March; for AAIFF 2028 (summer 2028) expect about mid March 2028.",
+      "closed_reason": "2026 call closed 15 March 2026; 2027 call not yet open.",
+      "url": "https://aaiff.org/submissions",
+      "apply_url": "https://filmfreeway.com/aaiff",
+      "contact_email": "info@asiancinevision.org",
+      "contact_source": "https://aaiff.filmbot.com/2026/",
+      "how_to_apply": "Submit on FilmFreeway, in the Works-in-Progress category if the film is not finished.",
+      "festival_dates": "2026: 30 July to 9 August, New York (49th edition).",
+      "premiere": "New York City premieres prioritized.",
+      "notification": "1 July 2026 for the 2026 edition.",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "evidence": [
+        "https://asianfilmfestivals.com/2025/12/21/asian-american-international-film-festival-call-for-entry-2026/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "seattle-asian-american-film-festival-seattle-asian-american-film-festival-saaff",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Seattle Asian American Film Festival (SAAFF)",
+      "funder": "Seattle Asian American Film Festival",
+      "type": "Festival",
+      "region": "USA",
+      "amount": "Awards not listed",
+      "why_fit": "Welcomes diasporic Asian filmmakers and accepts any premiere status, even films already streaming, so PURPLE can play there at any point in its run without risk.",
+      "eligibility": "Asian American or diasporic Asian filmmakers, or films about the Asian American or diasporic experience; completed 2024 or later (2027 edition); English subtitles or no dialogue.",
+      "watch_out": "Programming centres on Asian American (US) voices; a Canadian film is eligible as diasporic but may be a lower priority. No premiere rule, so the January 2028 screening does not matter. The festival moved from winter to May in 2027.",
+      "deadline": "The current call is for SAAFF 2027 (too early for PURPLE): opened 1 Aug 2026; regular 30 Sep; late 10 Nov 2026.",
+      "deadline_estimate": "2027-11",
+      "reopens": "The 2027 call closed 10 Nov 2026. For SAAFF 2028 expect a call from August to November 2027; for SAAFF 2029, August to November 2028.",
+      "closed_reason": "2027 call closed 10 November 2026.",
+      "url": "https://www.seattleaaff.org/news/call-for-films-saaff-2027-is-open",
+      "apply_url": "https://filmfreeway.com/SeattleAsianAmericanFilmFestival",
+      "contact_email": "programming@seattleaaff.org",
+      "contact_source": "https://www.seattleaaff.org/news/call-for-films-saaff-2027-is-open",
+      "how_to_apply": "Submit on FilmFreeway during the August to November call.",
+      "fee": "Full-length films from US$30 (2026 rates US$30 and US$50); FilmFreeway Gold discounts; returning-filmmaker codes.",
+      "festival_dates": "2027: 21 to 23 May, Seattle and online (15th edition).",
+      "premiere": "All premiere statuses welcome, including films already streaming or in distribution.",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://asianfilmfestivals.com/2026/08/07/seattle-asian-american-film-festival-call-for-entry-2027/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "busan-international-film-festival-busan-international-film-festival-biff-2028",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Busan International Film Festival (BIFF) 2028",
+      "funder": "Busan International Film Festival",
+      "type": "Festival",
+      "region": "International",
+      "amount": "Cash awards for Asian films (e.g., New Currents Award KRW 20,000,000 for the best directorial debut in Competition or Vision); Flash Forward Audience Award for non-Asian first and second features",
+      "why_fit": "Asia's leading festival and the natural Asian premiere for a film partly set and shot in the Philippines by a Filipino-Canadian director; no entry fee.",
+      "priorities": "Priority to world and international premieres; Competition and Vision celebrate Asian films, Flash Forward showcases first and second features by non-Asian filmmakers.",
+      "eligibility": "Features of 60+ minutes completed between September of the previous year and the first week of September of the festival year.",
+      "watch_out": "It is unclear whether a Canadian production by a Filipino-Canadian director counts as an Asian film (Competition, Vision, New Currents) or a non-Asian one (Flash Forward, World Cinema): ask the festival. An international premiere means the first screening outside the country of origin, so a January 2028 screening in Canada, or a TIFF premiere, keeps PURPLE eligible; a non-Canadian festival first (Giffoni, LAAPFF) would not. The completion window (September 2027 to early September 2028) fits a February 2028 finish.",
+      "deadline": "2026 edition: features 8 July 2026, 18:00 KST (online form plus screener upload).",
+      "deadline_estimate": "2028-07",
+      "reopens": "Expect the 2028 call in spring 2028 with the feature deadline in early July 2028.",
+      "closed_reason": "2026 feature deadline passed (8 July 2026).",
+      "url": "https://www.biff.kr",
+      "guidelines_url": "https://biff.kr/pop/file/2026_Official_Submission_and_Selection_Rules_&_Regulation_eng_final_as_of_2026-03-10.pdf?ver=1",
+      "how_to_apply": "Verify an email on the BIFF site, complete the online submission form, then upload the screener (English subtitles) by the deadline.",
+      "fee": "No entry fee.",
+      "prize": "Busan Award Best Film KRW 50,000,000; Best Director KRW 20,000,000; New Currents Award KRW 20,000,000 (debuts in Competition or Vision); many KRW 10,000,000 Vision awards for Asian films; Flash Forward Audience Award.",
+      "festival_dates": "2026: 6 to 15 October (31st edition). 2028 expected early October.",
+      "premiere": "World or international premieres prioritized (international = first screening outside the country of origin).",
+      "notification": "Before the official programme announcement, by email.",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://asianfilmfestivals.com/2026/03/12/busan-international-film-festival-call-for-entry-2026/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "tokyo-international-film-festival-tokyo-international-film-festival-2028-competi",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Tokyo International Film Festival 2028 (Competition and Asian Future)",
+      "funder": "Tokyo International Film Festival",
+      "type": "Festival",
+      "region": "International",
+      "amount": "Competition prizes (Tokyo Grand Prix and others) and an Asian Future award; cash amounts not confirmed",
+      "why_fit": "A FIAPF-accredited festival whose Asian Future section is for emerging directors with up to three features; a Filipino-diaspora story could fit if Tokyo treats PURPLE as an Asian film.",
+      "eligibility": "Features of 60+ minutes, recently completed (2026 edition: after 1 January 2025 or 2026; sources differ); not available online, on TV, in-flight or on DVD/VOD; English subtitles.",
+      "watch_out": "Asian Future is for filmmakers from Asia and the Middle East, so a Canadian production may not qualify; ask. Minimum is a Japan premiere with world and international premieres prioritized; a Canadian screening in January 2028 keeps international premiere status. Updated versions cannot be sent after submitting.",
+      "deadline": "2026 edition: early bird 26 May (JPY 3,300), final 7 July 2026 at noon JST (JPY 5,500).",
+      "deadline_estimate": "2028-07",
+      "reopens": "Expect the 2028 call from spring to early July 2028.",
+      "closed_reason": "2026 call closed 7 July 2026.",
+      "url": "https://www.tiff-jp.net/en/",
+      "how_to_apply": "Submit the online entry form with a screener link (no login or download needed) that stays active until the end of September.",
+      "fee": "2026: JPY 3,300 early bird, JPY 5,500 regular (credit card, non-refundable).",
+      "prize": "Tokyo Grand Prix, Special Jury Prize, Best Director, Best Actor, Best Actress, Best Artistic Contribution, Audience Award; Asian Future award.",
+      "festival_dates": "2026: 26 October to 4 November (39th edition).",
+      "premiere": "At least a Japan premiere; world and international premieres prioritized.",
+      "notification": "Mid September.",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://asianfilmfestivals.com/2026/04/07/tokyo-international-film-festival-call-for-entry-2026/",
+        "https://tribune.net.ph/2026/05/26/tokyo-international-film-festival-opens-submissions-for-39th-edition"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "qcinema-qcinema-international-film-festival-quezon-city",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "QCinema International Film Festival (Quezon City)",
+      "funder": "QCinema",
+      "type": "Festival",
+      "region": "Philippines",
+      "amount": "Asian Next Wave competition (top prize: Pylon Award; cash not published)",
+      "why_fit": "The Philippines' most outward-looking festival, which programmes diaspora stories (Batang West Side in 2026); a Philippine premiere there would bring PURPLE home, like its story.",
+      "eligibility": "Curated: Asian Next Wave and other sections are mostly invited films coming from Cannes, Venice, Locarno, San Sebastián and Karlovy Vary.",
+      "watch_out": "No open call for finished features was found (only QCShorts grants and the Project Market), and QCinema's site blocks automated reading, so rules were not confirmed. Approach the programmers after a strong fall 2028 premiere. A Canadian January 2028 screening does not affect a Philippine premiere.",
+      "deadline": "No open submission call for finished features found; selection by invitation.",
+      "reopens": "QCinema runs every November; approach programmers once PURPLE has a 2028 festival premiere.",
+      "closed_reason": "No open call (curated festival).",
+      "url": "https://qcinema.ph/asian-next-wave/",
+      "festival_dates": "2026: 13 to 22 November, Quezon City (14th edition).",
+      "premiere": "Philippine premiere expected (QCinema's grant programs require Philippine premieres at the festival).",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://tribune.net.ph/2026/10/23/qcinema-2026-meet-the-competing-films",
+        "https://tribune.net.ph/2026/10/24/my-qcinema-2026-watchlist"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "cine-balikbayan-gate-11-films-gladiola-films-rattan-creative-projects-with-mowel",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Cine Balikbayan: films of the Filipino diaspora (Manila)",
+      "funder": "Cine Balikbayan (Gate 11 Films, Gladiola Films, Rattan Creative Projects, with Mowelfund Film Institute)",
+      "type": "Festival",
+      "region": "Philippines",
+      "amount": "Screening program (no prizes)",
+      "why_fit": "A Manila exhibition program created specifically for films by the Filipino diaspora, which could give PURPLE its Philippine premiere and connect it with Filipino press and filmmakers.",
+      "eligibility": "Films from the Filipino diaspora; no formal rules published.",
+      "watch_out": "Small and new (first program October 2025) with no published submission process; check that it runs again in 2028. A Manila screening does not affect Canadian or US premiere status as long as it comes after PURPLE's world premiere.",
+      "deadline": "No call published; programs are curated.",
+      "reopens": "First program was October 2025; follow Instagram (cinebalikbayan) for future programs.",
+      "closed_reason": "No open call (curated program).",
+      "url": "https://www.instagram.com/cinebalikbayan/",
+      "contact_email": "renpaul@gmail.com",
+      "contact_source": "https://www.sinegang.ph/press-releases/cine-balikbayan-sgph",
+      "how_to_apply": "Contact the organizers (Ren Aguila, per the press release) or message the Instagram account with a screener once PURPLE has premiered.",
+      "festival_dates": "First program: 17 to 18 October 2025, Dengcar Theater, Mowelfund, Quezon City (13 shorts and 1 feature).",
+      "premiere": "Not published; half of the 2025 program were Manila debuts.",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://www.sinegang.ph/press-releases/cine-balikbayan-sgph"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "berlin-international-film-festival-berlinale-berlinale-generation-kplus-14plus-2",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Berlinale Generation Kplus / 14plus (2029 edition)",
+      "funder": "Berlin International Film Festival (Berlinale)",
+      "type": "Festival",
+      "region": "International",
+      "amount": "Crystal Bears from the Kplus and 14plus juries (no cash published)",
+      "why_fit": "Generation is the world's top showcase for films about children and teenagers; an 11-year-old lead in a father-son road movie is squarely Kplus or 14plus material, and Canadian films are regulars there.",
+      "priorities": "Films about the lives and realities of children and teenagers; world premieres preferred, but Generation also accepts international and European premieres.",
+      "eligibility": "Features of 60+ minutes completed within the 12 months before the festival; not shown publicly in Germany, at a European festival or released in Europe outside the country of origin; no TV, VOD or online release; never submitted before.",
+      "watch_out": "Berlinale 2028 needs at least a picture-locked screener by its October 2027 deadline, which is not possible. For Berlinale 2029 (mid February 2029), PURPLE must be completed within the 12 months before the festival starts: with post ending in February 2028 this is borderline, so a declared completion date before mid February 2028 would fall outside the window. Screenings in Canada (January 2028, TIFF) are fine because Generation takes international premieres; any European screening first (for example Giffoni) would end eligibility. Kplus films get a German voice-over, so a full original-language dialogue list is required.",
+      "deadline": "2027 edition: features 21 October 2026 (form plus screener); Telefilm's Canadian session (world premieres only) needed links available by 1 September 2026.",
+      "deadline_estimate": "2028-10",
+      "reopens": "For Berlinale 2029 expect the portal to open in summer 2028, Telefilm's world-premiere session around 1 September 2028, and the feature deadline in late October 2028.",
+      "closed_reason": "2027 feature deadline passed (21 October 2026).",
+      "url": "https://berlinale.de/en/film-entry/guidelines/generation.html",
+      "apply_url": "https://telefilm.ca/en/appel-inscription/2027-berlin-international-film-festival",
+      "guidelines_url": "https://berlinale.de/en/film-entry/guidelines/general-guidelines.html",
+      "how_to_apply": "If PURPLE is still a world premiere, enter through Telefilm's Canadian session (fee waived); otherwise register directly on the Berlinale platform with a picture-locked screener (it cannot be replaced later).",
+      "tips": "Telefilm's International Promotion Program recognizes Berlinale selections.",
+      "fee": "EUR 175 per feature (VAT included); EUR 135 for world premieres entered via Telefilm but not screened in Montreal; waived for films in Telefilm's Montreal session; DCP screeners add EUR 250.",
+      "prize": "Crystal Bears for best feature in Generation Kplus and Generation 14plus (no cash published).",
+      "festival_dates": "2027: 10 to 21 February, Berlin.",
+      "premiere": "World premieres preferred; Generation accepts international and European premieres; festival screenings or release in the country of origin are accepted; no German premieres.",
+      "notification": "December (the festival sends final decisions directly).",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "evidence": [
+        "https://telefilm.ca/en/appel-inscription/2027-berlin-international-film-festival",
+        "https://berlinale.de/en/film-entry/guidelines/general-guidelines.html"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "international-film-festival-rotterdam-iffr-international-film-festival-rotterdam",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "International Film Festival Rotterdam (IFFR): Tiger Competition",
+      "funder": "International Film Festival Rotterdam (IFFR)",
+      "type": "Festival",
+      "region": "International",
+      "amount": "Tiger Award EUR 40,000; two Special Jury Awards of EUR 10,000 each (2026)",
+      "currency": "EUR",
+      "why_fit": "IFFR's Tiger Competition is for 1st to 3rd features and favours distinctive independent voices; a trilingual micro-budget road movie fits its profile, and IFFR considers work-in-progress cuts.",
+      "eligibility": "Features of 64+ minutes completed after 1 January of the year before the festival; not screened in the Netherlands; not previously submitted.",
+      "watch_out": "The Tiger Competition requires a world premiere at IFFR: a public January 2028 screening, or a TIFF premiere, rules it out. IFFR 2028 (deadline mid September 2027) is too early; IFFR 2029 (deadline around mid September 2028) would mean deciding before or instead of TIFF. Whether other IFFR sections take features that premiered elsewhere was not confirmed.",
+      "deadline": "2027 edition: early 15 Jun (EUR 40), standard 31 Aug (EUR 55), late 15 Sep 2026 17:00 CET (EUR 70), excl. VAT.",
+      "deadline_estimate": "2028-09",
+      "reopens": "For IFFR 2029 expect deadlines from mid June to mid September 2028.",
+      "closed_reason": "2027 feature deadline passed (15 September 2026).",
+      "url": "https://iffr.com/en/film-entry",
+      "guidelines_url": "https://iffr.com/en/wp-content/uploads/sites/2/2026/05/Terms-Conditions-submissions-IFFR-2027.pdf",
+      "how_to_apply": "Submit through IFFR's film entry portal and pay before the deadline; a WIP cut is considered if the film can be finished in time.",
+      "fee": "2027 cycle features: EUR 40 early, EUR 55 standard, EUR 70 late (excl. VAT); waivers only for listed countries.",
+      "prize": "Tiger Award EUR 40,000; two Special Jury Awards EUR 10,000 each (2026 amounts).",
+      "festival_dates": "2027: 28 January to 7 February, Rotterdam (56th edition).",
+      "premiere": "Tiger Competition: world premiere at IFFR. Films already screened in the Netherlands are excluded.",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "amount_max": 40000,
+      "evidence": [
+        "https://asianfilmfestivals.com/2026/05/12/international-film-festival-rotterdam-call-for-entry-2027/",
+        "https://iffr.com/en/iffr/2026/tiger-competition"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "giffoni-film-festival-giffoni-film-festival-elements-10-generator-13",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Giffoni Film Festival: Elements +10 / Generator +13",
+      "funder": "Giffoni Film Festival",
+      "type": "Festival",
+      "region": "International",
+      "amount": "Gryphon Awards (no cash); economy flights for feature directors plus hospitality",
+      "why_fit": "Giffoni's juries are thousands of children and teenagers, and PURPLE's 11-year-old lead and father-son story fit Elements +10 or Generator +13; its only premiere rule concerns Italy, so it can follow a Canadian premiere.",
+      "priorities": "Films for and about children and young people, judged by young jurors by age group; unreleased films are prioritized.",
+      "eligibility": "Features of 60+ minutes produced from January of the previous year or released from June of the previous year; no earlier Italian festival, theatrical, TV or online release; online screener with English subtitles.",
+      "watch_out": "Giffoni 2028 (July) is the earliest realistic international youth slot, but a July 2028 screening would be PURPLE's world premiere and would end TIFF 2028 eligibility; under a TIFF-first plan, target Giffoni 2029 (still eligible as produced in 2028). The January 2028 Canadian screening does not matter here. Films screen with Italian electronic subtitles, so an English subtitle file (SRT) is needed.",
+      "deadline": "2026 edition: submissions closed 11 May 2026; results by 15 June 2026.",
+      "deadline_estimate": "2028-05",
+      "reopens": "Expect the 2027 call in early 2027; the 2028 call should close around mid May 2028 (2029 call around mid May 2029).",
+      "closed_reason": "2026 call closed 11 May 2026.",
+      "url": "https://en.giffoni.it/competition-film-regulations/",
+      "apply_url": "https://filmfreeway.com/GiffoniFilmFestival",
+      "how_to_apply": "Submit on FilmFreeway with an online screener (English subtitles; watermarks allowed) and choose the age section.",
+      "tips": "Other youth festivals to consider later: New York International Children's Film Festival (Oscar-qualifying; 2027 deadline 1 Dec 2026), BUFF Malmö (Swedish premiere; deadline mid November), SCHLINGEL Chemnitz (German premiere; features due mid July), Zlín (deadline 1 March). Telefilm's International Promotion Program recognizes Giffoni selections.",
+      "fee": "Varies by section on FilmFreeway (Telefilm listed EUR 2.50 to EUR 10 for 2025).",
+      "prize": "Gryphon Award for best feature in each section; flights and hospitality for selected feature directors.",
+      "festival_dates": "2025: 17 to 26 July, Giffoni Valle Piana, Italy; held every July.",
+      "premiere": "Features are excluded if already shown at another Italian festival, released in Italian cinemas, or broadcast or streamed in Italy.",
+      "notification": "By 15 June (2026 edition).",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://telefilm.ca/en/appel-inscription/giffoni-film-festival-4",
+        "https://asianfilmfestivals.com/2026/05/12/new-york-international-childrens-film-festival-call-for-entry-2027/"
+      ],
+      "closed_since": "2026-11-16"
+    }
+  ]
+}

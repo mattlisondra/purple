@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en" class="locked">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>PURPLE | Competitions</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%233d1f73'/%3E%3Ccircle cx='16' cy='17' r='8' fill='%23c084fc'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/purple.css">
+</head>
+<body data-page="competitions">
+
+<div class="gate">
+  <form id="gateForm" autocomplete="off">
+    <span class="wm">PURPLE</span>
+    <p>The funding desk for PURPLE. Enter the password to continue.</p>
+    <input id="gatePw" type="password" placeholder="Password" aria-label="Password" autocomplete="current-password">
+    <button type="submit">Enter</button>
+    <div class="err" id="gateErr"></div>
+  </form>
+</div>
+
+<div class="app">
+<header class="top">
+  <span class="wm">PURPLE</span>
+  <nav class="pages"><a href="purple-funding.html">Funding</a><a href="purple-competitions.html" class="on">Competitions</a></nav>
+  <nav class="tabs">
+    <button class="tab on" data-tab="list">Competitions</button>
+    <button class="tab" data-tab="deadlines">Deadlines</button>
+    <button class="tab" data-tab="kit">Application kit</button>
+    <button class="tab" data-tab="updates">Updates</button>
+    <button class="tab" data-tab="backup">Backup</button>
+  </nav>
+  <span class="sp"></span>
+  <button class="tb" id="addBtn">Add your own</button>
+  <button class="tb" id="csvBtn">Export CSV</button>
+  <button class="tb" id="lockBtn">Lock</button>
+</header>
+<div class="pulsebox" id="pulse"></div>
+<div class="banner" id="banner"></div>
+<main>
+  <section id="tab-list">
+    <div class="stats" id="stats"></div>
+    <div class="filters">
+      <input type="search" id="q" placeholder="Search competitions, festivals, prizes, notes…">
+      <select id="fType"><option value="">All kinds</option></select>
+      <select id="fRegion"><option value="">Anywhere</option></select>
+      <select id="fPhase"><option value="">Any stage of the film</option></select>
+      <select id="fPri"><option value="">Any priority</option><option>A</option><option>B</option><option>C</option></select>
+      <select id="fAvail"><option value="">Open or not</option><option value="open">Open now (incl. rolling)</option><option value="soon">Closing in 30 days</option><option value="rolling">Rolling</option><option value="est">Date not announced</option><option value="closed">Expired or not open</option></select>
+      <select id="fStatus"><option value="">Any status</option></select>
+      <select id="fBy"><option value="">Added by anyone</option><option value="daily">Added by the daily scan</option><option value="weekly">Added by the weekly research</option><option value="research">Added in a research session</option><option value="manual">Added by you</option></select>
+      <label><input type="checkbox" id="fHidden"> Show hidden</label>
+      <select id="sort"><option value="deadline">Deadline soonest</option><option value="pri">Priority first</option><option value="amount">Biggest prize</option><option value="new">Newest first</option><option value="name">By organizer</option></select>
+    </div>
+    <div class="count" id="count"></div>
+    <div id="list"></div>
+  </section>
+
+  <section id="tab-deadlines" hidden><div id="deadlines"></div></section>
+
+  <section id="tab-kit" hidden><div id="kit"></div></section>
+
+  <section id="tab-updates" hidden>
+    <div class="panel"><h2>Updates</h2><p>Every research run, newest first, including the ones that found nothing. The daily scan watches for calls that open or close soon; the weekly research adds new competitions, labs and festivals and re-checks every date and premiere rule. Deadlines that pass are marked expired automatically, with when the next call is expected.</p></div>
+    <div class="panel" id="runs"></div>
+  </section>
+
+  <section id="tab-backup" hidden>
+    <div class="panel">
+      <h2>Backup</h2>
+      <p>Your statuses, notes, drafts and Application kit are saved <b>in this browser only</b>, shared with the Funding page. They are not in the files you publish. Save a backup now and then, and restore it on another computer.</p>
+      <div class="btns" style="margin-top:10px">
+        <button class="b purple" id="expBtn">Save a backup (.json)</button>
+        <label class="b" style="cursor:pointer">Restore a backup<input type="file" id="impFile" accept="application/json,.json" hidden></label>
+        <button class="b" id="csvBtn2">Export this list as CSV</button>
+        <button class="b" id="lockBtn2">Lock this browser</button>
+      </div>
+    </div>
+  </section>
+</main>
+</div>
+
+<div class="modal" id="draftDlg"><div class="dlg">
+  <div class="head"><div><h3 id="dTitle">Draft</h3><div class="sub2" id="dSub"></div></div><button class="b" id="dClose">Close</button></div>
+  <div class="note" id="dNote"></div>
+  <div class="btns"><button class="b purple" id="dAll">Copy the whole draft</button><button class="b" id="dOpen">Open their application</button><button class="b" id="dPrep">Mark as preparing</button></div>
+  <div id="dSecs"></div>
+</div></div>
+
+<div class="modal" id="addDlg"><div class="dlg">
+  <h3>Add your own</h3>
+  <div class="sub2">A competition, lab or festival you found yourself. It is kept in this browser (and in your backups).</div>
+  <div class="form" id="addForm"></div>
+  <div class="btns" style="margin-top:14px"><span style="flex:1"></span><button class="b dark" id="addSave">Add</button><button class="b" id="addClose">Cancel</button></div>
+</div></div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="assets/purple.js"></script>
+</body>
+</html>

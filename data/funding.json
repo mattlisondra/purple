@@ -1,0 +1,2351 @@
+{
+  "updated": "2026-11-16",
+  "items": [
+    {
+      "id": "canada-council-for-the-arts-explore-and-create-artistic-creation",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Explore and Create: Artistic Creation",
+      "funder": "Canada Council for the Arts",
+      "type": "Grant",
+      "region": "Canada",
+      "amount": "Up to $75,000 per application, with at most 3 applications and $150,000 per calendar year. These figures come from the portal guidelines as summarised by several grant guides; canadacouncil.ca itself does not show an amount.",
+      "currency": "CAD",
+      "why_fit": "This is the Council's main project grant and it now covers every stage from first idea to public presentation. In media arts only the director can apply, which is exactly Matthew's position on an independent, artist-driven Filipino-Canadian feature. It takes applications at any time, so he can apply now for the May to September 2027 shoot, and the budget can include the travel to Alberta and the Philippines.",
+      "priorities": "Supports Canadian artists, groups and arts organizations to develop, create and share artistic works at any or all stages of the creative process, from initial idea to public presentation. Explore and Create encourages artists to investigate creative processes and take risks.",
+      "eligibility": "Canadian artists (citizens or permanent residents) with a validated applicant profile in the Council's portal, plus artistic groups and arts organizations. For media arts (film, video, moving images) only the director or creator of the work may apply. Producers and production companies cannot apply on a project's behalf.",
+      "watch_out": "Media arts requests 'must be for works that are independent of the commercial industries of film, television and video games', and the Council does not fund commercial film projects. Present PURPLE as an independent, artist-driven work, and ask a program officer before combining this grant with Telefilm money or a commercial distributor. Matthew first needs a validated profile (the 'Artist or arts worker' profile; validation takes up to 15 business days). With only an AD credit and no directing credit, he should check the profile's professional-practice criteria before applying. The application must be submitted before the project start date, and results take about 5 months. The $75,000 maximum and the question list could not be read on canadacouncil.ca, because the portal pages only load in a browser; confirm both in the portal's application preview. Grants are taxable income and are reported on a T4A.",
+      "deadline": "Rolling: any time before the start date of your project or activity. Results usually come within 5 months of submitting, so apply by mid-December 2026 to hear back before the May 2027 shoot.",
+      "decision": "Usually within 5 months of submitting your application.",
+      "url": "https://canadacouncil.ca/funding/grants/explore-and-create",
+      "apply_url": "https://www.arts-services.ca/s/fundingopportunity/119JQ000003Vz5ZYAS/1006?language=en_US",
+      "guidelines_url": "https://canadacouncil.ca/funding/resources/what-the-granting-programs-fund",
+      "how_to_apply": "1) Create a new account in the updated Canada Council portal. Accounts made before August 2025 must be re-created; history transfers if you use the same email. 2) Request the 'Artist or arts worker' applicant profile, with an arts CV showing how you meet its criteria; staff validate it in up to 15 business days. 3) Open the Artistic Creation funding opportunity and use the link to preview the application questions. 4) Prepare a project description, budget, timeline, arts CV and work samples (for example a clip from Quiet Father, a PURPLE pitch or lookbook video, and script pages). 5) Submit before the project start date; aim for mid-December 2026.",
+      "tips": "Grant guides that summarise the portal guidelines say assessment weighs artistic merit most (about 50%), then impact (30%), then feasibility (20%), and that work samples carry a lot of weight. Set the project start date after the expected decision, about 5 months after you submit. A later stage, such as post-production, can be a separate application within the yearly cap. Artistic Creation replaces the former Research and Creation and Concept to Realization components, so older advice about those components may no longer apply.",
+      "phases": [
+        "development",
+        "pre-production",
+        "production",
+        "post-production"
+      ],
+      "amount_max": 75000,
+      "decision_weeks": 22,
+      "rolling": true,
+      "evidence": [
+        "https://canadacouncil.ca/funding/grants/deadlines",
+        "https://canadacouncil.ca/funding/grants/upcoming-funding-opportunities/artistic-creation",
+        "https://canadacouncil.ca/funding/resources/what-the-granting-programs-fund",
+        "https://canadacouncil.ca/funding/updates",
+        "https://grantcompass.ca/canada-council-explore-and-create-guide",
+        "https://granthub.ca/learn/canada-council-explore-and-create-artistic-creation-how-to-apply"
+      ]
+    },
+    {
+      "id": "canada-council-for-the-arts-arts-across-canada-and-abroad-micro-grants",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Arts Across Canada and Abroad: Micro-grants",
+      "funder": "Canada Council for the Arts",
+      "type": "Grant",
+      "region": "Canada",
+      "amount": "Small grants for career development and travel. canadacouncil.ca shows no amount; grant guides report up to $10,000 per application.",
+      "currency": "CAD",
+      "why_fit": "Micro-grants now cover what the Council's professional development and Arts Across Canada and Arts Abroad travel grants used to fund. Matthew could use one to attend a first-feature lab or market, or to travel with PURPLE to a festival that selects it in 2028.",
+      "priorities": "Supports activities that support the professional growth and advancement of artistic careers or practices. Replaces Explore and Create: Professional Development for Artists, Supporting Artistic Practice: Professional Development for Arts Professionals, Arts Across Canada: Travel and Arts Abroad: Travel.",
+      "eligibility": "Artists, arts workers, groups and organizations with a validated Canada Council applicant profile.",
+      "watch_out": "The program is about career development and travel to share work. It is not described as covering production travel, so put the costs of shooting in Alberta and the Philippines in an Artistic Creation budget instead. The maximum amount and eligible costs are only in the portal (not confirmed on canadacouncil.ca). You need a validated profile, and the application must go in before the activity or departure date.",
+      "deadline": "Rolling: any time before the start date of your project or activity, or your departure date. Results usually come within 4 months of submitting, so apply at least 4 months ahead.",
+      "decision": "Usually within 4 months of submitting.",
+      "url": "https://canadacouncil.ca/funding/grants/arts-across-canada-and-abroad",
+      "apply_url": "https://cca-internal-cac-interne.my.site.com/s/fundingopportunity/119JQ000003Vz5XYAS/6601?language=en_US",
+      "how_to_apply": "Create a portal account and get the applicant profile validated (up to 15 business days). Open the Micro-grants funding opportunity, preview the questions, and submit at least 4 months before the activity or departure.",
+      "phases": [
+        "development",
+        "distribution"
+      ],
+      "decision_weeks": 17,
+      "rolling": true,
+      "evidence": [
+        "https://canadacouncil.ca/funding/grants/deadlines",
+        "https://canadacouncil.ca/funding/grants/upcoming-funding-opportunities/micro-grants"
+      ]
+    },
+    {
+      "id": "canada-council-for-the-arts-arts-across-canada-and-abroad-representation-and-pro",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Arts Across Canada and Abroad: Representation and Promotion",
+      "funder": "Canada Council for the Arts",
+      "type": "Grant",
+      "region": "Canada",
+      "amount": "Travel costs. Amounts are set in the portal guidelines; none are shown on canadacouncil.ca.",
+      "currency": "CAD",
+      "why_fit": "Once PURPLE is finished in 2028, this can pay for travel to promote it at markets or festivals abroad, for example screenings in the Philippines or at Asian festivals, to find distributors and audiences.",
+      "priorities": "Funding for travel activities linked to promotion and the development of markets for artists and works from Canada.",
+      "eligibility": "Artists and organizations from Canada with a validated applicant profile. The public page does not spell out applicant types; check the portal.",
+      "watch_out": "This is only useful after the film is finished, so it does nothing for the production gap. Amounts, eligible costs and applicant types are only in the portal. Apply before departure; results take about 4 months.",
+      "deadline": "Rolling: any time before your departure date. Results usually come within 4 months of submitting.",
+      "decision": "Usually within 4 months of submitting.",
+      "url": "https://canadacouncil.ca/funding/grants/arts-across-canada-and-abroad",
+      "apply_url": "https://cca-internal-cac-interne.my.site.com/s/fundingopportunity/119JQ000003Vz5WYAS/6602?language=en_US",
+      "how_to_apply": "Through the Canada Council portal with a validated profile. Submit at least 4 months before the trip, with the invitation or market accreditation and a promotion plan.",
+      "phases": [
+        "distribution"
+      ],
+      "decision_weeks": 17,
+      "rolling": true,
+      "evidence": [
+        "https://canadacouncil.ca/funding/grants/deadlines"
+      ]
+    },
+    {
+      "id": "canada-council-for-the-arts-arts-across-canada-and-abroad-circulation-and-tourin",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Arts Across Canada and Abroad: Circulation and Touring",
+      "funder": "Canada Council for the Arts",
+      "type": "Grant",
+      "region": "Canada",
+      "amount": "Amounts are set in the portal guidelines; none are shown on canadacouncil.ca.",
+      "currency": "CAD",
+      "why_fit": "A 2028 screening tour of the finished film along its own route (Toronto, Ottawa, Montreal, Alberta) with Filipino-Canadian and community presenters, with the director travelling to present it, could fit this touring support.",
+      "priorities": "Supports the touring and circulation of Canadian artists, exhibitions and works, both nationally and internationally.",
+      "eligibility": "Artists, artistic groups and arts organizations from Canada with a validated applicant profile.",
+      "watch_out": "You need confirmed invitations from presenters or venues. Whether a screening tour of a feature film qualifies, and the amounts, are only in the portal guidelines, so confirm with the Council. 3 Feb 2027 is the next deadline overall but is too early, because the film won't be finished; use 9 Jun 2027 for screenings from about November 2027, or 6 Oct 2027 for screenings from about March 2028. Results take about 5 months after the deadline. This is release money, not production money.",
+      "deadline": "Deadlines: 3 Feb 2027, 9 Jun 2027 and 6 Oct 2027 (the closing time is shown in the portal). For PURPLE's early-2028 screenings, the 9 Jun 2027 deadline is the realistic one.",
+      "deadline_date": "2027-06-09",
+      "decision": "Usually within 5 months of the deadline.",
+      "reopens": "Three deadlines a year; after 6 Oct 2027 the next ones are expected in early 2028.",
+      "url": "https://canadacouncil.ca/funding/grants/arts-across-canada-and-abroad",
+      "apply_url": "https://cca-internal-cac-interne.my.site.com/s/fundingopportunity/119JQ000003Vz5bYAC/6604?language=en_US",
+      "how_to_apply": "Through the Canada Council portal with a validated profile. Line up written invitations from presenters (community centres, festivals, cinemas) on the route before the deadline.",
+      "phases": [
+        "distribution"
+      ],
+      "decision_weeks": 22,
+      "evidence": [
+        "https://canadacouncil.ca/funding/grants/deadlines"
+      ]
+    },
+    {
+      "id": "telefilm-canada-talent-to-watch-filmmaker-apply-direct-stream",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Talent to Watch: Filmmaker Apply-Direct Stream",
+      "funder": "Telefilm Canada",
+      "type": "Grant",
+      "region": "Canada",
+      "amount": "Non-repayable contribution that can cover up to 100% of the film's financing; maximum $250,000 for fiction features.",
+      "currency": "CAD",
+      "why_fit": "This is Telefilm's first-feature program. Teams whose producers, writer and director all belong to listed groups, including People of Colour, can apply without a partner's recommendation, and the contribution can cover the whole of PURPLE's financing. Telefilm says it may prioritize teams from Black, Indigenous and People of Colour communities.",
+      "priorities": "Discover and develop the next generation of Canadian filmmakers through a first feature; fund films with cultural impact and audience engagement; advance equity and representation (Indigenous, Black, People of Colour, 2SLGBTQIA+, gender-diverse, disability), creative teams outside the main production centres, and meaningful collaboration with the communities a film depicts.",
+      "eligibility": "Producers, directors and screenwriters who are Canadian citizens or permanent residents and emerging: each has made at least a short (30 minutes or less), web, TV, commercial or music-video work, or has equivalent experience, and has not held the same key role on a feature of 75 minutes or more. In this stream every key creative must be Indigenous, Black, a Person of Colour, a woman, gender-diverse, 2SLGBTQIA+, a person with a disability or an OLMC member. An individual can apply on behalf of a company to be incorporated if the project is selected.",
+      "watch_out": "PURPLE must run at least 75 minutes; a 65-page script may come in short. Budgets are expected to be between $150,000 and $500,000 (Telefilm 'may show flexibility'), so the $47,335 budget would need to be rebuilt to include E&O insurance, closed captions, described video and versions in both official languages. If selected, the team must incorporate a Canadian-controlled company that is wholly owned by the key creatives and owns 100% of the rights. The film needs 8 of 10 CAVCO points. Timing is the biggest issue: the intake is expected in April 2027, and decisions come about 80 business days after the close (around August 2027), which is after the planned May 2027 start. Completion projects are not eligible, so ask Telefilm before shooting anything. Every credited producer must belong to a listed group; otherwise use the Industry Partner Stream. A project can be submitted only once.",
+      "deadline": "2026-27 intake: opened 14 Apr 2026, 8:00am EDT; closed 28 Apr 2026, 11:59pm EDT. 2027-28 dates are not yet published.",
+      "deadline_estimate": "2027-04",
+      "decision": "Telefilm aims to decide within 80 business days of the closing date for complete applications.",
+      "reopens": "The last intake ran 14 to 28 April 2026; the next is expected in April 2027 (fiscal 2027-28).",
+      "closed_reason": "2026-27 intake closed 28 Apr 2026.",
+      "url": "https://telefilm.ca/en/financing/talent-to-watch",
+      "apply_url": "https://telefilm.ca/en/log-in",
+      "guidelines_url": "https://telefilm.ca/wp-content/uploads/2026/05/Guidelines_Talent_to_Watch_2026-2027.pdf",
+      "contact_email": "coordination@telefilm.ca",
+      "contact_source": "https://telefilm.ca/en/financing/talent-to-watch",
+      "how_to_apply": "1) Open a Dialogue account and create an Organization for the company to be incorporated. 2) Prepare every required document; anything missing must be sent within 5 business days of Telefilm's notice. 3) Submit in Dialogue during the April window. 4) Every producer, writer and director receives a self-identification questionnaire after submission. 5) If selected: incorporate, join the INIS/NSI mentorship program, and start principal photography within 18 months of the decision letter.",
+      "tips": "The creative assessment focuses on the pitch video, synopsis, director's vision and community engagement plan. Use the community plan to explain the Filipino-Canadian lived experience of the team, consultation with the community, work with the local Philippine crew, and why Tagalog dialogue is an artistic imperative. Reel Asian has offered consultations to Asian-identifying teams applying to the Direct Stream (programming@reelasian.com). Only recommended projects receive feedback, and a project gets one try unless Telefilm invites it to reapply, so don't submit early drafts.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "amount_max": 250000,
+      "decision_weeks": 16,
+      "questions": [
+        {
+          "q": "Completed script (screenplay)",
+          "kit": "custom",
+          "hint": "The full, production-ready PURPLE screenplay. It is read only if the project is shortlisted, but it must be attached."
+        },
+        {
+          "q": "Presentation video: working title; genre, type and length; key creative team and track records; synopsis from beginning to end; the team's vision and visual treatment; what sets the project apart; target audience; a 1-minute segment of the director's previous short",
+          "limit": "5 minutes (link embedded in a Word document)",
+          "kit": "custom",
+          "hint": "A pitch video covering every listed element, with only the team's own footage. Telefilm says to give it particular attention."
+        },
+        {
+          "q": "Synopsis of the project, telling the story from beginning to end",
+          "limit": "750 words (PDF)",
+          "kit": "synopsis_long"
+        },
+        {
+          "q": "Director's Vision",
+          "limit": "3 pages (PDF)",
+          "kit": "statement"
+        },
+        {
+          "q": "Audience Engagement and Discoverability Plan (Telefilm form)",
+          "kit": "audience"
+        },
+        {
+          "q": "Track record for producer, screenwriter and director (Telefilm template, one per person)",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Production schedule from pre-production to release, showing principal photography within 18 months of the decision letter",
+          "kit": "schedule"
+        },
+        {
+          "q": "Budget top sheet (Telefilm template)",
+          "kit": "budget"
+        },
+        {
+          "q": "Financing plan form (Telefilm template)",
+          "kit": "funding_plan"
+        },
+        {
+          "q": "Community Engagement Plan",
+          "kit": "representation"
+        }
+      ],
+      "evidence": [
+        "https://telefilm.ca/wp-content/uploads/2026/05/Essential-Information-Guide_Talent_to_Watch_2026-2027.pdf",
+        "https://telefilm.ca/wp-content/uploads/2026/05/List-of-Required-Documents_Talent_to_Watch_2026-2027.pdf",
+        "https://telefilm.ca/en/we-finance-and-support/program-deadline",
+        "https://www.reelasian.com/industry/telefilm-talent-to-watch/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "telefilm-canada-talent-to-watch-industry-partner-stream",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Talent to Watch: Industry Partner Stream",
+      "funder": "Telefilm Canada",
+      "type": "Grant",
+      "region": "Canada",
+      "amount": "Non-repayable contribution that can cover up to 100% of the film's financing; maximum $250,000 for fiction features.",
+      "currency": "CAD",
+      "why_fit": "If any of PURPLE's credited producers is not in a listed group, a recommendation from a Designated Partner opens the same first-feature money. Toronto partners include Reel Asian, Reelworld Screen Institute, the Canadian Film Centre, TIFF, CaribbeanTales and the DGC, plus film schools (York, Toronto Metropolitan, Humber, Sheridan) whose recent graduates qualify.",
+      "priorities": "Same as the program as a whole: first features by emerging Canadian teams with cultural impact and audience reach, with a priority on equity and representation. Partners are training institutions, film co-ops and festivals with talent incubators.",
+      "eligibility": "Emerging producers, directors and screenwriters (same rules as other streams) whose project is recommended by a Designated Partner. Main component: the director must be a recent graduate (within the last 5 years) of the partner's production program, an active member (within the last 3 years) of its film co-op, or a participant in its festival incubator. Producers and writers do not need that link but must be emerging.",
+      "watch_out": "Matthew needs a real link to a partner: someone who registers with the partner on or near the day they apply does not count as an active member. Each partner runs its own selection and sets its own deadline, earlier than Telefilm's (2026 examples: Whistler Film Festival 30 Mar, Yukon Film Society 20 Apr). All the program-wide issues also apply: a runtime of at least 75 minutes, an expected budget of $150,000 to $500,000, incorporation if selected, 8/10 CAVCO points, captions, described video and both official languages, and an August decision that lands after a May 2027 shoot start.",
+      "deadline": "Telefilm's 2026-27 window ran 14 Apr 2026, 8:00am EDT to 28 Apr 2026, 11:59pm EDT. Partner recommendation deadlines come earlier (often March) and are set by each partner; 2027 dates are not yet published.",
+      "deadline_estimate": "2027-03",
+      "decision": "Telefilm aims to decide within 80 business days of its closing date.",
+      "reopens": "Partners usually call for projects in late winter, before Telefilm's April window; the next Telefilm window is expected in April 2027.",
+      "closed_reason": "2026-27 intake closed 28 Apr 2026.",
+      "url": "https://telefilm.ca/en/financing/talent-to-watch",
+      "apply_url": "https://telefilm.ca/en/log-in",
+      "guidelines_url": "https://telefilm.ca/wp-content/uploads/2026/05/Guidelines_Talent_to_Watch_2026-2027.pdf",
+      "contact_email": "coordination@telefilm.ca",
+      "contact_source": "https://telefilm.ca/en/financing/talent-to-watch",
+      "how_to_apply": "1) Check which Designated Partner Matthew has a qualifying link to (see the 2026-27 partner list, which includes contacts such as Reel Asian aram@reelasian.com and Reelworld industry@reelworld.ca). 2) Apply to that partner's own selection process early in 2027. 3) If recommended, get the signed Letter of Recommendation (Telefilm template). 4) Apply in Dialogue during Telefilm's April window with all the required documents plus the letter.",
+      "tips": "Partners must judge that a project is production-ready, feasible at its budget, and able to start principal photography within 18 months, so bring a finished script, budget and schedule. Partners may mentor or give in-kind help but cannot take rights or a share of Telefilm's money. Telefilm notes that the director should not also be the lead producer.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "amount_max": 250000,
+      "decision_weeks": 16,
+      "questions": [
+        {
+          "q": "Letter of Recommendation from the Designated Industry Partner (Telefilm template)",
+          "kit": "custom",
+          "hint": "Signed by the partner; it confirms the director is a recent alumnus, an active member or an incubator participant."
+        },
+        {
+          "q": "Presentation video",
+          "limit": "5 minutes",
+          "kit": "custom",
+          "hint": "Same pitch video as the Apply-Direct stream; see the required-documents list."
+        },
+        {
+          "q": "Synopsis, from beginning to end",
+          "limit": "750 words (PDF)",
+          "kit": "synopsis_long"
+        },
+        {
+          "q": "Director's Vision",
+          "limit": "3 pages (PDF)",
+          "kit": "statement"
+        },
+        {
+          "q": "Audience Engagement and Discoverability Plan (Telefilm form)",
+          "kit": "audience"
+        },
+        {
+          "q": "Track record for producer, screenwriter and director (template)",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Production schedule (pre-production to release)",
+          "kit": "schedule"
+        },
+        {
+          "q": "Budget top sheet (template)",
+          "kit": "budget"
+        },
+        {
+          "q": "Financing plan form (template)",
+          "kit": "funding_plan"
+        },
+        {
+          "q": "Community Engagement Plan",
+          "kit": "representation"
+        }
+      ],
+      "evidence": [
+        "https://telefilm.ca/wp-content/uploads/2026/05/List-of-Designated-Partners_Talent_to_Watch_2026-2027.pdf",
+        "https://telefilm.ca/wp-content/uploads/2026/05/Essential-Information-Guide_Talent_to_Watch_2026-2027.pdf",
+        "https://telefilm.ca/wp-content/uploads/2026/05/Letter-of-Recommendation_Talent_to_Watch_2026-2027.pdf",
+        "https://yukonfilmsociety.com/news/talent-to-watch-program-2026-call-for-submissions-recommendation-phase",
+        "https://www.whistlerfilmfestival.com/talent-labs/telefilm-talent-to-watch"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "telefilm-canada-international-promotion-program-participation-in-international-f",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "International Promotion Program: participation in international festivals",
+      "funder": "Telefilm Canada",
+      "type": "Grant",
+      "region": "Canada",
+      "amount": "For a feature, per festival: up to $25,000 (Category 1), $15,000 (Category 2), or $2,000 ($5,000 for a world or international premiere) (Category 3); up to $40,000 per feature in total. Travel to co-production markets for invited projects: $2,000 per person, $4,000 per event.",
+      "currency": "CAD",
+      "why_fit": "If PURPLE is selected for a recognized international festival in 2028, Telefilm can pay the team's travel and publicity costs there. The program counts a film as a feature if the festival selects it as one, which helps a 65 to 75 minute film.",
+      "priorities": "Promoting Canadian content and talent abroad through participation in international festivals, forums, co-production markets and Telefilm's international initiatives.",
+      "eligibility": "The producer, distributor or sales agent of the film, which must be a Canadian-controlled company with its head office in Canada. The film must be a Canadian feature certified (or eligible) by CAVCO with 8 of 10 points and officially selected at a festival in the tiers listed in Appendix A.",
+      "watch_out": "Needs a production company and an official selection at a listed festival (Appendix A is a separate document; other festivals are at Telefilm's discretion). Apply at least 3 weeks before the festival opens, while a window is open and funds remain. Costs already paid by the festival or another funder can't be claimed. It does nothing for the production gap.",
+      "deadline": "Apply at least 3 weeks before the festival opens, within an open window. The 2026-27 window runs 14 Apr 2026, 8:00am EDT to 16 Feb 2027, 11:59pm EST, subject to available funds.",
+      "reopens": "A new window is expected each April (2027-28 and 2028-29); PURPLE would use the window covering its 2028 festivals.",
+      "url": "https://telefilm.ca/en/we-finance-and-support/our-programs/international-programs/international-promotion-program",
+      "apply_url": "https://telefilm.ca/en/log-in",
+      "guidelines_url": "https://telefilm.ca/wp-content/uploads/2022/06/Guidelines_International_Promotion_2026_EN.pdf",
+      "contact_email": "coordination@telefilm.ca",
+      "contact_source": "https://telefilm.ca/en/we-finance-and-support/our-programs/international-programs/international-promotion-program",
+      "how_to_apply": "In Dialogue, as the Canadian production company, with the festival's official selection letter and a budget of eligible costs, at least 3 weeks before the festival.",
+      "phases": [
+        "distribution"
+      ],
+      "amount_max": 40000,
+      "rolling": true,
+      "evidence": [
+        "https://telefilm.ca/en/we-finance-and-support/program-deadline"
+      ]
+    },
+    {
+      "id": "telefilm-canada-marketing-program-canada-feature-film-fund",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Marketing Program (Canada Feature Film Fund)",
+      "funder": "Telefilm Canada",
+      "type": "Program",
+      "region": "Canada",
+      "amount": "Marketing and promotion: repayable advance of up to 75% of eligible Canadian marketing costs. Versioning (such as French subtitles): repayable advance of up to 75%, capped at $420 per minute to $48,000 for a theatrical release ($380 per minute to $43,200 for TV or digital). Audience-engagement activities: non-repayable, up to 100% of the activity.",
+      "currency": "CAD",
+      "why_fit": "If PURPLE gets Talent to Watch money, this is the follow-on for its 2028 release. Telefilm gives priority to films it funded, and audience-engagement activities such as Filipino-Canadian community screenings can be funded non-repayably.",
+      "priorities": "Increase awareness and audiences for Canadian films, including impact campaigns, hybrid, platform-based or festival-led releases, and marketing investment for films from equity-deserving communities.",
+      "eligibility": "The Canadian production or distribution company of the film, Canadian-controlled with its head office in Canada and financially stable. The film must be a feature of at least 75 minutes with 8 of 10 CAVCO points. Priority goes to films funded by Telefilm's Production, Theatrical Documentary or Talent to Watch programs.",
+      "watch_out": "Needs a company, a runtime of at least 75 minutes and 8/10 CAVCO points. It is realistic mainly if Telefilm already funded the production. Most support is a repayable advance, and costs must be for services in Canada. If a distributor is attached, a producer applying needs the distributor's written authorization. Apply before spending.",
+      "deadline": "Within the yearly window, subject to funds. The 2026-27 window runs 23 Apr 2026, 8:00am EDT to 16 Feb 2027, 11:59pm EST.",
+      "reopens": "A new window normally opens each spring; PURPLE would apply in the 2027-28 window ahead of its early-2028 release.",
+      "url": "https://telefilm.ca/en/we-finance-and-support/our-programs/feature-films/marketing-program",
+      "apply_url": "https://telefilm.ca/en/log-in",
+      "guidelines_url": "https://telefilm.ca/wp-content/uploads/2026/05/Guidelines_Marketing_2026-2027.pdf",
+      "contact_email": "coordination@telefilm.ca",
+      "contact_source": "https://telefilm.ca/en/we-finance-and-support/our-programs/feature-films/marketing-program",
+      "how_to_apply": "In Dialogue, with a marketing or audience-engagement plan and budget, before the activities start.",
+      "phases": [
+        "distribution"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://telefilm.ca/en/we-finance-and-support/program-deadline"
+      ]
+    },
+    {
+      "id": "canadian-audio-visual-certification-office-cavco-canadian-heritage-with-the-cana",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Canadian Film or Video Production Tax Credit (CPTC)",
+      "funder": "Canadian Audio-Visual Certification Office (CAVCO), Canadian Heritage, with the Canada Revenue Agency",
+      "type": "Tax credit",
+      "region": "Canada",
+      "amount": "Fully refundable credit of 25% of qualified labour expenditure, with labour capped at 60% of production cost (net of assistance), so at most 15% of net production cost.",
+      "currency": "CAD",
+      "why_fit": "PURPLE has a Canadian writer-director, so it can earn the key CAVCO points, and the credit refunds part of the Canadian crew and cast wages even with no broadcaster. It is also the certification Telefilm and Ontario's tax credit build on.",
+      "priorities": "Encourage Canadian programming and develop an active domestic production sector by refunding part of the Canadian labour cost of certified Canadian productions.",
+      "eligibility": "A prescribed taxable Canadian corporation that is Canadian-controlled and primarily carries on a Canadian film or video production business through a permanent establishment in Canada. The production needs at least 6 of 10 creative points (director 2, screenwriter 2, each of the two highest-paid lead performers 1, DOP 1, art director 1, composer 1, picture editor 1). The director or screenwriter, and one of the two highest-paid lead performers, must be Canadian, and all producers must be Canadian.",
+      "watch_out": "It needs a production corporation that owns the copyright for 25 years. It also needs a written fair-market-value agreement with a Canadian distributor or a CRTC-licensed broadcaster (or an acceptable online service) to show PURPLE in Canada within two years of completion. At least 75% of producing-service costs must be paid to Canadians and 75% of post costs incurred in Canada, so the Philippine local crew counts against the 25% non-Canadian allowance. The credit is based on Canadian labour, so Philippine crew wages generally won't add to it. The cash only arrives after the corporation's tax return is assessed, so it can't fund the shoot unless it is bridged. Each certificate (Part A and Part B) costs 0.15% of the eligible production cost. Telefilm needs 8 points (not 6).",
+      "deadline": "Rolling: no deadline for Part A. Part B is due within 24 months of the end of the corporation's first tax year ending after principal photography starts, extendable to 42 months with T2029 waivers filed with the CRA.",
+      "decision": "CAVCO's service standard is 180 calendar days from a complete application to certification or denial.",
+      "url": "https://www.canada.ca/en/canadian-heritage/services/funding/cavco-tax-credits/canadian-film-video-production.html",
+      "apply_url": "https://sc-gc.pch.gc.ca/portalo/#/landing?LangId=2",
+      "guidelines_url": "https://www.canada.ca/en/canadian-heritage/services/funding/cavco-tax-credits/canadian-film-video-production/application-guidelines.html",
+      "contact_email": "bcpac-cavco@pch.gc.ca",
+      "contact_source": "https://www.canada.ca/en/canadian-heritage/services/funding/cavco-tax-credits/canadian-film-video-production.html",
+      "how_to_apply": "1) Incorporate a Canadian-controlled production company before production and put the rights and contracts in its name. 2) Get CAVCO personnel numbers for key creatives. 3) Apply for the Part A certificate (eligibility) in CAVCO Online, ideally before or during production. 4) Secure a Canadian distributor or broadcaster agreement. 5) After completion, apply for the Part B certificate with audited costs. 6) Claim the credit on the company's T2 return with Form T1131.",
+      "tips": "At PURPLE's $47,335 budget the ceiling is about $7,100 (15% of net cost), and only if Canadian labour is at least 60% of costs. Paying deferred or nominal fees reduces the credit, so book real wages to Canadian crew. The company structure should also suit Telefilm (wholly owned by the key creatives) and Ontario's OFTTC.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "decision_weeks": 26,
+      "rolling": true,
+      "evidence": [
+        "https://www.canada.ca/en/canadian-heritage/services/funding/cavco-tax-credits/fees.html",
+        "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/film-media-tax-credits/canadian-film-video-production-tax-credit-apply.html"
+      ]
+    },
+    {
+      "id": "employment-and-social-development-canada-service-canada-canada-summer-jobs-2027",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Canada Summer Jobs 2027",
+      "funder": "Employment and Social Development Canada (Service Canada)",
+      "type": "Wage subsidy",
+      "region": "Canada",
+      "amount": "Private-sector and public-sector employers: up to 50% of the provincial or territorial adult minimum hourly wage. Not-for-profit employers: up to 100% of it, plus mandatory employment-related costs.",
+      "currency": "CAD",
+      "why_fit": "Jobs can run 6 to 16 weeks between 19 Apr and 28 Aug 2027, which covers PURPLE's May to July Ottawa, Montreal and Alberta shoot. The subsidy could pay part of the wages of youth production assistants or trainees aged 15 to 30.",
+      "priorities": "Paid summer work experience for youth aged 15 to 30, with quality jobs, supervision and mentoring; applicants say whether each job supports national priorities and any local priorities set by the MP.",
+      "eligibility": "Not-for-profit organizations, public-sector employers, and private-sector employers (incorporated or not, including partnerships and sole proprietorships) with 50 or fewer full-time employees. The employer needs its own CRA business number and must have operated for at least 2 years by 31 Dec 2026, unless it had CSJ 2026 funding. Youth must be 15 to 30, Canadian citizens, permanent residents or protected persons with a SIN; international students are not eligible.",
+      "watch_out": "A newly formed production company will not meet the 2-year rule. The employer would have to be an existing sole proprietorship or company of Matthew's or a producer's, with its own business number and at least 2 years of operation, or a not-for-profit partner (which gets 100%). Private employers receive only 50% of minimum wage. Jobs must be full-time (30 to 40 hours a week) for 6 to 16 consecutive weeks. The deadline is only weeks away.",
+      "deadline": "3 Dec 2026, 11:59pm PT (the window opened 27 Oct 2026).",
+      "deadline_date": "2026-12-03",
+      "opens": "2026-10-27",
+      "reopens": "Next call (CSJ 2028) expected in autumn 2027.",
+      "url": "https://www.canada.ca/en/employment-social-development/services/funding/canada-summer-jobs.html",
+      "apply_url": "https://www.canada.ca/en/employment-social-development/services/funding/canada-summer-jobs/applicant-guide/apply.html",
+      "guidelines_url": "https://www.canada.ca/en/employment-social-development/services/funding/canada-summer-jobs/applicant-guide.html",
+      "how_to_apply": "Apply online through Grants and Contributions Online Services (GCOS), or by mail or in person, by 3 Dec 2026. Have the CRA business number, health and safety, workers' compensation and anti-harassment details ready. Complete Part A (employer), Part B (one section per job) and Part C (funding), then sign the attestation.",
+      "phases": [
+        "production"
+      ],
+      "questions": [
+        {
+          "q": "Part A: Employer information (organization details, business number, job location, health and safety, workers' compensation, anti-harassment and anti-discrimination practices)",
+          "kit": "custom",
+          "hint": "Legal name and business number of the employer, and the safety and harassment policies for the set."
+        },
+        {
+          "q": "Part B, Q27: Job details (job title, tasks, work arrangement, language, supervision, skills, mentoring, retention, recruitment, priorities)",
+          "kit": "custom",
+          "hint": "For example 'Production assistant (youth)': on-set duties, who supervises, the skills learned, and how you will recruit, including youth from the Filipino-Canadian community."
+        },
+        {
+          "q": "Part C: Funding (participants, dates, weeks, hours, wage, total funding requested)",
+          "kit": "budget"
+        }
+      ],
+      "evidence": [
+        "https://www.canada.ca/en/employment-social-development/services/funding/canada-summer-jobs/applicant-guide/who-can-apply.html",
+        "https://www.canada.ca/en/employment-social-development/services/funding/canada-summer-jobs/applicant-guide/prepare-application.html",
+        "https://www.canada.ca/en/employment-social-development/news/2026/10/canada-summer-jobs-2027-application-period-for-employers-open-now-until-december-3-2026.html"
+      ]
+    },
+    {
+      "id": "canadian-heritage-multiculturalism-and-anti-racism-program-events-component",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Multiculturalism and Anti-Racism Program: Events component",
+      "funder": "Canadian Heritage",
+      "type": "Grant",
+      "region": "Canada",
+      "amount": "Up to $100,000 per event per fiscal year.",
+      "currency": "CAD",
+      "why_fit": "A free public screening of PURPLE with a discussion on Filipino-Canadian family, grief and belonging, co-presented with a Filipino-Canadian community group, fits the program's support for events that celebrate a community's history and culture and build intercultural understanding.",
+      "priorities": "Community-based events that promote intercultural or interfaith understanding, discussion of multiculturalism, diversity, racism and religious discrimination, or celebrate a community's history and culture (such as heritage months). Current priorities: community-led efforts to counter hate and misinformation, and gatherings that build human connection and belonging.",
+      "eligibility": "Canadian not-for-profit organizations, associations and unincorporated groups; small municipalities (up to 10,000 people); Indigenous not-for-profits and governments. Events must be open to the general public.",
+      "watch_out": "Individuals and for-profit companies cannot apply, so a not-for-profit or community partner (or an unincorporated not-for-profit group) must be the applicant. It pays event costs only (venue, artist and speaker fees, promotion, domestic travel, captioning and translation), not the film. Profit-making, commercial or private events, food and drink, international travel, and costs incurred before the application is received are ineligible. Financial statements and organizational documents are required. The online portal is down, so forms must be requested by email.",
+      "deadline": "For events starting 1 Dec 2027 to 31 Mar 2028 (PURPLE's January 2028 screening): intake 12 May 2027, 8:00am ET to 22 Jun 2027, 4:00pm ET. The other 2027-28 intake runs 13 Jan to 24 Feb 2027, 4:00pm ET, for events from 1 Aug to 30 Nov 2027.",
+      "deadline_date": "2027-06-22",
+      "opens": "2027-05-12",
+      "decision": "Receipt is acknowledged within two weeks; the decision time is not stated.",
+      "url": "https://www.canada.ca/en/canadian-heritage/services/funding/multiculturalism-anti-racism/events.html",
+      "guidelines_url": "https://www.canada.ca/en/canadian-heritage/services/funding/multiculturalism-anti-racism/events/application-guidelines.html",
+      "contact_email": "multiontario-ontariomulti@pch.gc.ca",
+      "contact_source": "https://www.canada.ca/en/canadian-heritage/services/funding/multiculturalism-anti-racism/events.html",
+      "how_to_apply": "Email the Ontario regional office for the Application Form and Budget Form. Complete, sign and date them, attach the attestation, a balanced budget (Program template), recent financial statements and organizational documents, and email everything to the regional office during the intake.",
+      "tips": "Applications are assessed on event design, goals and rationale (clear need, confirmed partners, positive interaction between communities), on results, budget integrity and value for money, and on capacity to deliver. Pair the screening with a panel or workshop, keep it free and public, and show confirmed partners.",
+      "phases": [
+        "distribution"
+      ],
+      "amount_max": 100000,
+      "evidence": [
+        "https://www.canada.ca/en/canadian-heritage/services/funding/multiculturalism-anti-racism/events/application-guidelines.html"
+      ]
+    },
+    {
+      "id": "canadian-independent-screen-fund-for-bpoc-creators-cisf-cisf-programs-for-bpoc-c",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "CISF programs for BPOC creators (CISF Connect and future funds)",
+      "funder": "Canadian Independent Screen Fund for BPOC Creators (CISF)",
+      "type": "Program",
+      "region": "Canada",
+      "amount": "No fiction-feature funding open. The 2026 Hot Docs-CISF Connect Audience Engagement Grant was a single $10,000 award for a documentary.",
+      "currency": "CAD",
+      "why_fit": "CISF is the national, BPOC-governed fund for Black and racialized screen creators. Its CISF Connect audience initiative funds producer marketing and trains Film Engagement Specialists to run community screenings, which suits PURPLE's 2028 Filipino-Canadian screenings if CISF opens it to fiction.",
+      "priorities": "Supports emerging, intermediate and experienced creators from BPOC communities in the development and production of screen projects, and Canadian-owned BPOC production companies. CISF Connect aims to build lasting audiences for films by Black and racialized filmmakers, beyond one-off festival premieres.",
+      "eligibility": "Generally Canadian-owned BPOC production companies or productions. The 2026 CISF Connect grant required a Canadian documentary by a Black or racialized filmmaker that screened at Hot Docs 2026.",
+      "watch_out": "No CISF program is currently open to a fiction feature. The 2026 CISF Connect grant was for documentaries (closed 31 May 2026), and the Rogers-BSO Script Development Fund is for TV series and documentaries and is closed. CISF was named among the funds receiving money in Budget 2026, so new programs may appear, but none are announced. CISF funding generally targets Canadian-owned BPOC production companies.",
+      "reopens": "Watch independentfund.org and the CISF newsletter for programs funded through Budget 2026; no 2027 dates are published.",
+      "closed_reason": "No open CISF program fits a fiction feature (checked 2026-11-16).",
+      "url": "https://independentfund.org/",
+      "apply_url": "https://independentfund.org/cisf-connect/",
+      "how_to_apply": "Sign up for the CISF newsletter and use the contact form (independentfund.org/contact) to ask whether CISF Connect will accept fiction features in 2027-28.",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://independentfund.org/cisf-connect/",
+        "https://independentfund.org/cisf-connect-award/",
+        "https://independentfund.org/rogers-bso-fund/",
+        "https://independentfund.org/about/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "ontario-arts-council-media-artists-creation-projects-emerging",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Media Artists: Creation Projects (Emerging)",
+      "funder": "Ontario Arts Council",
+      "type": "Grant",
+      "region": "Ontario",
+      "amount": "Emerging: up to $10,000 (Mid-Career and Established: up to $40,000). You may ask for up to 100% of project costs; total project budget must not exceed $125,000 for Emerging.",
+      "currency": "CAD",
+      "why_fit": "The main Ontario grant for a director's own independent film: drama is an eligible form, narrative films go to their own peer panel, and Artists of Colour are an OAC priority group. PURPLE's $47K budget is far under the $125K Emerging cap, and $10,000 would cover most of the post-production budget.",
+      "priorities": "Supports Ontario media artists creating independent work in the production and post-production phases, where the director has creative and editorial control and holds copyright. Considers OAC's priority groups (including Artists of Colour) and strives for gender parity. Not intended for commercial media production.",
+      "eligibility": "Ontario residents who are the director or principal media artist, working on their own initiative and holding copyright. Emerging: at least one completed independent media work you initiated as director (student work does not count) and not enrolled in a formal media arts program. Producers, and people who only contributed to others' projects, are not eligible.",
+      "watch_out": "Matthew must already have at least one completed independent work he directed; being AD on Quiet Father does not count. The activity cannot start before results, which come about 4.5 months after the deadline (around early August 2027 for a March 2027 deadline), after the shoot has begun: frame the request around the Philippines shoot and post-production and confirm that framing with OAC first. The cheque is only released once all other revenue in the budget is confirmed, and the grant is forfeited if that is not done within a year. Excluded: producer-driven or 'calling-card' films, commissioned work, screenwriting, TV pilots. The 2027 dates were not yet published on 2026-11-16.",
+      "deadline": "Two deadlines a year, 1 p.m. ET. The 2026 deadlines were 17 March and 8 October 2026; 2027 dates are not yet published. The form appears in Nova about two months before each deadline.",
+      "deadline_estimate": "2027-03",
+      "decision": "About four and a half months after the deadline.",
+      "reopens": "Last deadline closed 8 Oct 2026 (the one before was 17 Mar 2026). Next expected March 2027, then October 2027; watch OAC's Grant Program Deadlines page.",
+      "closed_reason": "The 8 October 2026 deadline has passed and OAC has not yet published its 2027 dates.",
+      "url": "https://www.arts.on.ca/grants/media-artists-creation-projects",
+      "apply_url": "https://grants.arts.on.ca/s_Login.jsp",
+      "guidelines_url": "https://www.arts.on.ca/grants/general-granting-information/guide-to-oac-project-programs",
+      "contact_email": "ayared@arts.on.ca",
+      "contact_source": "https://www.arts.on.ca/grants/media-artists-creation-projects",
+      "how_to_apply": "1) Create or update Matthew's Nova profile before the form opens. 2) Read the Guide to OAC Project Programs and the Activity Projects questions. 3) Contact the program administrator (Amber Yared, ayared@arts.on.ca, 416-969-7461) to confirm Emerging eligibility and a post-production framing. 4) When the form appears in Nova (about two months before the deadline) submit: project basics, answers to the application questions, project budget and detailed budget, one audiovisual example (Emerging), and support documents (résumé/bio, script, visual and sound treatment, letters of agreement).",
+      "tips": "Narrative films are assessed by a separate panel, so make the cinematic approach concrete: script, a visual and sound treatment, and an example that shows directing. Use the 'context' answer for PURPLE's Filipino-Canadian story and racialized team, since Artists of Colour are a priority group. Make the rest of the budget as confirmed as possible, because the cheque waits until all revenue is confirmed.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "amount_max": 10000,
+      "decision_weeks": 20,
+      "questions": [
+        {
+          "q": "Tell us about who you are as an artist.",
+          "limit": "300 words",
+          "kit": "bio"
+        },
+        {
+          "q": "Describe the context in which you work (this is where you can address your connection to OAC priority groups).",
+          "limit": "300 words",
+          "kit": "representation"
+        },
+        {
+          "q": "CVs, résumés and bios",
+          "limit": "1,000 words or 3 pages",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Describe how the artistic examples below relate to your project.",
+          "limit": "150 words",
+          "kit": "custom",
+          "hint": "Name the example (a work Matthew directed), say what it shows about his directing (performances, family drama, cultural specificity) and how that carries into PURPLE."
+        },
+        {
+          "q": "Artistic example (Emerging: one audiovisual example)",
+          "kit": "previous_work"
+        },
+        {
+          "q": "What are you planning to do, and what do you want to achieve with this project?",
+          "limit": "425 words",
+          "kit": "statement"
+        },
+        {
+          "q": "Work plan: start and end dates, activities, locations and people or organizations involved",
+          "kit": "schedule"
+        },
+        {
+          "q": "Other people or organizations involved: name, city, role, paid or not",
+          "limit": "20 rows",
+          "kit": "team"
+        },
+        {
+          "q": "Why did you choose these people or organizations, how will you work with them, and what will they contribute?",
+          "limit": "400 words",
+          "kit": "team"
+        },
+        {
+          "q": "How will this project contribute to your development?",
+          "limit": "200 words",
+          "kit": "custom",
+          "hint": "First feature as director after working as an AD; what directing a multilingual road movie across four regions and two countries will teach Matthew, and where it leads next."
+        },
+        {
+          "q": "What audiences, participants, communities, partners and artists do you intend to reach? Describe the immediate and ongoing benefits.",
+          "limit": "450 words",
+          "kit": "audience"
+        },
+        {
+          "q": "What are your plans to reach your intended audience, participants or community?",
+          "limit": "225 words",
+          "kit": "distribution"
+        },
+        {
+          "q": "Project budget (OAC form; expenses must equal revenues)",
+          "kit": "budget"
+        },
+        {
+          "q": "Budget notes",
+          "limit": "1,000 words",
+          "kit": "use_of_funds"
+        }
+      ],
+      "evidence": [
+        "https://www.arts.on.ca/grants/general-granting-information/grant-program-deadlines-and-important-dates",
+        "https://www.arts.on.ca/grants/general-granting-information/guide-to-oac-project-programs/questions-%E2%80%93-activity-projects"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "toronto-arts-council-media-artists-program-creation",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Media Artists Program: Creation",
+      "funder": "Toronto Arts Council",
+      "type": "Grant",
+      "region": "Toronto",
+      "amount": "Up to $15,000",
+      "currency": "CAD",
+      "why_fit": "Toronto's grant for a director's own independent film, for production and/or post-production or completing a work in progress; script samples are expected for narrative features, and TAC favours equity-priority applicants (including artists of colour) when merit is equal. The 2027 round could pay for PURPLE's finishing (colour, mix, DCP) from mid-December 2027.",
+      "priorities": "Supports media artists with a professional independent practice to create new work or complete works in progress, covering direct costs of creation, production and materials. Peer panels judge artistic merit mainly from support material; TAC's Equity Priority Policy favours applicants from its equity priority groups among applications of equal merit.",
+      "eligibility": "Professional artists who are Canadian citizens or permanent residents (or pending PR or Protected Persons), have lived in the City of Toronto for at least one year before the deadline, have created at least one media artwork, and keep full copyright and creative control. For film or video only the director can apply; producers cannot be co-applicants. Total project budget must not exceed $350,000.",
+      "watch_out": "The 15 October 2026 deadline was missed. The next round (expected October 2027) funds projects that start no earlier than 15 December, so in practice it can only pay for PURPLE's late post-production (mid-December 2027 to February 2028), and the film must not be finished before results. All support examples must carry Matthew's directing credit. One TAC discipline grant per calendar year, and no applying to both the Visual Artists and Media Artists programs in the same year. Not funded: scriptwriting, promotion and marketing, travel or exhibition alone, equipment over $750.",
+      "deadline": "Once a year, mid-October; applications are accepted any time before the deadline through TAC Grants Online. The 2026 deadline was 15 October 2026 (no time stated); the 2027 date is not yet published.",
+      "deadline_estimate": "2027-10",
+      "decision": "About 3 months after you submit; the first results come out by the end of December.",
+      "reopens": "Last deadline closed 15 Oct 2026 (2025 deadline: 15 Oct 2025). Next expected October 2027.",
+      "closed_reason": "The 15 October 2026 deadline has passed; the 2027 guidelines are not yet posted.",
+      "url": "https://torontoartscouncil.org/grants/media-artists-program-creation/",
+      "apply_url": "https://tac.smartsimple.ca",
+      "guidelines_url": "https://torontoartscouncil.org/wp-content/uploads/sites/2/2025/03/2026-Media-Artists-Program-Guidelines.pdf",
+      "contact_email": "peter@torontoartscouncil.org",
+      "contact_source": "https://torontoartscouncil.org/grants/media-artists-program-creation/",
+      "how_to_apply": "Register on TAC Grants Online, then complete: Proposed Use of Grant (two questions), artist CV, a balanced budget for the whole project, and support material (links to up to two examples, maximum 5 minutes each, with Matthew's directing credit; for a post-production request at least one example must be an excerpt of PURPLE; script sample of up to 20 pages as PDF; letters of agreement for any material whose copyright he does not hold). No Google Drive links. Equity-deserving applicants are encouraged to talk to the Program Manager (Peter Kingstone, 416-392-6802 x208) before applying.",
+      "tips": "Panels decide largely on the support material, so choose the strongest directed work and, for a completion request, a polished PURPLE excerpt. No letters of recommendation, reviews or press clippings. If funded, credit 'produced with the support of the City of Toronto through Toronto Arts Council'.",
+      "phases": [
+        "post-production"
+      ],
+      "amount_max": 15000,
+      "decision_weeks": 13,
+      "questions": [
+        {
+          "q": "How the proposed work relates to your overall practice, and the relevant themes, techniques, aesthetic and cultural concerns you plan to explore",
+          "limit": "1,000 words",
+          "kit": "statement"
+        },
+        {
+          "q": "Brief description of the work, including the planned treatment of production, visuals and sound",
+          "limit": "500 words",
+          "kit": "custom",
+          "hint": "Short synopsis plus the visual and sound treatment: camera approach, the route and locations, colour (the purple motif), music, and how the three languages are handled."
+        },
+        {
+          "q": "Artist resume / CV",
+          "kit": "bio"
+        },
+        {
+          "q": "Budget for the entire project (revenues must equal expenses)",
+          "kit": "budget"
+        },
+        {
+          "q": "Support material: up to two examples, maximum 5 minutes each, with your directing credit (one must be a PURPLE excerpt for post-production requests)",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Script sample (required for narrative features)",
+          "limit": "20 pages, PDF",
+          "kit": "custom",
+          "hint": "The strongest 20 pages of the PURPLE screenplay, with Tagalog and French lines translated."
+        }
+      ],
+      "evidence": [
+        "https://torontoartscouncil.org/grants",
+        "https://torontoartscouncil.org/wp-content/uploads/sites/2/2025/03/2025-Media-Artists-Program-Guidelines.pdf"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "ontario-arts-council-market-development-travel",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Market Development Travel",
+      "funder": "Ontario Arts Council",
+      "type": "Grant",
+      "region": "Ontario",
+      "amount": "$1,000 (travel in Ontario), $1,500 (other provinces or the U.S.), $2,000 (outside Canada and the U.S.); no partial grants",
+      "currency": "CAD",
+      "why_fit": "Once PURPLE is selected for a festival with an industry or market side (OAC names TIFF and Berlinale as examples), this pays for Matthew's trip to promote the film to programmers and buyers.",
+      "priorities": "Helps Ontario artists and arts professionals travel to a recognized marketplace event (showcase, fair, festival, conference) where presenters will be, or to meet at least two presenters, to promote specific work.",
+      "eligibility": "Professional artists and arts professionals living in Ontario in an OAC-supported practice, plus Ontario collectives and non-profits. Travel must be at least 100 km from home.",
+      "watch_out": "Travel only to present the film to public audiences (a premiere alone) is not eligible: it must be about promoting PURPLE to presenters, backed by an invitation letter or registration plus a list of presenters attending, or letters confirming meetings with at least two presenters. One grant per program year (April to March). The 2026-27 program is already closed, so this only helps in 2028.",
+      "deadline": "Continuous intake: apply any time before the travel starts (no minimum lead time) while the program year is open. The program closes when its budget is spent, or on 15 January at the latest (15 January 2027 for 2026-27).",
+      "decision": "About ten weeks after you submit.",
+      "reopens": "The 2026-27 program opened in early April 2026 and has closed early. The 2027-28 program is expected to open in early April 2027; for festival travel in 2028, apply as early as possible in that program year.",
+      "closed_reason": "The 2026-27 program is closed (budget spent).",
+      "url": "https://www.arts.on.ca/grants/market-development-travel",
+      "apply_url": "https://grants.arts.on.ca/s_Login.jsp",
+      "how_to_apply": "Apply in Nova before travelling, with résumé/bio, the invitation letter or proof of registration and information on presenters attending (or letters confirming meetings with at least two presenters), and PURPLE itself as the artistic example.",
+      "phases": [
+        "distribution"
+      ],
+      "amount_max": 2000,
+      "decision_weeks": 10,
+      "rolling": true,
+      "questions": [
+        {
+          "q": "Résumé / bio",
+          "kit": "bio"
+        },
+        {
+          "q": "Letter of invitation or proof of registration, with information about presenters attending (or letters confirming meetings with at least two presenters)",
+          "kit": "custom",
+          "hint": "Festival selection or market accreditation letter, plus a list of programmers, sales agents or distributors Matthew will meet."
+        },
+        {
+          "q": "Artistic example: the work you are promoting",
+          "kit": "custom",
+          "hint": "Private screener link or trailer of PURPLE."
+        }
+      ],
+      "evidence": [
+        "https://www.arts.on.ca/grants/general-granting-information/grant-program-deadlines-and-important-dates"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "ontario-arts-council-skills-and-career-development-indigenous-arts-professionals",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Skills and Career Development: Indigenous Arts Professionals and Arts Professionals of Colour",
+      "funder": "Ontario Arts Council",
+      "type": "Grant",
+      "region": "Ontario",
+      "amount": "Up to $10,000",
+      "currency": "CAD",
+      "why_fit": "OAC's program for artists of colour; Matthew, as a Filipino-Canadian artist, could use it for a mentorship with an experienced feature director or editor alongside PURPLE's post-production. It supports his first feature indirectly, not the film's budget.",
+      "priorities": "Supports the professional growth of Indigenous arts professionals and arts professionals of colour (artists included) through study and training, mentorship, self-initiated internships or apprenticeships, and documentation of their work.",
+      "eligibility": "Ontario-based Indigenous arts professionals and arts professionals of colour (OAC uses the federal 'visible minorities' definition), or collectives of them. Not undergraduate students. One grant every two years.",
+      "watch_out": "It does not fund creation projects, so it cannot pay PURPLE's production or post costs, only Matthew's learning (for example a mentor's fee). The 2026 deadline (9 June 2026) has passed and the 2027 date is not published; results timing is not stated, so a mentorship during post-production (late 2027) is the realistic fit.",
+      "deadline": "Once a year, 1 p.m. ET. The 2026 deadline was 9 June 2026; the 2027 date is not yet published.",
+      "deadline_estimate": "2027-06",
+      "reopens": "Last deadline closed 9 Jun 2026; next expected around June 2027 (check OAC's deadlines page once 2027 dates are posted).",
+      "closed_reason": "The 9 June 2026 deadline has passed.",
+      "url": "https://www.arts.on.ca/grants/skills-and-career-development-indigenous-arts-pro",
+      "apply_url": "https://grants.arts.on.ca/s_Login.jsp",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "amount_max": 10000,
+      "evidence": [
+        "https://www.arts.on.ca/grants/general-granting-information/grant-program-deadlines-and-important-dates"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "ontario-creates-ip-fund-linear-content-stream-development-and-production",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "IP Fund: Linear Content Stream (Development and Production)",
+      "funder": "Ontario Creates",
+      "type": "Grant",
+      "region": "Ontario",
+      "amount": "Development: $5,000 to $25,000 (up to 50% of Ontario spend). Production, drama: up to $400,000 (up to 10% of Ontario spend). Non-repayable.",
+      "currency": "CAD",
+      "why_fit": "Ontario's main feature-film fund (it replaced the Film Fund). Listed so the team knows the triggers; PURPLE cannot use it at its current size.",
+      "priorities": "Drives economic growth in Ontario's screen sector: leverage, jobs, company growth and diversity of content and companies. Production applications are weighted heavily on projected Ontario spend and weeks of Ontario employment.",
+      "eligibility": "Canadian-owned, Ontario-based, for-profit production companies (incorporated, or ready to incorporate if successful), applying as the primary company rather than a single-purpose one, with an Ontario-resident producer who has a producer credit on a feature theatrically released in Canada or on a broadcast TV movie or series (or a pre-approved qualifying executive producer).",
+      "watch_out": "PURPLE does not qualify. Production (drama) triggers: minimum $1 million budget, at least 75 minutes, principal photography in Ontario, at least 70% of other financing confirmed at application including an investment from a third party (tax credits do not count), and a Canadian distributor for budgets of $3.5M or more (a marketing plan below that). Development requires all other financing confirmed and a project meant to meet those production rules. Futures Forward (up to $20,000 for early development; deadline 30 November 2026; encouraged for racialized-owned companies) also targets projects that will meet the IP Fund production rules and requires a completed approved workshop, so it does not fit either.",
+      "deadline": "Two deadlines a year, 5 p.m. ET. The 2026-27 deadlines were 21 April 2026 and 22 September 2026; 2027-28 dates are not yet published.",
+      "deadline_estimate": "2027-04",
+      "decision": "Within 16 weeks of the deadline.",
+      "reopens": "Last deadline closed 22 Sep 2026; next expected April 2027 under new 2027-28 guidelines.",
+      "closed_reason": "Both 2026-27 deadlines have passed.",
+      "url": "https://www.ontariocreates.ca/investment-programs/content-creation/intellectual-property-fund",
+      "apply_url": "https://apply.ontariocreates.ca/",
+      "guidelines_url": "https://www.ontariocreates.ca/uploads/Industry_Initiatives/ENG/Content-and-Marketing/IP-Fund/IP-Fund-Linear-Guidelines-EN.pdf",
+      "contact_email": "ipfund@ontariocreates.ca",
+      "contact_source": "https://www.ontariocreates.ca/investment-programs/content-creation/intellectual-property-fund",
+      "phases": [
+        "development",
+        "production"
+      ],
+      "amount_max": 400000,
+      "decision_weeks": 16,
+      "evidence": [
+        "https://www.ontariocreates.ca/our-sectors/film-tv/film-fund",
+        "https://www.ontariocreates.ca/uploads/Industry_Initiatives/ENG/Content-and-Marketing/IDM-Fund/IDM-Futures/Futures-Forward-Guidelines-EN.pdf"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "ontario-creates-ontario-film-and-television-tax-credit-ofttc",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Ontario Film and Television Tax Credit (OFTTC)",
+      "funder": "Ontario Creates",
+      "type": "Tax credit",
+      "region": "Ontario",
+      "amount": "35% of eligible Ontario labour (refundable, net of grants); 45% with the regional bonus; first-time production bonus of 40% on the first $240,000 of qualifying Ontario labour",
+      "currency": "CAD",
+      "why_fit": "If PURPLE were produced by an Ontario corporation with a distribution deal and enough Ontario shooting days, about a third of its Ontario labour would come back, at a higher first-time rate.",
+      "priorities": "Refundable tax credit for Ontario-based Canadian corporations producing Canadian film and television with Ontario labour.",
+      "eligibility": "Canadian-controlled corporation with a permanent establishment in Ontario that files an Ontario tax return. The production needs 6 Canadian content points, at least 85% of principal photography days in Ontario, at least 95% of post-production costs in Ontario, at least 75% of total final costs spent in Ontario, and a written fair-market agreement to show it in Ontario within two years of completion.",
+      "watch_out": "PURPLE fails several tests as planned: many shooting days are in Quebec, Alberta and the Philippines (the 85% Ontario-days rule only relaxes for interprovincial or treaty co-productions), there is no corporation, and there is no exhibition, broadcast or distribution agreement. Online-only releases also need a budget of at least $250,000. The credit is paid only after the corporate tax return is assessed, so it never helps cash flow during the shoot. Admin fee is 0.15% of estimated Ontario labour (minimum $500).",
+      "deadline": "Apply any time from the start of principal photography until 24 months after the end of the corporation's taxation year in which principal photography began (extendable by 18 months with a CRA waiver).",
+      "url": "https://www.ontariocreates.ca/tax-incentives/ofttc",
+      "apply_url": "https://apply.ontariocreates.ca/",
+      "guidelines_url": "https://www.ontariocreates.ca/tax-incentives/ofttc/ofttc-guidelines",
+      "how_to_apply": "The production corporation applies for a Certificate of Eligibility on the Ontario Creates portal (during production or after completion), then for a Letter of Confirmation once the film is complete, and files the certificate with its T2 return and Schedule T2SCH556.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.ontariocreates.ca/tax-incentives/ofttc/ofttc-guidelines"
+      ]
+    },
+    {
+      "id": "sodec-and-conseil-des-arts-et-des-lettres-du-quebec-quebec-support-for-the-montr",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Quebec support for the Montreal shoot (SODEC, CALQ, Quebec production services tax credit)",
+      "funder": "SODEC and Conseil des arts et des lettres du Québec",
+      "type": "Tax credit",
+      "region": "Quebec",
+      "amount": "Production services tax credit: 25% of qualified spending in Quebec",
+      "currency": "CAD",
+      "why_fit": "Checked because PURPLE shoots in Montreal; none of it is open to PURPLE, so this entry saves the team the search.",
+      "priorities": "SODEC and CALQ fund Quebec companies and Quebec-resident artists; the production services credit attracts outside productions to spend in Quebec.",
+      "eligibility": "CALQ: Canadian citizens or permanent residents who normally live in Quebec and have done so for the past 12 months. SODEC emerging creation aid: a company registered in Quebec for at least a year (not a sole proprietorship) and a creator with at least two years of Quebec tax residence. Production services tax credit: a corporation with an establishment in Quebec whose main business is film or TV.",
+      "watch_out": "PURPLE is shut out of all three. The production services tax credit is open to non-Quebec productions but needs a minimum budget of $250,000 (PURPLE is $47,335) and a corporation established in Quebec, and fees for the director, writer, DOP, editor, speaking actors and other key roles only count if those people live in Quebec. Montreal filming permits carry borough fees; the one schedule that mentions a waiver limits it to non-profit, TV news and student shoots.",
+      "url": "https://sodec.gouv.qc.ca/english/credit-film-production-services/",
+      "tips": "For the Montreal days, open a file with the Bureau du cinéma et de la télévision de Montréal before applying for any permit.",
+      "phases": [
+        "production"
+      ],
+      "evidence": [
+        "https://sodec.gouv.qc.ca/wp-content/uploads/fact-sheet-quebec-pstc-2026-march.pdf",
+        "https://sodec.gouv.qc.ca/domaines-dintervention/cinema-et-television/aide-financiere/creation-emergente/",
+        "https://www.calq.gouv.qc.ca/en/about/frequently-asked-questions/grant-program-for-artists",
+        "https://montreal.ca/en/how-to/get-permit-to-temporarily-occupy-public-property-filming-purposes"
+      ]
+    },
+    {
+      "id": "government-of-alberta-alberta-support-for-the-rockies-shoot-alberta-media-fund-a",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Alberta support for the Rockies shoot (Alberta Media Fund, Alberta Film and Television Tax Credit, TELUS STORYHIVE)",
+      "funder": "Government of Alberta",
+      "type": "Tax credit",
+      "region": "Alberta",
+      "amount": "Film and Television Tax Credit: 22% to 30% of eligible Alberta costs; Alberta Made Production Grant: 25% of Alberta costs, up to $125,000",
+      "currency": "CAD",
+      "why_fit": "Checked because PURPLE shoots in Banff, Lake Louise and Jasper; none of it is open to PURPLE, so this entry saves the team the search.",
+      "priorities": "Alberta's screen incentives grow Alberta production: the tax credit for medium and large productions filmed in Alberta, the Media Fund grants for Alberta producers and Alberta companies.",
+      "eligibility": "Tax credit: a corporation incorporated or registered in Alberta, primarily in screen production, with total production costs of at least $499,999, a commercial distribution plan and 50% of financing secured. Alberta Media Fund grants: Alberta producers and companies. TELUS STORYHIVE: creators in BC and Alberta.",
+      "watch_out": "PURPLE's budget is about a tenth of the tax credit's minimum, it has no Alberta corporation, and Matthew is not an Alberta resident, so all three are closed to it. Parks Canada has no fee waiver for small productions (a crew of 1 to 6 pays $177.25 per project plus $589.25 per location day), so it is not listed as a funder.",
+      "url": "https://www.alberta.ca/alberta-made-screen-industries-program",
+      "tips": "Two scheduling flags for July 2027: commercial filming is not considered at Lake Louise, Moraine Lake, Bow Lake, Peyto Lake and other Banff sites from 1 June to 30 September, and Jasper is currently only accepting film permit applications for projects before 1 April 2027 (filmjasper-jasperfilm@pc.gc.ca). The Calgary Film Commission offers free location and crew help for southern Alberta productions.",
+      "phases": [
+        "production"
+      ],
+      "evidence": [
+        "https://www.alberta.ca/film-television-tax-credit",
+        "https://www.alberta.ca/alberta-made-production-grant",
+        "https://calgaryeconomicdevelopment.com/key-industries/film-and-television/",
+        "https://www.storyhive.com/",
+        "https://parks.canada.ca/pn-np/bc/kootenay/info/acts/tournage-film",
+        "https://parks.canada.ca/pn-np/ab/jasper/gestion-management/permis-permits/tournage-filming"
+      ]
+    },
+    {
+      "id": "film-development-council-of-the-philippines-film-philippines-office-internationa",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "International Co-Production Fund (ICOF), minority co-production",
+      "funder": "Film Development Council of the Philippines (Film Philippines Office)",
+      "type": "Grant",
+      "region": "Philippines",
+      "amount": "Feature, minority co-production: up to PHP 7 million (about CAD 160,000); majority: up to PHP 13 million. Cultural bonus of up to PHP 2 million with a passing cultural test. Non-recoupable, spent on Philippine costs through the Filipino co-producer.",
+      "currency": "PHP",
+      "why_fit": "PURPLE's last act is a Filipino story shot in the Philippines with a local crew and Tagalog dialogue, which is what ICOF and its cultural bonus reward; with the local production company as minority co-producer, ICOF could pay for the whole Philippine shoot and some post.",
+      "priorities": "A selective, non-recoupable grant to grow international co-productions between Filipino and foreign producers, with real Filipino creative and technical participation; a cultural bonus rewards projects that showcase Filipino culture.",
+      "eligibility": "The applicant is a Filipino production company registered in the Philippines, active in the FDCP National Registry, with at least three publicly exhibited film or TV projects in the last five years, co-producing with an international production company. Minority track: the Filipino producer holds at least 10% of financing and the project has at least two Filipino above-the-line or three below-the-line key personnel. At least 60% of financing confirmed at application.",
+      "watch_out": "PURPLE cannot apply itself: it needs a qualified Filipino company as co-producer (that company applies, receives the grant and must spend it in pesos through its own books), and the Canadian partner must be a production company, so a corporation is needed. 60% of the budget must be confirmed when applying. As far as this run could tell, Canada has no audiovisual co-production treaty with the Philippines, so this would be a private co-production agreement (check Telefilm's treaty list). Cycle dates are given by month only, and a cycle is cancelled if the year's budget runs out.",
+      "deadline": "Two cycles a year: Cycle 1 applications in February (results in April), Cycle 2 applications in July (results in September). Exact 2027 dates are not yet published. Submissions via the FPO's online form on Philippine working days.",
+      "deadline_estimate": "2027-02",
+      "decision": "Evaluation the month after the application month and announcement the month after that (about two months).",
+      "reopens": "2026 Cycle 2 opened at the end of July 2026 (FDCP notice dated 29 July 2026). Next expected Cycle 1 in February 2027, then Cycle 2 in July 2027.",
+      "closed_reason": "No application cycle is open on the FDCP pages as of 2026-11-16.",
+      "url": "https://www.filmphilippines.com/icof",
+      "apply_url": "https://www.filmphilippines.com/international-co-production-fund-icof-apply-now",
+      "guidelines_url": "https://drive.google.com/file/d/1ga9GQyL-faVKd0x6_YwQd20Zh93_bfMq/view?usp=sharing",
+      "contact_email": "filmphilippines@fdcp.gov.ph",
+      "contact_source": "https://www.filmphilippines.com/icof",
+      "how_to_apply": "1) Choose a Filipino production company with three exhibited credits and National Registry membership (ideally the one line-producing the September 2027 shoot) and sign a notarized co-production agreement giving it at least 10%. 2) The Filipino company submits through the FPO's online form: application form, co-production agreement, proof the Canadian co-producer can do business, letters from all confirmed financiers, script, project dossier, writer's agreement, pitch video, National Registry certificate and, optionally, the cultural test. All documents in English.",
+      "tips": "Go for the cultural bonus: the Filipino family story, Tagalog dialogue and Philippine locations should score on the cultural test. A provisional application can be filed before, during or after principal photography, but only costs after the FPO receives a complete provisional notification count, so file before the September 2027 shoot. Post-production can be funded with a rough cut of at least 30 minutes.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "amount_max": 7000000,
+      "decision_weeks": 8,
+      "questions": [
+        {
+          "q": "Project dossier: logline",
+          "kit": "logline"
+        },
+        {
+          "q": "Project dossier: cast, mood board, storyboard, filmography and teaser URL",
+          "kit": "custom",
+          "hint": "Cast list (Filipino-Canadian and Filipino actors), purple-toned mood board, key storyboards for the Philippine scenes, Matthew's filmography and a teaser link."
+        },
+        {
+          "q": "Recorded pitch video",
+          "limit": "5 minutes",
+          "kit": "custom",
+          "hint": "Matthew and both producers (Canadian and Filipino) on the story, why the ending is in the Philippines, Filipino crew roles and the financing plan."
+        },
+        {
+          "q": "Script",
+          "kit": "custom",
+          "hint": "Full English script with Tagalog and French dialogue translated."
+        },
+        {
+          "q": "Letters of agreement from all confirmed financiers",
+          "kit": "funding_plan"
+        },
+        {
+          "q": "Notarized co-production agreement",
+          "kit": "custom",
+          "hint": "Shares of financing and rights, Filipino key personnel, Philippine spend and who holds which territories."
+        }
+      ],
+      "evidence": [
+        "https://fdcp.ph/news/fpi2026-c2-call"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "film-development-council-of-the-philippines-film-philippines-office-film-locatio",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Film Location Incentive Program (FLIP)",
+      "funder": "Film Development Council of the Philippines (Film Philippines Office)",
+      "type": "Tax credit",
+      "region": "Philippines",
+      "amount": "20% cash rebate on Qualified Philippine Production Expenditure, capped at PHP 25 million; a 5% cultural bonus raises the cap to PHP 30 million",
+      "why_fit": "The Philippines' location rebate for foreign productions that hire a local service company; checked because PURPLE's last act shoots there.",
+      "priorities": "Attracts international productions to hire Philippine companies for line production, animation and post-production.",
+      "eligibility": "The applicant is a Filipino production, animation or post company registered in the Philippines and in the FDCP National Registry, under a notarized service agreement with the foreign producer.",
+      "watch_out": "Out of reach: a feature must spend at least PHP 20 million (about CAD 460,000) in the Philippines, roughly ten times PURPLE's whole budget. Principal photography must start within six months of the grant notice.",
+      "deadline": "Two cycles a year: applications in February (Cycle 1) and July (Cycle 2); exact 2027 dates are not published.",
+      "url": "https://www.filmphilippines.com/flip",
+      "contact_email": "filmphilippines@fdcp.gov.ph",
+      "contact_source": "https://www.filmphilippines.com/flip",
+      "phases": [
+        "production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.filmphilippines.com/",
+        "https://fdcp.ph/news/fpi2026-c2-call"
+      ],
+      "currency": "PHP",
+      "deadline_estimate": "2027-02",
+      "reopens": "Next expected Cycle 1 in February 2027.",
+      "guidelines_url": "https://drive.google.com/file/d/1zU12cMN5RdF9OJXIrotPbhXSFr9UTuYd/view?usp=sharing",
+      "amount_max": 30000000,
+      "updated": "2026-11-16",
+      "updated_by": "research"
+    },
+    {
+      "id": "film-development-council-of-the-philippines-createphfilms-fund-for-small-budget",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "CreatePHFilms: Fund for Small Budget Production",
+      "funder": "Film Development Council of the Philippines",
+      "type": "Grant",
+      "region": "Philippines",
+      "amount": "Up to PHP 1,000,000 (about CAD 23,000), non-recoupable, for Filipino films with a total budget under PHP 15 million",
+      "currency": "PHP",
+      "why_fit": "PURPLE is a Filipino-directed story with Tagalog dialogue and a budget far under the PHP 15 million cap, and FDCP's FAQ says Filipinos based abroad can apply if they hire Filipino crew; a grant would be a real share of the gap.",
+      "priorities": "FDCP's flagship non-recoupable fund for original Filipino films, from principal photography to post-production, with a theatrical, VOD or festival release plan aimed at domestic audiences.",
+      "eligibility": "A Filipino production company registered as a business in the Philippines and active in the FDCP National Registry for Companies, with a Filipino director or producer serving as producer. Film in English or a Filipino language with English subtitles. At least 20% of the budget secured.",
+      "watch_out": "Several hurdles: the applicant must be Filipino (confirm whether a Filipino-Canadian with dual citizenship qualifies), the applicant company must be registered in the Philippines with a business permit and BIR registration, and the release plan must target Philippine audiences. The page contradicts itself on runtime (one line accepts mid-length films of 40 to 79 minutes, another excludes films under 79 minutes), which matters for a 65 to 75 minute film. Whether the grant must be spent in the Philippines is not stated.",
+      "deadline": "Two cycles a year. 2026: Cycle 1 ran 6 to 23 February 2026; Cycle 2 closed 24 August 2026. 2027 dates are not yet published.",
+      "deadline_estimate": "2027-02",
+      "reopens": "Last window closed 24 Aug 2026; next expected Cycle 1 in February 2027.",
+      "closed_reason": "The 2026 Cycle 2 window closed 24 August 2026.",
+      "url": "https://fdcp.ph/programs/production-support/fund-small-budget-production",
+      "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfRhnBnhcZ1brfWRm5b0aFudils9_rQimFaDmOeTnqbCyHgJQ/viewform",
+      "guidelines_url": "https://drive.google.com/file/d/1ahNNLtdejGP-b5pTsHzJSDqlbZB00-g1/view?usp=sharing",
+      "contact_email": "createphfilms@fdcp.gov.ph",
+      "contact_source": "https://fdcp.ph/programs/production-support/fund-small-budget-production",
+      "how_to_apply": "Email createphfilms@fdcp.gov.ph first to confirm citizenship, runtime and company rules. If eligible, the Philippine company submits the online form with the documents below plus a notarized statutory declaration, notarized writer's certification, business permit and BIR 2303, National Registry proof and proof of at least 20% secured funding.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "amount_max": 1000000,
+      "questions": [
+        {
+          "q": "Concept paper",
+          "kit": "custom",
+          "hint": "Logline, synopsis, director's statement and why this Filipino-Canadian story matters to Philippine audiences."
+        },
+        {
+          "q": "Latest script",
+          "kit": "custom",
+          "hint": "Full script with English subtitles for the Tagalog and French dialogue."
+        },
+        {
+          "q": "Video pitch",
+          "limit": "3 to 5 minutes, MP4",
+          "kit": "custom",
+          "hint": "Matthew on camera: the story, his Filipino roots, the Philippine shoot and the Filipino crew."
+        },
+        {
+          "q": "Resume, filmography or artistic portfolio",
+          "kit": "bio"
+        },
+        {
+          "q": "Previous work(s)",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Proposed production-to-post-production schedule",
+          "kit": "schedule"
+        },
+        {
+          "q": "Proposed production-to-post-production budget",
+          "kit": "budget"
+        },
+        {
+          "q": "Financing plan",
+          "kit": "funding_plan"
+        }
+      ],
+      "evidence": [
+        "https://fdcp.ph/createphfilms",
+        "https://fdcp.ph/news/createphfilms-c12026",
+        "https://fdcp.ph/news/createphfilms-continues-cycle-2-support-local-filmmakers"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "national-commission-for-culture-and-the-arts-ncca-philippines-competitive-grants",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Competitive Grants Program: Cinema",
+      "funder": "National Commission for Culture and the Arts (NCCA), Philippines",
+      "type": "Grant",
+      "region": "Philippines",
+      "amount": "Varies by category; the 2027 cinema categories include full-length film post-production (amount not confirmed on NCCA's own site)",
+      "why_fit": "The Philippine arts council's annual call includes a cinema grant for full-length post-production; only worth watching if a Philippine-based partner or a Philippine citizen on the team can apply.",
+      "priorities": "Grants from the National Endowment Fund for Culture and the Arts to develop Philippine arts and culture; the cinema committee supports regional festivals, film education, research, short films and full-length post-production.",
+      "eligibility": "Artists, cultural workers, researchers, local governments, schools, Indigenous peoples' organizations and NGOs that first secure NCCA accreditation and have no unliquidated grants.",
+      "watch_out": "The call for 2027 grants closed 31 August 2026. The next call (for 2028 projects) would fund work from 2028, when PURPLE's post is nearly over. NCCA's website could not be reached from Canada during this run, so citizenship and residence rules and the cinema amounts were not confirmed; expect it to favour Philippine-based applicants.",
+      "deadline": "Annual call. The 2027 call closed 31 August 2026, 11:59 p.m. Philippine Standard Time; proposals by email or courier.",
+      "deadline_estimate": "2027-08",
+      "reopens": "Last call closed 31 Aug 2026 after roadshows in July; next call (2028 grants) expected around July to August 2027.",
+      "closed_reason": "The call for 2027 grants closed 31 August 2026.",
+      "url": "https://ncca.gov.ph/ncca-competitive-grants-program/",
+      "phases": [
+        "post-production"
+      ],
+      "evidence": [
+        "https://thepost.ph/arts-culture/ncca-opens-call-for-2027-competitive-grants-program/",
+        "https://www.philstar.com/entertainment/2026/07/29/2545414/nccas-2027-competitive-grants-program-proposals-undergo-stringent-review-process"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "lift-liaison-of-independent-filmmakers-of-toronto-with-the-independent-media-art",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Production Membership and Resource Access Network (member-rate gear in Toronto, Ottawa, Montreal, Calgary and Edmonton)",
+      "funder": "LIFT (Liaison of Independent Filmmakers of Toronto) with the Independent Media Arts Alliance (IMAA)",
+      "type": "In-kind",
+      "region": "Canada",
+      "amount": "Member rental rates on cameras, lighting, grip, sound and post suites. Production membership $175 a year ($75 at the Equitable level for seniors and ODSP, Ontario Works or EI recipients). A 7-day rental is billed as 4 LIFT Days.",
+      "currency": "CAD",
+      "why_fit": "PURPLE is an independent film under the director's creative control, the kind of project LIFT rents to. A LIFT Production membership also gets member rates at IMAA centres in the Canadian shoot cities on the route: DARC in Ottawa; MAIN FILM, Vidéographe and others in Montreal; CSIF in Calgary; FAVA in Edmonton. Renting locally at artist-run rates instead of from commercial houses could cut a real share of the $31,335 production budget. LIFT's editing, audio, colour and EasyDCP suites cover post.",
+      "priorities": "LIFT supports independent filmmakers and does not rent to commercial or non-independent productions. The Resource Access Network lets members of one artist-run media centre use equipment and facilities in other cities without taking out multiple memberships.",
+      "eligibility": "Individuals 18+. Only Production members (including the Student and Equitable levels) in good standing can rent. Production membership needs three character references. RAN users must be members in good standing of a participating centre and follow the host centre's rules.",
+      "watch_out": "Discounted, not free. You still pay member rates, and you are liable for a $2,000 deductible if LIFT gear is lost or damaged. Each RAN host decides what it offers, can refuse a request and sets its own insurance rules; some require your own production insurance. RAN guidelines say not to take a host's gear out of its region without asking, so rent in each city rather than hauling Toronto gear across provinces. Membership takes at least 10 business days to process, and Production applications sent after 4 Dec 2026 are processed from 6 Jan 2027. The Philippines leg is not covered.",
+      "deadline": "Rolling. Join at least 3 to 4 weeks before you need gear (at least 10 business days to process, plus reference checks). LIFT books gear up to 6 weeks ahead. Send the RAN booking form to the host centre at least 2 weeks before the rental.",
+      "decision": "Membership applications take at least 10 business days.",
+      "url": "https://lift.ca/lift-membership/",
+      "apply_url": "https://lift.ca/lift-membership/",
+      "guidelines_url": "https://www.imaa.ca/membership/ran/",
+      "contact_email": "membership@lift.ca",
+      "contact_source": "https://lift.ca/lift-membership/",
+      "how_to_apply": "1) Read LIFT's Statement of Inclusion and Code of Conduct. 2) Apply online for Production membership with three character references (email membership@lift.ca for the Equitable level). Allow at least 10 business days. 3) Book LIFT gear by emailing tech@lift.ca with the item list and dates, up to 6 weeks ahead. 4) For Ottawa, Montreal and Alberta, find the host centre in the IMAA member directory and read the RAN Network Guidelines. Fill in the RAN booking form (services, dates, proof of membership signed by LIFT) and send it to the host at least 2 weeks before the rental.",
+      "tips": "A 7-day rental is billed as only 4 LIFT Days, which suits a multi-week shoot. Contact the production coordinators in Ottawa, Montreal, Calgary and Edmonton well before May 2027 to check what they stock and what insurance they need. LIFT does not require production insurance but encourages it.",
+      "phases": [
+        "pre-production",
+        "production",
+        "post-production"
+      ],
+      "decision_weeks": 2,
+      "rolling": true,
+      "questions": [
+        {
+          "q": "Production membership: three character references (not LIFT staff or board, family or partners)",
+          "kit": "custom",
+          "hint": "Names and emails of three people who know your filmmaking work, for example the director or producer of Quiet Father."
+        },
+        {
+          "q": "RAN booking form: services sought and rental dates",
+          "kit": "schedule"
+        },
+        {
+          "q": "RAN booking form: proof of membership, original membership date and home-centre signature confirming good standing",
+          "kit": "custom",
+          "hint": "Ask LIFT to sign. If they have not confirmed in time, attach a screenshot of your member registration."
+        },
+        {
+          "q": "RAN booking form: additional comments",
+          "kit": "custom",
+          "hint": "Say it is an independent feature, which city and dates, and whether you carry your own production insurance."
+        }
+      ],
+      "evidence": [
+        "https://lift.ca/equipment-and-facilities-rental-faq/",
+        "https://www.imaa.ca/membership/ran/",
+        "https://www.imaa.ca/resource-access-network/",
+        "https://lift.ca/programming-home/call-for-proposals-digital-cinema-residency-2026/"
+      ]
+    },
+    {
+      "id": "panavision-administered-for-panavision-canada-new-filmmaker-program-camera-equip",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "New Filmmaker Program: Camera Equipment Grant",
+      "funder": "Panavision (administered for Panavision Canada)",
+      "type": "In-kind",
+      "region": "Canada",
+      "amount": "Use of a Panavision film or digital camera package (lenses and accessories included) at little to no cost, subject to availability",
+      "why_fit": "This is one of the few published camera grants open to individual first-time filmmakers in Canada. A donated camera package for the Ottawa, Montreal and Alberta legs would take a large rental line out of PURPLE's production budget.",
+      "priorities": "Outreach, access and support for aspiring filmmakers in the U.S. and Canada.",
+      "eligibility": "Aspiring filmmakers 18+ in the U.S. and Canada who hold the rights to the project. Canadian applicants sign the Canada submission agreement (revised January 2026).",
+      "watch_out": "The Canadian terms say the award is for a project 'recorded, created, and produced entirely in the United States or Canada', so the Philippines shoot may make PURPLE ineligible; ask whether the Canadian legs alone can qualify. You must give Panavision a perpetual, worldwide, royalty-free licence to use and edit the project and behind-the-scenes material for its marketing, which a future distributor may question. You pay a service fee, a refundable $1,000 deposit, shipping and expendables, and must send a compliant insurance certificate one week before prep. No anamorphic or large-format lenses, and no large-format cameras except the DXL2. The grant cannot be combined with other discounts.",
+      "deadline": "Rolling: the application form is open year-round. Apply as early as possible, since equipment is subject to availability, and have insurance in place one week before the prep date.",
+      "url": "https://www.panavision.com/resources/new-filmmaker-program",
+      "apply_url": "https://www.panavision.com/resources/new-filmmaker-program/equipment-grant",
+      "guidelines_url": "https://panavision.com/docs/default-source/downloads/newfilmmakerprogram_submissionagreement_canada_v220713",
+      "contact_email": "NFP@panavision.com",
+      "contact_source": "https://panavision.com/docs/default-source/downloads/newfilmmakerprogram_submissionagreement_canada_v220713",
+      "how_to_apply": "Download and sign the Canada submission agreement (every applicant signs), then complete the Camera Equipment Grant Application form on the equipment-grant page (an Airtable form). If selected: sign Panavision's rental terms and its social media and promotion agreement, buy insurance, pay the deposit and service fee, and give Panavision as much notice as possible to book.",
+      "tips": "Before applying, ask NFP@panavision.com whether the Canadian legs alone qualify given the Philippines shoot. Keep the camera request flexible, since specific cameras and lenses are not guaranteed.",
+      "phases": [
+        "production"
+      ],
+      "rolling": true,
+      "questions": [
+        {
+          "q": "Signed Submission Agreement (Canada)",
+          "kit": "custom",
+          "hint": "Sign as Matthew Lisondra with project name PURPLE; add signature blocks for any co-applicants."
+        }
+      ],
+      "evidence": [
+        "https://www.panavision.com/info-rules-0",
+        "https://www.panavision.com/resources/new-filmmaker-program/equipment-grant"
+      ]
+    },
+    {
+      "id": "charles-street-video-production-membership-artist-rates-on-equipment-and-suites",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Production Membership (artist rates on equipment and suites)",
+      "funder": "Charles Street Video",
+      "type": "In-kind",
+      "region": "Toronto",
+      "amount": "Production membership $150 a year plus HST ($125 on renewal). Artist rates on equipment, editing stations and space. Volunteer hours earn C$V rental credits.",
+      "currency": "CAD",
+      "why_fit": "A second Toronto artist-run centre where PURPLE could rent gear and edit or finish at artist rates during post (Sept 2027 to Feb 2028). Charles Street Video membership is also accepted by IMAA's Resource Access Network in other cities.",
+      "priorities": "Supports professional media artists working in video, film, audio, installation, XR and other media. Artist rates are for non-commercial projects where the member has sole creative control.",
+      "eligibility": "Artists who join as Production members after an orientation. Non-members generally cannot rent mobile equipment.",
+      "watch_out": "Artist rates apply only to 'non-commercial projects' where the member has sole creative control. A feature aiming for distribution may be judged commercial, and staff must approve commercial use in advance, possibly at higher rates. Confirm before budgeting.",
+      "deadline": "Rolling. Book an orientation and join a few weeks before you need equipment or suites.",
+      "url": "https://charlesstreetvideo.com/membership/",
+      "apply_url": "https://charlesstreetvideo.com/membership/",
+      "contact_email": "rentals@charlesstreetvideo.com",
+      "contact_source": "https://charlesstreetvideo.com/membership/",
+      "how_to_apply": "Contact the CSV office to book an in-house orientation, complete the online membership application, then email rentals@charlesstreetvideo.com for next steps. Ask about the C$V Volunteer Program, which pays volunteer hours in rental credits.",
+      "tips": "The membership fee may be tax-deductible as a professional association fee. Production members also get 70 to 90% off workshops.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://charlesstreetvideo.com/members-opportunities/",
+        "https://www.imaa.ca/membership/ran/"
+      ]
+    },
+    {
+      "id": "lift-liaison-of-independent-filmmakers-of-toronto-production-and-post-production",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Production and Post-Production Support Grant",
+      "funder": "LIFT (Liaison of Independent Filmmakers of Toronto)",
+      "type": "In-kind",
+      "region": "Toronto",
+      "amount": "Past grants: $2,000 in equipment rental credits per filmmaker, for up to eight projects a year ($16,000 in total). The 2023 edition was a $1,000 cash award. Amounts for the next grant are subject to change.",
+      "currency": "CAD",
+      "why_fit": "It is open to first-time GTA filmmakers who hold creative control and copyright, as Matthew does, and LIFT credits could cover gear or post suites for PURPLE.",
+      "priorities": "Independent, artist-controlled film and moving-image work at any stage. Celluloid-focused projects get priority.",
+      "eligibility": "LIFT members in good standing (General members must upgrade to Production if funded). GTA-based Canadian citizens, permanent residents, newcomers or refugees, 18+. The applicant holds creative and editorial control and copyright (producers cannot apply). One project per deadline.",
+      "watch_out": "The past rules exclude 'conventional forms of theatrical and television entertainment, such as dramas, movies-of-the-week', so a narrative drama may be judged ineligible unless it is framed as independent, artist-driven work. Ask LIFT first. Post work with no creative element (DCPs, subtitling, format transfers) is excluded. The amount is small.",
+      "deadline": "The next grant is expected to launch in November 2026; its deadline is not yet published. The 2023 call closed 18 Sept 2023, 5:00pm ET.",
+      "deadline_estimate": "2027-01",
+      "decision": "In 2023, results came about 6 weeks after the deadline.",
+      "reopens": "LIFT's page, updated 2 Oct 2026, says the next grant launches in November 2026. The 2023 call ran about 8 weeks (published 24 July, closed 18 Sept), so a deadline around January 2027 is likely.",
+      "closed_reason": "Next call not yet launched (LIFT says November 2026).",
+      "url": "https://lift.ca/support-grants/",
+      "contact_email": "membership@lift.ca",
+      "contact_source": "https://lift.ca/support-grants/",
+      "how_to_apply": "Become at least a General member before the deadline (in 2023, new members had to register about 10 days before the deadline), then apply through the call LIFT posts. To be told when it opens, email membership@lift.ca with the subject 'LIFT's Production and Post-Production Support Grant 2026 Inquiry – First and Last Name'.",
+      "tips": "Collaborative projects need résumés for all participants. Previous recipients can reapply only after filing final reports.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "decision_weeks": 6,
+      "evidence": [
+        "https://lift.ca/?p=10079"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "lift-liaison-of-independent-filmmakers-of-toronto-digital-cinema-residency",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Digital Cinema Residency",
+      "funder": "LIFT (Liaison of Independent Filmmakers of Toronto)",
+      "type": "Program",
+      "region": "Toronto",
+      "amount": "2026 edition: $8,000 paid as wages over the 11-week residency, plus up to $3,000 in equipment and facilities and on-site studio space. Facilities include digital cinema cameras, lighting, the colour correction and finishing suite, editing and audio suites, and EasyDCP.",
+      "currency": "CAD",
+      "why_fit": "A paid three-month residency with LIFT's colour, finishing, audio and DCP suites. A January to March 2028 residency would line up with PURPLE's final colour, mix and DCP before the early-2028 screening, and equity-priority groups are favoured.",
+      "priorities": "Emerging artists making a new digital cinema work, with priority to equity priority groups based on the Toronto Arts Council Equity Framework.",
+      "eligibility": "Emerging filmmakers aged 18 to 30. Canadian citizens, permanent residents or refugees (work permits not eligible), living in or within commuting distance of the GTHA. Must be self-identified as underemployed and have completed post-secondary studies, with no family or prior working relationship with LIFT.",
+      "watch_out": "Age cap of 30 and 'underemployed' status: Matthew must meet both. The residency is full-time and on site, and is meant for a 'new digital cinema work'; ask whether finishing an already-shot feature counts. The 2027 call has not been posted, and a January to March 2027 residency would come before the shoot.",
+      "deadline": "2027 call not yet posted. The last call closed 3 Dec 2025, 10:00am ET.",
+      "deadline_estimate": "2026-12",
+      "decision": "2026 cycle: results in mid-December, about 2 weeks after the deadline.",
+      "reopens": "Past calls were posted in October or November with early-December deadlines (2026 cycle: closed 3 Dec 2025). For PURPLE the better target is the 2028 residency (Jan to Mar 2028), with a call expected around November or December 2027.",
+      "closed_reason": "The 2026 residency call closed 3 Dec 2025; the 2027 call was not yet posted as of 16 Nov 2026.",
+      "url": "https://lift.ca/programming-home/call-for-proposals-digital-cinema-residency-2026/",
+      "contact_email": "director@lift.ca",
+      "contact_source": "https://lift.ca/programming-home/call-for-proposals-digital-cinema-residency-2026/",
+      "how_to_apply": "Free to apply, for members and non-members. In 2026: by Google Form (preferred), or by mail to Digital Cinema Residency, c/o LIFT, 1137 Dupont Street, Toronto ON M6H 2A3, arriving by the deadline.",
+      "phases": [
+        "post-production"
+      ],
+      "amount_max": 11000,
+      "decision_weeks": 2,
+      "questions": [
+        {
+          "q": "Proposal and/or artist statement, including how you would use LIFT's equipment",
+          "limit": "500 to 1,000 words",
+          "kit": "statement"
+        },
+        {
+          "q": "Curriculum vitae",
+          "limit": "2 pages",
+          "kit": "bio"
+        },
+        {
+          "q": "Proposed budget on LIFT's Simplified Budget template, listing all pending and confirmed revenue",
+          "limit": "2 pages",
+          "kit": "budget"
+        },
+        {
+          "q": "Visual support: examples of past work",
+          "limit": "up to 3",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Two work-related references with emails",
+          "kit": "custom",
+          "hint": "Employers or arts collaborators, for example the director or producer of Quiet Father."
+        },
+        {
+          "q": "Accessibility accommodation needs",
+          "kit": "custom",
+          "hint": "Only if needed."
+        }
+      ],
+      "evidence": [
+        "https://lift.ca/programming-home/",
+        "https://lift.ca/programming-home/lift-digital-cinema-residency-2026-announcement/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "charles-street-video-media-art-creation-grant",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Media Art Creation Grant",
+      "funder": "Charles Street Video",
+      "type": "Grant",
+      "region": "Toronto",
+      "amount": "Applicants may request up to 100% of their budget; amounts are not published. The grant can cover equipment credits, production materials and an artist fee. Usually one or two projects per call.",
+      "currency": "CAD",
+      "why_fit": "One of the few artist-run centre grants that lists drama and fiction as eligible. It is for artist-directors who keep creative control and copyright, which matches Matthew as writer-director of PURPLE.",
+      "priorities": "Artistic integrity, originality, vision and demonstrated ability to complete the project.",
+      "eligibility": "CSV members in good standing at any experience level. The applicant must be the artist or director (a producer may be attached) and keep creative and editorial control and copyright. One project per deadline.",
+      "watch_out": "Excludes producer-driven and 'calling-card' projects, TV projects and projects produced by private companies, so present PURPLE as Matthew's own artist-driven work. No call after the 2023 recipients could be confirmed and amounts are not published, so check with CSV that the grant still runs. CSV membership is required.",
+      "deadline": "Announced yearly; open calls are generally held once a year in winter. No 2027 date is published.",
+      "deadline_estimate": "2027-01",
+      "reopens": "CSV says calls are generally held once a year in winter. Recipients were announced on 28 Feb 2022 and 7 Mar 2023. No call after 2023 could be confirmed.",
+      "closed_reason": "No open call; the next deadline has not been announced.",
+      "url": "https://charlesstreetvideo.com/members-opportunities/",
+      "guidelines_url": "https://docs.google.com/document/d/e/2PACX-1vR8oWo4V1hz1HOlyqKiixfc8BDENRiCAJHuO5-uBkCz8X2YnUlc3bW8pa5vfaw16i70sUMRKQlTKGvh/pub",
+      "contact_email": "greg@charlesstreetvideo.com",
+      "contact_source": "https://docs.google.com/document/d/e/2PACX-1vR8oWo4V1hz1HOlyqKiixfc8BDENRiCAJHuO5-uBkCz8X2YnUlc3bW8pa5vfaw16i70sUMRKQlTKGvh/pub",
+      "how_to_apply": "Join or renew so you are a member in good standing, then submit the online application form with links to support material when the call opens. For questions, email with the subject heading 'CSV Media Art Production Grant'.",
+      "tips": "Half the artist fee is paid when the letter of agreement is signed and half on completion. Previous recipients must wait one deadline before reapplying.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "questions": [
+        {
+          "q": "Project basics and online form answers (project description)",
+          "kit": "synopsis_long"
+        },
+        {
+          "q": "Detailed balanced budget (expenses equal revenues, all funding sources listed)",
+          "kit": "budget"
+        },
+        {
+          "q": "Timeline / schedule",
+          "kit": "schedule"
+        },
+        {
+          "q": "Résumé or bio (for all collaborators on a collaborative project)",
+          "kit": "bio"
+        },
+        {
+          "q": "Support documents: script, storyboards, letters of agreement",
+          "kit": "custom",
+          "hint": "PURPLE script and letters of agreement from the producers."
+        },
+        {
+          "q": "If you request less than 30% of the budget: why CSV's contribution is significant",
+          "kit": "use_of_funds"
+        }
+      ],
+      "evidence": [
+        "https://charlesstreetvideo.com/projects/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "toronto-arts-foundation-toronto-arts-awards-che-kothari-artist-instigator-award",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Toronto Arts Awards: Che Kothari Artist & Instigator Award and Breakthrough Artist Award",
+      "funder": "Toronto Arts Foundation",
+      "type": "Grant",
+      "region": "Toronto",
+      "amount": "$10,000 to each recipient. Finalists get $1,000 (Che Kothari) or $2,000 (Breakthrough).",
+      "currency": "CAD",
+      "why_fit": "Private-donor cash for early-career Toronto artists in any discipline. The Che Kothari award is for BIPOC artists aged 18 to 35 and allows self-nomination, which could suit Matthew once PURPLE and his community work give him a track record.",
+      "priorities": "Che Kothari: a young BIPOC artist recognised for artistic contribution and for positive change through early cultural leadership. Breakthrough: an emerging Toronto artist early in a professional career.",
+      "eligibility": "Both awards: 2 to 7 years of independent practice in the discipline and an ongoing association with Toronto; one award per nominee per cycle. Che Kothari: BIPOC, aged 18 to 35, self-nomination allowed, students eligible. Breakthrough: undergraduate and college students not eligible.",
+      "watch_out": "These are competitive career awards, not project grants. Matthew needs at least 2 years of independent practice. Che Kothari also requires cultural leadership beyond his own work (mentoring, organizing) and an age of 35 or under. Nominations for this cycle closed 3 Nov 2026.",
+      "deadline": "Closed. The last nomination deadline was 3 Nov 2026 (time not stated).",
+      "deadline_estimate": "2027-11",
+      "reopens": "The next nomination deadline is expected around early November 2027.",
+      "closed_reason": "Nominations closed 3 Nov 2026.",
+      "url": "https://torontoartsfoundation.org/arts-awards/",
+      "apply_url": "https://tac.smartsimple.ca/welcome/taf/",
+      "guidelines_url": "https://torontoartsfoundation.org/awards/che-kothari-artist-and-instigator-award/",
+      "contact_email": "awards@torontoarts.org",
+      "contact_source": "https://torontoartsfoundation.org/awards/che-kothari-artist-and-instigator-award/",
+      "how_to_apply": "Register on the Toronto Arts Foundation Nomination Portal (not TAC Grants Online), then submit the nominee's name, biography, nomination rationale and supporting material. Drafts can be saved.",
+      "tips": "If someone is nominated for more than one award, only the first eligible nomination by timestamp counts, so choose one award.",
+      "phases": [
+        "post-production",
+        "distribution"
+      ],
+      "amount_max": 10000,
+      "questions": [
+        {
+          "q": "Biography",
+          "kit": "bio"
+        },
+        {
+          "q": "Nomination rationale",
+          "kit": "custom",
+          "hint": "Matthew's artistic contribution, plus any community or cultural leadership such as mentoring or Filipino-Canadian community work."
+        },
+        {
+          "q": "Supporting material (visual, audio or text attachments)",
+          "kit": "previous_work"
+        }
+      ],
+      "evidence": [
+        "https://torontoartsfoundation.org/awards/breakthrough-artist-award/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "university-of-toronto-john-h-daniels-faculty-of-architecture-landscape-and-desig",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Daniels Filmmaker-in-Residence",
+      "funder": "University of Toronto, John H. Daniels Faculty of Architecture, Landscape, and Design (private donor support)",
+      "type": "Program",
+      "region": "Toronto",
+      "amount": "$15,000 stipend for a 10 to 12 week in-person residency, plus shared access to a 4K camera, lighting, grip, studio space and editing computers",
+      "currency": "CAD",
+      "why_fit": "Donor-funded money for GTA filmmakers whose work centres underrepresented communities. A residency during PURPLE's post could pay the director while finishing the film. The film's landscape journey (the Rockies, the Jasper Dark Sky Preserve) and its Filipino-Canadian representation can connect to the faculty's interest in communities and climate.",
+      "priorities": "Emerging and mid-career filmmakers committed to historically underrepresented communities; stories on societal, political or environmental issues; work that engages students and community and centres representation.",
+      "eligibility": "Emerging (under 5 years of practice) or mid-career filmmakers with at least two independently produced works as primary director, producer or creator. Must be eligible to work in Canada and ordinarily live in the GTA. Current U of T students and staff are not eligible. Narrative work is allowed; commercial work is not.",
+      "watch_out": "Requires two independently produced works where Matthew was the primary director, producer or creator; an AD credit will not count. The teaching load is heavy (at least three guest lectures, weekly office hours and a public screening), which competes with post-production time. The fit with architecture, landscape and climate must be argued. The 2027 call is not yet published.",
+      "deadline": "The 2026 call closed 15 July 2026. The 2027 call is not yet published.",
+      "deadline_estimate": "2027-07",
+      "reopens": "The residency has run each year since 2024 (2026 deadline: 15 July 2026), so a mid-2027 call is likely.",
+      "closed_reason": "The 2026 call closed 15 July 2026.",
+      "url": "https://www.daniels.utoronto.ca/sites/default/files/2026-06/2026_daniels_filmmaker-in-residence.pdf",
+      "contact_email": "filmmaker@daniels.utoronto.ca",
+      "contact_source": "https://www.daniels.utoronto.ca/sites/default/files/2026-06/2026_daniels_filmmaker-in-residence.pdf",
+      "how_to_apply": "Submit the online form (a Google Form in 2026) with your CV, two work excerpts, and the statement and workplan.",
+      "phases": [
+        "post-production"
+      ],
+      "amount_max": 15000,
+      "questions": [
+        {
+          "q": "Curriculum vitae (PDF)",
+          "limit": "3 pages",
+          "kit": "bio"
+        },
+        {
+          "q": "Links to two excerpts of recent work",
+          "limit": "up to 3 minutes each",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Statement and workplan: how your past work will enhance teaching and learning, how it centres voice and representation, and a plan for the 10 to 12 week residency",
+          "limit": "750 words",
+          "kit": "statement"
+        },
+        {
+          "q": "Resources you will need during the residency",
+          "kit": "use_of_funds"
+        }
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "purin-pictures-purin-film-fund-thailand-purin-production-fund",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Purin Production Fund",
+      "funder": "Purin Pictures (Purin Film Fund), Thailand",
+      "type": "Grant",
+      "region": "International",
+      "amount": "USD 30,000 for fiction features, paid in three parts: USD 10,000 on signing, USD 15,000 at the start of principal photography and USD 5,000 on delivery. No entry fee.",
+      "currency": "USD",
+      "why_fit": "A private Southeast Asian fund for fiction features over 60 minutes that have not started principal photography. PURPLE's Filipino story and Philippines shoot fit its focus, and USD 30,000 would close most of the gap if PURPLE could qualify.",
+      "priorities": "Feature-length fiction, animation and documentary from Southeast Asia that are close to production readiness. At least one grant per session is earmarked for a female filmmaker.",
+      "eligibility": "The director must be a citizen of a Southeast Asian country, and the primary production company must be registered in a Southeast Asian country. The director needs at least one feature or two short films. A completed script is required, and principal photography must not have started.",
+      "watch_out": "Very likely ineligible as PURPLE stands. Matthew would need Philippine citizenship (possible if he holds dual citizenship through a Filipino parent; confirm this), and a Philippine-registered company would have to be the primary production company. He also needs two directed shorts or one feature. If the spring 2027 deadline follows the usual 1 March, it falls before the May 2027 shoot, leaving little time to restructure.",
+      "deadline": "Two sessions a year. The usual spring session opens 1 Feb and closes 1 Mar, 23:59 (GMT+7), with decisions on 1 May. 2027 dates are not yet posted. The fall 2026 session closed 1 Sept 2026.",
+      "deadline_estimate": "2027-03",
+      "decision": "About 2 months after the deadline (spring decisions on 1 May; fall results on 1 Nov).",
+      "reopens": "The spring session is expected to open around 1 Feb 2027 with a 1 March 2027 deadline, following the fund's published spring and fall pattern.",
+      "closed_reason": "The fall 2026 session closed 1 Sept 2026; spring 2027 dates are not yet posted.",
+      "url": "https://www.purin.org/funds/production-fund/",
+      "how_to_apply": "Apply in English through the Jotform application linked on the Production Fund page.",
+      "phases": [
+        "pre-production",
+        "production"
+      ],
+      "amount_max": 30000,
+      "decision_weeks": 9,
+      "questions": [
+        {
+          "q": "Logline",
+          "limit": "150 characters",
+          "kit": "logline"
+        },
+        {
+          "q": "Synopsis",
+          "limit": "1,500 characters",
+          "kit": "synopsis_long"
+        },
+        {
+          "q": "Director statement",
+          "limit": "1,500 characters",
+          "kit": "statement"
+        },
+        {
+          "q": "Director biography",
+          "limit": "1,000 characters",
+          "kit": "bio"
+        },
+        {
+          "q": "Director filmography",
+          "limit": "1,000 characters",
+          "kit": "previous_work"
+        },
+        {
+          "q": "Producer biography",
+          "limit": "1,000 characters",
+          "kit": "team"
+        },
+        {
+          "q": "Producer filmography",
+          "limit": "1,000 characters",
+          "kit": "team"
+        },
+        {
+          "q": "Production company profile",
+          "limit": "1,000 characters",
+          "kit": "custom",
+          "hint": "Profile of the Southeast Asian (Philippine) lead production company."
+        },
+        {
+          "q": "Production schedule",
+          "limit": "500 characters",
+          "kit": "schedule"
+        },
+        {
+          "q": "Project proposal (PDF)",
+          "limit": "20 MB",
+          "kit": "custom",
+          "hint": "Pitch deck: logline, synopsis, statement, visuals, team."
+        },
+        {
+          "q": "Latest script draft (PDF)",
+          "limit": "10 MB",
+          "kit": "custom",
+          "hint": "The current PURPLE draft."
+        },
+        {
+          "q": "Detailed budget (PDF)",
+          "limit": "2 MB",
+          "kit": "budget"
+        },
+        {
+          "q": "Financial plan (PDF)",
+          "limit": "2 MB",
+          "kit": "funding_plan"
+        },
+        {
+          "q": "Copy of the director's valid passport",
+          "limit": "2 MB",
+          "kit": "custom",
+          "hint": "Must show Southeast Asian citizenship."
+        },
+        {
+          "q": "Links to the director's previous works, with passwords",
+          "kit": "previous_work"
+        }
+      ],
+      "evidence": [
+        "https://purin.org/"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "ontario-arts-foundation-tom-phillips-prize-media-arts",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Tom Phillips Prize (media arts)",
+      "funder": "Ontario Arts Foundation",
+      "type": "Grant",
+      "region": "Ontario",
+      "amount": "$10,000. Seven prizes a year, one in each category, including media arts.",
+      "currency": "CAD",
+      "why_fit": "Private foundation money for emerging Ontario media artists with no separate application: if PURPLE applies to the Ontario Arts Council's Media Arts Creation program, Matthew is considered automatically.",
+      "priorities": "Support for emerging visual, media and craft artists.",
+      "eligibility": "Applicants to the Ontario Arts Council's Visual Arts Creation, Media Arts Creation and Crafts Projects programs. The Ontario Arts Council manages selection.",
+      "watch_out": "There is only one media arts prize a year for all of Ontario, so it is a long shot. It depends on applying to the OAC Media Arts Creation program (covered on the government list), so OAC's eligibility rules and deadlines apply. The prize is new: the first recipients were announced 12 May 2026.",
+      "deadline": "No separate application or deadline: applicants are considered through OAC Media Arts Creation applications (see OAC's published deadlines).",
+      "url": "https://oafdn.ca/programs/awards/tomphillips/",
+      "how_to_apply": "Apply to the Ontario Arts Council's Media Arts Creation program; OAC considers applicants for the prize.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "amount_max": 10000
+    },
+    {
+      "id": "reelworld-screen-institute-presented-by-hollywood-suite-reelworld-market-ready",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Reelworld Market Ready",
+      "funder": "Reelworld Screen Institute, presented by Hollywood Suite",
+      "type": "Program",
+      "region": "Canada",
+      "amount": "Financial support to attend the Reelworld Summit (amount not published), plus a Festival+Summit pass and market training",
+      "why_fit": "Broadcaster-backed support for emerging BIPOC directors to attend Reelworld's industry summit in Toronto. The October 2027 Summit falls during PURPLE's post, a useful moment to meet distributors and broadcasters for the finished film.",
+      "priorities": "Market training and professional development for emerging Black, Indigenous and People of Colour producers, writers and directors.",
+      "eligibility": "Emerging Canadian producers, writers and directors who identify as Black, Indigenous or People of Colour.",
+      "watch_out": "It only pays for attending the Summit, not film costs, and the amount is not published. The 2027 dates are not yet posted.",
+      "deadline": "2026 call: opened 5 Aug 2026 and closed 20 Aug 2026, 4:00pm ET (Summit 20 to 21 Oct 2026). The 2027 call is not yet published.",
+      "deadline_estimate": "2027-08",
+      "reopens": "Expected around August 2027, for the October 2027 Reelworld Summit.",
+      "closed_reason": "The 2026 call closed 20 Aug 2026.",
+      "url": "https://www.reelworld.ca/market-ready-hollywoodsuite",
+      "contact_email": "programming@reelworld.ca",
+      "contact_source": "https://www.reelworld.ca/market-ready-hollywoodsuite",
+      "how_to_apply": "Watch the Reelworld site for the 2027 call.",
+      "tips": "The 2026 window was open only about two weeks, so have a bio and the PURPLE pitch ready by early August 2027.",
+      "phases": [
+        "distribution"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "soundlab-pickering-ontario-new-client-discount-on-post-production-sound",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "New-client discount on post-production sound",
+      "funder": "SoundLab (Pickering, Ontario)",
+      "type": "In-kind",
+      "region": "Ontario",
+      "amount": "15% off your first post-sound project (sound design, dialogue editing or mixing), on a project value of up to $4,000: a maximum discount of $600",
+      "currency": "CAD",
+      "why_fit": "A published offer from a GTA post-sound house, useful toward PURPLE's dialogue edit and mix within the $16,000 post budget, especially with three languages to clean up.",
+      "eligibility": "New clients booking sound design, dialogue editing or mixing directly with SoundLab.",
+      "watch_out": "Small and commercial: a general promotion, not an emerging-filmmaker program. It may be withdrawn at any time and cannot be combined with other discounts. Get a full quote for a feature mix first.",
+      "deadline": "Rolling while the offer lasts (no expiry date published). Book post-sound well before the January 2028 screening.",
+      "url": "https://soundlab.ca/",
+      "how_to_apply": "Fill in the 'Get 15% off your first project' form on the homepage (name, email, phone) or book a discovery call.",
+      "phases": [
+        "post-production"
+      ],
+      "amount_max": 600,
+      "rolling": true
+    },
+    {
+      "id": "seed-spark-and-gold-house-aapi-renaissance-rally-crowdfunding-challenge",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "AAPI Renaissance Rally (crowdfunding challenge)",
+      "funder": "Seed&Spark and Gold House",
+      "type": "Crowdfunding",
+      "region": "International",
+      "amount": "Finalists in 2026 received $12,500 in additional funding, industry mentorship, a pitch to the Gold House Entertainment Fund and a spot at the Gold Pitch event during TIFF (on top of what the campaign raises)",
+      "currency": "USD",
+      "why_fit": "A crowdfunding rally for projects led by Asian and Pacific Islander characters, open to filmmakers in the US and Canada and including narrative features. A Filipino-Canadian father-and-son story fits exactly, and the rally ran in April, just before PURPLE's May 2027 shoot.",
+      "priorities": "Projects that lead with multidimensional or unexpected Asian and Pacific Islander characters. Presented by Seed&Spark and Gold House with partners such as A-Doc and CAAM.",
+      "eligibility": "Filmmakers across the US and Canada running a Seed&Spark campaign during the rally window. 2026 finalists had to reach 80% of their goal (Green Light), get 350 followers and post 8 campaign updates.",
+      "watch_out": "The 2027 edition has not been announced. The 2026 rally ran 30 March to 29 April 2026 and the 2025 rally ran too, so a spring 2027 round is likely but not confirmed. The $12,500 is probably USD (Seed&Spark is US-based); confirm. Seed&Spark pages blocked automated reading, so the terms come from the A-Doc partner post and search summaries. Check the official rally page before planning.",
+      "deadline": "No 2027 dates yet. In 2026 campaigns had to run during the rally, 30 March to 29 April 2026. Build the campaign page in February and March 2027 so it can launch when the rally opens.",
+      "deadline_estimate": "2027-03",
+      "reopens": "2026 rally ran 30 Mar to 29 Apr 2026 (the second annual edition). A 2027 edition is expected around March to April 2027 but is not confirmed.",
+      "url": "https://seedandspark.com/fund/rally/aapi-renaissance-2026",
+      "how_to_apply": "Create a Seed&Spark crowdfunding campaign, select the AAPI Renaissance rally when it opens, and run the campaign inside the rally window. To be a finalist: reach the Green Light (80% of goal), 350 followers and 8 updates.",
+      "tips": "Line up the first 30% of the goal from family, the Filipino-Canadian community and the cast's networks before launch. Followers count separately from backers, so ask people to follow even if they cannot give. Post the 8 updates on a schedule (casting, Tagalog/French script, locations, crew).",
+      "phases": [
+        "pre-production",
+        "production"
+      ],
+      "amount_max": 12500,
+      "evidence": [
+        "https://a-doc.org/2026/03/31/support-these-a-doc-projects-on-seedsparks-aapi-renaissance-rally-now",
+        "https://seedandspark.com/aapi-renaissance-rally-2026",
+        "https://seedandspark.com/aapi-renaissance-rally-2025-terms"
+      ]
+    },
+    {
+      "id": "seed-spark-seed-spark-crowdfunding-film-only-platform",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "A",
+      "name": "Seed&Spark crowdfunding (film-only platform)",
+      "funder": "Seed&Spark",
+      "type": "Crowdfunding",
+      "region": "International",
+      "amount": "No cap. No platform fee to creators; Stripe processing averages 2.9% + $0.30 per pledge, and Canadian projects or international cards may pay extra",
+      "why_fit": "A crowdfunding platform built for independent film, open to Canadian filmmakers since 2018, with no platform fee and a Green Light at 80% of goal (a softer rule than all-or-nothing). It is also the platform behind the AAPI Renaissance rally.",
+      "priorities": "Independent film and series creators. The model rewards building followers (an audience) as well as money.",
+      "eligibility": "Filmmakers in the US and Canada.",
+      "watch_out": "The fee pages could not be read directly (blocked); figures come from Seed&Spark's own FAQ snippets. Ask what extra processing fees apply to a Canadian (CAD) project. Pledges are only charged if the campaign reaches 80% of its goal, and the campaign must run its full length before payout. Crowdfunded money is income for an individual; ask an accountant. Backers do not get tax receipts.",
+      "deadline": "Rolling: launch any time. Plan about 8 weeks of preparation before launch and a 30-day campaign that ends at least a month before the money is needed (May 2027 shoot).",
+      "decision": "Funds are paid out within about seven business days after the campaign closes.",
+      "url": "https://seedandspark.com/crowdfund",
+      "guidelines_url": "https://faq.seedandspark.com/en/articles/3709720-crowdfunding-guidelines-and-requirements",
+      "how_to_apply": "Create an account, build the campaign page (video, wishlist of budget items, incentives), then launch. The 'wishlist' can list real budget lines: Calgary flights, the van, food, Philippine shoot.",
+      "tips": "Use the wishlist to let people fund specific items (one Calgary flight, one day of the van, one day of crew meals). Line up 30% of the goal before launch. Pair the campaign with the AAPI Renaissance rally if it runs in spring 2027.",
+      "phases": [
+        "pre-production",
+        "production",
+        "post-production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://faq.seedandspark.com/en/articles/3055810-what-are-your-crowdfunding-fees",
+        "https://faq.seedandspark.com/en/articles/3065547-what-is-getting-the-green-light-and-what-does-it-mean",
+        "https://www.crowdfundinsider.com/2018/10/139884-seedspark-announces-canadian-expansion-now-offering-new-funding-options-for-canadian-creators/"
+      ]
+    },
+    {
+      "id": "kickstarter-kickstarter-canadian-creators",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Kickstarter (Canadian creators)",
+      "funder": "Kickstarter",
+      "type": "Crowdfunding",
+      "region": "International",
+      "amount": "No cap. Kickstarter takes 5% of funds collected plus a Stripe processing fee of roughly 3 to 5%. All-or-nothing: nothing is collected unless the goal is met",
+      "why_fit": "The best-known platform, open to individuals living in Canada with a Canadian bank account, so Matthew can launch it himself in CAD. Good for a large general audience if the campaign has a strong video.",
+      "priorities": "Creative projects with a clear goal, an end date and rewards for backers.",
+      "eligibility": "Individuals 18+ who live in Canada, with a Canadian government ID and a Canadian bank account that takes direct deposits in the campaign currency. The help centre also says Canadian projects can only use credit cards.",
+      "watch_out": "All-or-nothing: if the goal is missed, nothing is collected, so set a realistic goal (for example the $27,400 cash needed to shoot, or less). Fees total about 8 to 10%. Run only one campaign: Seed&Spark costs less and is built for film, so choose one. No tax receipts for backers.",
+      "deadline": "Rolling: launch any time. Allow time for Kickstarter's project review, about 8 weeks of preparation and a 30-day campaign that ends at least a month before the money is needed.",
+      "url": "https://help.kickstarter.com/hc/en-us/articles/115005028634-What-are-the-fees",
+      "guidelines_url": "https://help.kickstarter.com/en-us/articles/16236650-who-can-use-kickstarter",
+      "how_to_apply": "Create a project as an individual in Canada, verify ID and bank account, submit for review, then launch.",
+      "tips": "Rewards that cost little to fulfil work best for a film: digital thank-you, name in the credits, online screening link, signed poster, a set visit in Toronto.",
+      "phases": [
+        "pre-production",
+        "production",
+        "post-production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://help.kickstarter.com/hc/en-us/articles/115005028514-What-are-the-fees",
+        "https://updates.kickstarter.com/kickstarter-fees-a-comprehensive-guide-for-creators"
+      ]
+    },
+    {
+      "id": "indiegogo-indiegogo-fixed-funding-only",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Indiegogo (fixed funding only)",
+      "funder": "Indiegogo",
+      "type": "Crowdfunding",
+      "region": "International",
+      "amount": "No cap. Flat 5% platform fee plus 3% + $0.20 processing per transaction",
+      "why_fit": "An alternative to Kickstarter open to Canadian residents, but it no longer offers 'keep what you raise' funding, which was its main advantage for films.",
+      "priorities": "Since the Gamefound takeover (July 2025) the platform is geared to products and games.",
+      "eligibility": "Individuals who are legal residents of an eligible country (Canada is listed) or have a registered business there.",
+      "watch_out": "Flexible funding ended for new campaigns on 16 October 2025: all new campaigns are all-or-nothing ('Fixed Funding'). Same fees as Kickstarter and less film audience, so Seed&Spark or Kickstarter is better. New campaigns go through a platform review and a financial identity (KYC) check.",
+      "deadline": "Rolling: launch any time after the compliance review.",
+      "url": "https://help.indiegogo.com/article/645-what-changed-with-the-platform-upgrade",
+      "guidelines_url": "https://www.indiegogo.com/cs/terms/creators",
+      "phases": [
+        "pre-production",
+        "production",
+        "post-production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://support.indiegogo.com/hc/en-us/articles/39600950083988-Indiegogo-s-Acquisition-by-Gamefound",
+        "https://help.indiegogo.com/article/601-stripe-list-of-supported-countries"
+      ]
+    },
+    {
+      "id": "patreon-patreon-membership-page",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Patreon membership page",
+      "funder": "Patreon",
+      "type": "Crowdfunding",
+      "region": "International",
+      "amount": "Monthly memberships. New creators pay 10% plus payment processing, currency conversion and payout fees",
+      "why_fit": "Useful after the main campaign to keep supporters paying monthly through post-production (September 2027 to February 2028) in exchange for behind-the-scenes posts from Ottawa, Montreal, the Rockies and the Philippines.",
+      "priorities": "Ongoing creator memberships rather than one-time project funding.",
+      "eligibility": "Open to creators in Canada.",
+      "watch_out": "Small amounts unless the team already has an audience. Fees are higher than Seed&Spark (10% platform fee for pages started after August 2025, plus processing, currency and payout fees, about 13 to 17% in total by third-party estimates). Not a substitute for a project campaign.",
+      "deadline": "Rolling: open a page any time.",
+      "url": "https://www.patreon.com/pricing",
+      "tips": "Start it only once there is footage to share; offer tiers such as production diary, monthly cut-down clips and a credit for long-time members.",
+      "phases": [
+        "production",
+        "post-production",
+        "distribution"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.casrai.org/guides/patreon-pricing"
+      ]
+    },
+    {
+      "id": "canada-revenue-agency-rules-for-registered-charities-tax-receipted-donations-thr",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Tax-receipted donations through a partner charity (intermediary arrangement)",
+      "funder": "Canada Revenue Agency (rules for registered charities)",
+      "type": "Program",
+      "region": "Canada",
+      "amount": "Depends on donors; donors get official receipts only if a registered charity runs the activity",
+      "why_fit": "The only Canadian way for PURPLE's larger donors to get a tax receipt: a registered charity whose purposes cover arts or culture (for example a Filipino-Canadian arts charity such as Kapisanan) runs a charitable activity linked to the film and uses the filmmaker as its intermediary under its direction and control.",
+      "priorities": "CRA requires the charity to direct and control the activity and its money, ideally with a written agreement, regular reporting, money paid in instalments, and books kept in Canada. An intermediary can be an individual.",
+      "eligibility": "Only a registered charity or other qualified donee can issue receipts. The filmmaker cannot issue them.",
+      "watch_out": "Canada has no US-style 'fiscal sponsorship'. A charity that just passes donations through to a film is acting as a conduit and risks its registration, so most charities will say no unless the film clearly serves their charitable purpose (for example youth mentorship on set or community screenings). Gifts earmarked for one person, or that buy the donor credit or perks, may not be receiptable. CRA says sponsorship is not a gift. The newer 2023 rules that let charities make grants to non-qualified donees are for organizations, not individual artists. Get a charity lawyer or accountant to check the agreement. US fiscal sponsors (Film Independent, Fractured Atlas) give US receipts, not Canadian ones.",
+      "deadline": "No deadline. Allow 2 to 3 months to find a charity, agree the activity and sign a written agreement before asking donors.",
+      "url": "https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/using-intermediary-carry-a-charitys-activities-within-canada.html",
+      "guidelines_url": "https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/receiving-gifts/sponsorship.html",
+      "how_to_apply": "Approach a registered arts or Filipino-Canadian cultural charity with a defined charitable activity tied to the film (mentorship of Filipino-Canadian youth on set, community screenings and workshops). Agree a written intermediary agreement, budget and reporting. Donations go to the charity, which receipts them and pays out in instalments.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/charities-making-grants-non-qualified-donees.html",
+        "https://www.charitylawgroup.ca/charity-law-questions/charity-sponsorship-vs-donation-legal-tax-differences"
+      ]
+    },
+    {
+      "id": "jollibee-canada-jollibee-fundraising-day-20-of-a-day-s-sales",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Jollibee Fundraising Day (20% of a day's sales)",
+      "funder": "Jollibee Canada",
+      "type": "Sponsor",
+      "region": "Canada",
+      "amount": "20% of the sales from your fundraising event at a participating Jollibee (online and in-person sales count in Canada)",
+      "why_fit": "The most recognizable Filipino brand in Canada (10 years in Canada in 2026, expanding fast) with a published fundraising program that lists 'local arts' as a cause. A PURPLE Jollibee day in the GTA would raise cash and announce the film to the Filipino-Canadian community at once.",
+      "priorities": "Community causes such as schools, sports teams, local arts and neighbourhood projects; 'Have a unique fundraising need? Our program flexes to fit various causes.'",
+      "eligibility": "'Your organization' or cause; run through Force4Good in Canada. The page does not say whether an individual artist's film project qualifies.",
+      "watch_out": "The program is written for organizations; an individual's film may be refused. Applying with a community partner (Kapisanan, Siné Institute) is safer. The money depends on turnout, probably hundreds rather than thousands of dollars, so the main value is visibility. There is no published route for food or cash sponsorship beyond this program. Jollibee Canada's own giving in 2026 went to charities (Make-A-Wish Canada, Boys and Girls Club).",
+      "deadline": "Rolling. No lead time published; book the day 6 to 8 weeks ahead so there is time to promote it.",
+      "url": "https://ca.jollibeefoods.com/fundraising",
+      "apply_url": "https://jollibeefoods.force4good.com/",
+      "how_to_apply": "Apply through 'Get Started' (Force4Good portal), choose a participating Jollibee (for example in Scarborough or Mississauga), then promote the day to the community and cast networks. Questions go to the Jollibee Help Center.",
+      "ask": "A PURPLE fundraising day at a GTA Jollibee during the crowdfunding campaign (spring 2027). Later, through the same contact, ask about food for one cast and crew day or for the Toronto premiere.",
+      "offer": "End-credit thanks, logo on the crowdfunding page, social posts from the film's accounts, screening tickets, and a natural, tasteful Jollibee moment on the road trip if the script allows (a Filipino-Canadian father and son stopping for Chickenjoy).",
+      "phases": [
+        "pre-production",
+        "production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://retail-insider.com/bulletin/2026/10/jollibee-marks-10-years-in-canada-with-charity-campaign-expansion-plans/",
+        "https://newswire.ca/news-releases/jollibee-announces-philanthropic-partnership-with-boys-and-girls-club-of-west-scarborough-685221021.html"
+      ]
+    },
+    {
+      "id": "abs-cbn-global-the-filipino-channel-tfc-tfc-abs-cbn-global-media-partnership",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "TFC / ABS-CBN Global media partnership",
+      "funder": "ABS-CBN Global (The Filipino Channel, TFC)",
+      "type": "Sponsor",
+      "region": "Canada",
+      "amount": "In-kind media (promotion, coverage, event partnership); cash not published",
+      "why_fit": "TFC is the main Filipino broadcaster for Filipino-Canadians and says in its Canada media kit that it partners with Filipino organizations across the US and Canada to support community events. ABS-CBN Global is already a media partner of Siné Film Fest in Toronto.",
+      "priorities": "Reaching Filipino audiences in North America through TV, digital, MYX and in-person community events, movie premieres and concerts.",
+      "eligibility": "Brands and community partners; no formal application.",
+      "watch_out": "The published contact is ABS-CBN's advertising sales team, so expect to be offered paid ads; ask specifically for a media partnership (free coverage and promotion in exchange for visibility). Cash sponsorship is unlikely. A distribution or licensing talk (iWantTFC) belongs to a later stage. The mytfc.com pages blocked automated reading; the email comes from the 2025 Canada media kit PDF.",
+      "deadline": "Rolling. Write at least 3 months before the crowdfunding launch or premiere you want covered.",
+      "url": "https://mytfc.com/advertise-with-TFC",
+      "contact_email": "clientsolutions@abs-cbn.com",
+      "contact_source": "https://img.mytfc.com/cmsroot/abscms/media/mytfctv/specialpages/tfcadvertisingnola/tfc-media-kit_canada-2025.pdf?ext=.pdf",
+      "how_to_apply": "Email a one-page media-partnership proposal: the film, the Filipino-Canadian team, the Philippines shoot, the crowdfunding dates, and what TFC gets.",
+      "ask": "Media partnership: news coverage of the shoot and the Philippine leg, interviews with the director and cast, promotion of the crowdfunding campaign, and a presence at the Toronto premiere in January 2028.",
+      "offer": "'Media partner' logo on the poster, trailer and crowdfunding page, first-look clips and exclusive interviews, end-credit thanks, premiere red-carpet access and screening tickets.",
+      "phases": [
+        "production",
+        "distribution"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://img.mytfc.com/cmsroot/abscms/media/mytfctv/specialpages/tfcadvertisingnola/tfc-media-kit_canada-2025.pdf?ext=.pdf",
+        "https://mytfc.com/community/sine-film-fest-returns-march-5-8-at-tiff-lightbox-with-curated-lineup-and-industry-conference"
+      ]
+    },
+    {
+      "id": "kapisanan-philippine-centre-for-arts-culture-community-partnership-filipino-cana",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Community partnership (Filipino-Canadian arts centre)",
+      "funder": "Kapisanan Philippine Centre for Arts & Culture",
+      "type": "Sponsor",
+      "region": "Toronto",
+      "amount": "In-kind partnership; no cash program published",
+      "why_fit": "Toronto's Filipino-Canadian arts centre (a registered charity listed on CanadaHelps) whose mission is to support artists and youth of Filipino descent. It is a natural community partner for letters of support, a co-presented screening, youth mentorship on set and, possibly, receipted donations under a charity-run activity.",
+      "priorities": "Supporting Filipino/a/x youth, artists, newcomers and families through arts education, cultural programming, mentorship and community-building (Pasko sa Kultura winter festival, workshops).",
+      "eligibility": "Partnership inquiries welcome by email or form.",
+      "watch_out": "Kapisanan has no published grant or film program, and its current programs are mostly youth and festival based. Treat it as a partner, not a funder. Any receipted-donation arrangement must follow CRA intermediary rules (see that entry).",
+      "deadline": "Rolling. Write by January 2027 so a partnership letter is ready for spring grant deadlines.",
+      "url": "https://kapisanancentre.com/programs-impact",
+      "contact_email": "info@kapisanancentre.com",
+      "contact_source": "https://kapisanancentre.com/contact",
+      "how_to_apply": "Email info@kapisanancentre.com with a short partnership proposal and ask for a meeting.",
+      "ask": "A community-partner letter of support for grant applications; promotion of casting calls and crowdfunding to its network; a co-presented fundraising screening or workshop (for example at Pasko sa Kultura); and a talk about a youth mentorship role on set that could be a charitable activity they run.",
+      "offer": "Community partner credit and logo, paid or credited roles for young Filipino-Canadian artists on set, a benefit screening for Kapisanan, and a Q&A.",
+      "phases": [
+        "development",
+        "pre-production",
+        "production",
+        "distribution"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.canadahelps.org/en/charities/kapisanan/",
+        "https://kapisanancentre.com"
+      ]
+    },
+    {
+      "id": "sine-institute-sine-film-fest-sine-institute-community-and-screening-partnership",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Siné Institute community and screening partnership",
+      "funder": "Siné Institute (Siné Film Fest)",
+      "type": "Sponsor",
+      "region": "Toronto",
+      "amount": "In-kind: promotion, introductions, screening; the 48-Hour Film Challenge winner gets production support for a next film",
+      "why_fit": "The Toronto non-profit behind Canada's Filipino film festival (at TIFF Lightbox). Its sponsor and media list is a ready map of who already pays for Filipino-Canadian film: TD, Kre8, Canada Film Equipment, Sony, Marquee Insurance, AV Communications, ABS-CBN, GMA Pinoy TV, OMNI and Filipino TV.",
+      "priorities": "Nurturing Filipino talent in the creative industries through the festival, workshops, an Industry Conference and the 48-Hour Film Challenge.",
+      "eligibility": "Filipino and Filipino-Canadian creators; calls go out on Instagram first.",
+      "watch_out": "Siné looks for sponsors itself and is not a funder. A festival submission for PURPLE belongs on the competitions list. The 2027 festival is listed for April 2027 at TIFF Lightbox, before PURPLE is shot, so the useful slot is a work-in-progress or Industry Conference presence in 2027 and a screening in 2028.",
+      "deadline": "Rolling for partnership talks. 48-Hour Film Challenge 6 to 7 March 2027; Industry Conference March 2027; festival April 2027.",
+      "url": "https://sineinstitute.com",
+      "contact_email": "info@sineinstitute.com",
+      "contact_source": "https://sineinstitute.com",
+      "how_to_apply": "Email info@sineinstitute.com; follow @sineinstitute on Instagram for calls.",
+      "ask": "Promotion of PURPLE's crowdfunding and casting to the Siné audience; introductions to its presenting partners and media partners (Canada Film Equipment, Kre8, TD, ABS-CBN, GMA Pinoy TV, OMNI); a work-in-progress pitch or talk at the March 2027 Industry Conference; a screening in 2028.",
+      "offer": "Community partner credit, a Q&A and screening for Siné's audience, behind-the-scenes content for its channels, and mentorship or set visits for Siné workshop participants.",
+      "phases": [
+        "pre-production",
+        "post-production",
+        "distribution"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://stories.td.com/ca/en/article/sine-film-fest-filipino-canadian",
+        "https://mytfc.com/community/sine-film-fest-returns-march-5-8-at-tiff-lightbox-with-curated-lineup-and-industry-conference"
+      ]
+    },
+    {
+      "id": "air-canada-corporate-sponsorships-sports-and-culture",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Corporate Sponsorships (sports and culture)",
+      "funder": "Air Canada",
+      "type": "Sponsor",
+      "region": "Canada",
+      "amount": "Not published (in-kind travel or cash, in exchange for brand visibility)",
+      "why_fit": "Air Canada flies Toronto-Calgary and has a published corporate sponsorship form that covers culture, and it already sponsors film festivals. Six return flights (about $4,200) is the ask.",
+      "priorities": "Sports or culture with national or province-wide reach and mass appeal; tangible benefits (branded assets, activation space, hosting); engagement with attendees; exclusivity in the airline and vacation package category; an evaluation framework.",
+      "eligibility": "Canadian organizations and properties that meet the criteria above. The Air Canada Foundation (grants and in-kind) is only for registered Canadian charities focused on children's and youth health. Community Relations and Partnerships is not accepting new requests.",
+      "watch_out": "A first micro-budget feature with no distributor will struggle to show 'national reach' and 'mass appeal'; the realistic version comes after a festival selection. The Foundation route is for registered charities only. The community page footer says 2022, so confirm the forms are still live. No lead time is published for corporate sponsorships.",
+      "deadline": "Rolling; no deadline published for corporate sponsorships. Send at least 3 months before the travel (the Foundation asks for 3 months for in-kind requests).",
+      "url": "https://www.aircanada.com/ca/en/aco/home/about/corporate-responsibility/community.html",
+      "apply_url": "https://forms.benevity.org/57faecb4-3b3f-4fe2-be09-0127c80e8c34",
+      "how_to_apply": "Submit the Corporate Sponsorships form (Benevity). Only requests sent through the forms are considered.",
+      "ask": "Six return Toronto-Calgary flights for the July 2027 Alberta shoot, or a discount code for cast and crew; later, travel for festival screenings.",
+      "offer": "Exclusive 'official airline' credit in the end credits and on the poster, logo on the trailer and crowdfunding page, social posts, a tasteful in-film moment if it fits, and screening tickets.",
+      "phases": [
+        "production",
+        "distribution"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://travelweekly.com.au/air-canada-makes-history-as-sydney-film-festivals-first-airline-partner/"
+      ]
+    },
+    {
+      "id": "westjet-airport-community-giving-gift-of-flight",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Airport Community Giving (gift of flight)",
+      "funder": "WestJet",
+      "type": "In-kind",
+      "region": "Canada",
+      "amount": "One round-trip flight for two to any WestJet destination, to be auctioned or raffled",
+      "why_fit": "WestJet flies Toronto-Calgary, and a flight-for-two raffle prize could anchor a fundraising event for the film, but only if a charity or non-profit partner runs it.",
+      "priorities": "In-kind support for charities, non-profits and community initiatives, reviewed by WestJetters at Canadian airports based on local needs.",
+      "eligibility": "Charities and not-for-profit organizations, third-party requests supporting a charity or non-profit, and community events or initiatives.",
+      "watch_out": "Excludes cash requests, sponsorship of fundraising or community events, and 'individuals raising money on their own'. The flight must be a raffle or packaged auction prize, not crew travel. PURPLE would need a non-profit partner (for example Kapisanan) to run the fundraiser for its own cause. No lead time is published.",
+      "deadline": "Rolling; no lead time published. Apply at least 8 weeks before the fundraising event.",
+      "url": "https://www.westjet.com/en-ca/who-we-are/cares/airport-community-giving",
+      "apply_url": "https://westjet.versaic.com/login",
+      "how_to_apply": "The partner non-profit registers and submits the gift-of-flight request after reading WestJet's Giving Guidelines.",
+      "ask": "A flight-for-two voucher as the main raffle prize at a partner non-profit's benefit screening or fundraiser.",
+      "offer": "Thanks at the event and on the partner's channels; WestJet thanked in PURPLE's end credits if the event supports the film.",
+      "phases": [
+        "pre-production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.westjet.com/en-co/contact/requests/sponsorship"
+      ]
+    },
+    {
+      "id": "porter-airlines-community-support-flight-vouchers",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Community Support flight vouchers",
+      "funder": "Porter Airlines",
+      "type": "In-kind",
+      "region": "Canada",
+      "amount": "Free flight vouchers (amount not published)",
+      "why_fit": "Toronto-based airline that gives free flight vouchers to causes that support community, foster diversity or raise awareness; a Filipino-Canadian story by racialized creators fits the diversity theme.",
+      "priorities": "'Free flight vouchers to help your cause soar, whether you are supporting your community, fostering diversity, or raising awareness.'",
+      "eligibility": "Third-party listings say registered charities and non-profits in communities Porter serves.",
+      "watch_out": "Porter's pages blocked automated reading, so the form's rules and lead time could not be confirmed. The program appears to be for charities and non-profits, so an individual film would need a non-profit partner. Vouchers are usually for raffles or charity travel, not crew flights.",
+      "deadline": "Rolling; lead time not published. Apply at least 8 weeks ahead.",
+      "url": "https://www.flyporter.com/en-ca/about-porter/who-we-are/sustainability",
+      "how_to_apply": "Use 'Start application' in the Community Support section of Porter's Help & Contact page (https://www.flyporter.com/en-ca/customer-service/help-contact).",
+      "ask": "Flight vouchers for a partner non-profit's fundraiser for the film, or for cast travel if the form allows it.",
+      "offer": "End-credit thanks, logo on the crowdfunding page, social posts and screening tickets.",
+      "phases": [
+        "pre-production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.flyporter.com/en-ca/customer-service/help-contact",
+        "https://grantstation.com/grantmakers/porter-airlines-corporate-giving"
+      ]
+    },
+    {
+      "id": "canadian-museum-of-nature-film-inquiries-filming-in-the-fossil-gallery-and-museu",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Film inquiries: filming in the Fossil Gallery and museum spaces",
+      "funder": "Canadian Museum of Nature",
+      "type": "In-kind",
+      "region": "Ottawa",
+      "amount": "Location access; fees not published (ask for a reduced rate)",
+      "why_fit": "The museum's 'Dinosaur Hall' scene is in the script. The museum publishes a named contact for film and commercial shoots and says its castle building is a frequent backdrop for movies. Its theatre (with projector) is also rentable for a premiere screening in Ottawa.",
+      "priorities": "The museum hosts photo and film shoots in its historic Ottawa building (a National Historic Site) and at its Natural Heritage Campus in Gatineau.",
+      "eligibility": "Commercial, educational and media shoots by request.",
+      "watch_out": "No fee schedule, small-production rate or waiver is published; expect a location fee, staff supervision, insurance and filming outside public hours. The dinosaur gallery is called the Fossil Gallery (horned dinosaurs). Ask early: the shoot is May to June 2027.",
+      "deadline": "Rolling; no lead time published. Write by February 2027 for a May to June 2027 shoot.",
+      "url": "https://nature.ca/en/about-the-museum/media-centre/",
+      "contact_email": "nboulet@nature.ca",
+      "contact_source": "https://nature.ca/en/about-the-museum/media-centre/",
+      "how_to_apply": "Email the film and commercial inquiries contact with the scene description, crew size (small), equipment, dates and the request for a reduced rate. For a screening, use the rentals inquiry form.",
+      "ask": "Permission to film the father-and-son scene in the Fossil Gallery with a small crew outside public hours, at a reduced or waived location fee for a micro-budget Canadian feature; later, a discounted theatre rental for an Ottawa screening.",
+      "offer": "End-credit thanks and location credit, stills and a short clip for the museum's channels, a screening and Q&A at the museum, and screening tickets for staff.",
+      "phases": [
+        "production",
+        "distribution"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://nature.ca/en/visit-us/rentals-events/"
+      ]
+    },
+    {
+      "id": "notre-dame-basilica-of-montreal-fabrique-de-la-paroisse-notre-dame-de-montreal-f",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Filming permission and reduced location fee",
+      "funder": "Notre-Dame Basilica of Montreal (Fabrique de la paroisse Notre-Dame de Montréal)",
+      "type": "In-kind",
+      "region": "Quebec",
+      "amount": "Location access; no fees or waivers published",
+      "why_fit": "The basilica is a named location in the script and is run by a non-profit Fabrique, which may grant a reduced rate to a small, respectful production.",
+      "priorities": "A place of worship and heritage site with tourist visits and the AURA show.",
+      "eligibility": "No filming policy is published.",
+      "watch_out": "No filming rules, fees or small-production discount are published. The only published routes are the press request form and the general email (meant for media stories). Expect fees, filming outside masses, visits and AURA show times, and possibly a request to read the script. Filming the exterior from the street needs a City of Montreal permit through the Bureau du cinéma et de la télévision de Montréal.",
+      "deadline": "Rolling; write by February 2027 for a May to June 2027 shoot.",
+      "url": "https://www.basiliquenotredame.ca/en/press-room",
+      "contact_email": "basilique@fabriquenotredame.ca",
+      "contact_source": "https://www.basiliquenotredame.ca/en/press-room",
+      "how_to_apply": "Write in French and English with the scene, crew size, dates and a respectful description of how the church is shown; ask who handles film shoots and their fees.",
+      "ask": "Permission to film a short interior scene with a small crew outside public hours, at a reduced fee for a micro-budget feature.",
+      "offer": "Location credit and thanks, a donation toward the restoration fund instead of a commercial fee, stills for their channels, and screening tickets.",
+      "phases": [
+        "production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.basiliquenotredame.ca/en/contact",
+        "https://montreal.ca/en/how-to/get-permit-to-temporarily-occupy-public-property-filming-purposes"
+      ]
+    },
+    {
+      "id": "parks-canada-banff-field-unit-film-permit-or-small-scale-registration-banff-nati",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Film permit or small-scale registration, Banff National Park (Lake Louise)",
+      "funder": "Parks Canada (Banff Field Unit)",
+      "type": "In-kind",
+      "region": "Alberta",
+      "amount": "No waiver. Crew of 1 to 6: $177.25 application fee per project plus $589.25 per filming day; small-scale registration where the project qualifies",
+      "why_fit": "Needed for the July 2027 Banff and Lake Louise scenes; a crew of six or fewer keeps the fees at the lowest tier and may qualify for small-scale registration instead of a permit.",
+      "priorities": "Small crews, low impact, public areas, no drones.",
+      "eligibility": "Anyone filming commercially in the park; the application answers decide whether it is a Small-Scale Registration or a Commercial Film Permit.",
+      "watch_out": "Major problem for the plan: commercial film projects are not considered at Lake Louise, Moraine Lake, Peyto Lake, Bow Lake, Johnston Canyon and other spots between 1 June and 30 September, which covers the July shoot. Ask the Banff Field Unit whether a small-scale registration is also blocked, or move those scenes to May or October, or use other locations. Lake Louise shoreline filming also needs the Fairmont Chateau Lake Louise's permission. Drones need extra permits. A business licence may be needed. Proof of liability insurance is usually required.",
+      "deadline": "Rolling: submit at least 20 business days before filming (business licences take about 15 business days). Write by March 2027 to settle the summer restriction.",
+      "decision": "Business licence service standard: 15 business days after a complete application.",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/info/permis-permit",
+      "apply_url": "https://forms-formulaires.alpha.canada.ca/en/id/cmpedf80600mt01ygp4jmya5l",
+      "guidelines_url": "https://parks.canada.ca/pn-np/bc/yoho/gestion-mgmt/acts/tournage-film",
+      "contact_email": "filmbanff-banfffilm@pc.gc.ca",
+      "contact_source": "https://parks.canada.ca/pn-np/ab/banff/info/permis-permit",
+      "how_to_apply": "Fill in the Banff Film Permit / Temporary Business Licence form; for Lake Louise questions write to llykfilm@pc.gc.ca (published on the same page).",
+      "ask": "Small-scale registration (or the lowest-tier permit) for a crew of six or fewer, and advice on which Lake Louise-area locations a narrative scene can use in July.",
+      "offer": "Location credit and thanks to Parks Canada, and footage that shows respectful use of the park.",
+      "phases": [
+        "production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://parks.canada.ca/pn-np/bc/yoho/gestion-mgmt/acts/tournage-film"
+      ]
+    },
+    {
+      "id": "parks-canada-jasper-field-unit-commercial-film-permit-or-small-scale-registratio",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Commercial film permit or small-scale registration, Jasper National Park (Dark Sky Preserve)",
+      "funder": "Parks Canada (Jasper Field Unit)",
+      "type": "In-kind",
+      "region": "Alberta",
+      "amount": "Small-scale registration is free but only for small travel-focused projects; otherwise crew of 1 to 6: $177.25 application plus $589.25 per day, plus park entry",
+      "why_fit": "Needed for the Jasper Dark Sky Preserve night scenes in July 2027. A crew of six or fewer keeps costs at the lowest tier.",
+      "priorities": "Off-season and weekday shoots are prioritized. Small-scale registration requires that the project 'informs the public about Parks Canada and promotes authentic, realistic experiences'.",
+      "eligibility": "Small-scale registration: six people or fewer including talent, hand-held equipment, public areas only, no drones, travel focus. Everything else needs a commercial permit.",
+      "watch_out": "A narrative feature probably does not count as a 'travel focus' project, so expect the commercial permit and fees. Night filming outside normal hours ('off-hours access') needs a commercial permit. Jasper is only taking commercial applications for projects before 1 April 2027 (page modified 2026-11-03), so the July 2027 application cannot be made yet. Permits do not cover park entry fees.",
+      "deadline": "Submit at least 20 business days before filming once Jasper opens applications for projects after 1 April 2027.",
+      "reopens": "Not announced. Check the page in early 2027 and write to the Jasper film contact to ask when July 2027 projects can apply.",
+      "closed_reason": "Jasper is only accepting commercial film applications for projects happening before 1 April 2027.",
+      "url": "https://parks.canada.ca/pn-np/ab/jasper/gestion-management/permis-permits/tournage-filming",
+      "apply_url": "https://pcweb2.azureedge.net/-/media/pn-np/ab/jasper/WET4/pdf/info/film/Film-Permit-Application-2026_ENG.docx",
+      "guidelines_url": "https://parks.canada.ca/pn-np/ab/jasper/visit/tarifs-fees",
+      "contact_email": "filmjasper-jasperfilm@pc.gc.ca",
+      "contact_source": "https://parks.canada.ca/pn-np/ab/jasper/gestion-management/permis-permits/tournage-filming",
+      "how_to_apply": "Ask the Jasper film contact whether PURPLE's small crew can use small-scale registration; if not, send the commercial application Word form with insurance details when applications open.",
+      "ask": "Small-scale registration or the lowest-tier permit for a crew of six, permission for night filming in the Dark Sky Preserve, and advice on low-light locations.",
+      "offer": "Location credit and thanks to Parks Canada; night-sky footage that promotes the Dark Sky Preserve.",
+      "phases": [
+        "production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://parks.canada.ca/pn-np/ab/jasper/gestion-management/permis-permits/tournage-filming/petite-small"
+      ],
+      "closed_since": "2026-11-16"
+    },
+    {
+      "id": "banff-lake-louise-tourism-media-team-filming-support-b-roll-library-and-leasehol",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Media team filming support (b-roll library and leaseholder contacts)",
+      "funder": "Banff & Lake Louise Tourism",
+      "type": "In-kind",
+      "region": "Alberta",
+      "amount": "In-kind: HD b-roll library, itinerary help, introductions to leaseholders and local experts",
+      "why_fit": "Its b-roll library could supply establishing shots of Lake Louise and Moraine Lake that PURPLE cannot film itself in July because of Parks Canada's summer restriction, and its team can contact leaseholders such as the Fairmont Chateau Lake Louise.",
+      "priorities": "Content that promotes Banff and Lake Louise as a travel destination; media visit support favours confirmed assignments tied to its pillars (soft adventure, culinary, wellness, sustainability, events).",
+      "eligibility": "Media and productions filming in Banff and Lake Louise.",
+      "watch_out": "It does not issue permits or pay for lodging for films, and its media-visit support is aimed at travel media with a confirmed outlet, so a feature may get only b-roll and contacts. Check the licence terms for using b-roll in a feature film. Lake Louise filming needs both Parks Canada and Fairmont permission.",
+      "deadline": "Rolling; the media visit form asks for at least three weeks' notice. Write by March 2027.",
+      "url": "https://www.banfflakelouise.com/media/filming",
+      "contact_email": "media@banfflakelouise.com",
+      "contact_source": "https://www.banfflakelouise.com/media/filming",
+      "how_to_apply": "Email the media team with the shoot dates, locations, crew size and the b-roll you need.",
+      "ask": "Licence to use HD b-roll of Lake Louise and Moraine Lake in the film; help contacting leaseholders (Fairmont Chateau Lake Louise) and choosing locations open to filming in July.",
+      "offer": "End-credit thanks and destination credit, behind-the-scenes clips and stills of the shoot for their channels, and screening tickets.",
+      "phases": [
+        "production",
+        "post-production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.banfflakelouise.com/media/lake-louise-area",
+        "https://banfflakelouise.jotform.com/210526919513051"
+      ]
+    },
+    {
+      "id": "tourism-jasper-tourism-jasper-and-jasper-dark-sky-festival-partnership",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Tourism Jasper and Jasper Dark Sky Festival partnership",
+      "funder": "Tourism Jasper",
+      "type": "Sponsor",
+      "region": "Alberta",
+      "amount": "In-kind (contacts, promotion, a possible screening); no sponsorship program published",
+      "why_fit": "PURPLE's night scenes in the Jasper Dark Sky Preserve match the festival Tourism Jasper runs every October; a 2028 screening at the festival would be a natural fit.",
+      "priorities": "Promoting Jasper and the world's largest accessible Dark Sky Preserve; the 2026 festival ran 14 to 26 October.",
+      "eligibility": "General inquiries; the festival also runs a call for speakers.",
+      "watch_out": "No sponsorship or film-support program is published; the only route is the general inquiry email. Jasper is still rebuilding after the 2024 wildfire. 2027 festival dates are not posted yet.",
+      "deadline": "Rolling; write by April 2027 for the July 2027 shoot.",
+      "url": "https://jasperdarksky.travel/events",
+      "contact_email": "inquiries@jasper.travel",
+      "contact_source": "https://jasperdarksky.travel/events",
+      "how_to_apply": "Email with the shoot dates, the Dark Sky scenes and the request.",
+      "ask": "Introductions to local astronomers or night-sky guides and to lodging partners who may give a film rate; later, a screening of PURPLE at the Dark Sky Festival in October 2028.",
+      "offer": "End-credit thanks, night-sky clips and stills for Tourism Jasper's channels, and a festival screening with Q&A.",
+      "phases": [
+        "production",
+        "distribution"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.jasper.travel/blog/jasper-dark-sky-festival-2026-top-events/"
+      ]
+    },
+    {
+      "id": "ottawa-film-office-and-city-of-ottawa-event-central-free-city-of-ottawa-filming",
+      "added": "2026-11-16",
+      "added_by": "research",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Free City of Ottawa filming permits and Ottawa Film Office location help",
+      "funder": "Ottawa Film Office and City of Ottawa (Event Central)",
+      "type": "In-kind",
+      "region": "Ottawa",
+      "amount": "City filming permits are free; fees apply only for on-street parking, park rentals, municipal facilities, late applications ($200) and Traffic Management approval ($200)",
+      "why_fit": "The Ottawa scenes (May to June 2027) can be permitted at no cost on City property, and the Film Office helps connect productions with locations, crew and the federal bodies that control places like Parliament Hill.",
+      "priorities": "Attracting productions to Ottawa; the Film Office gives location support and advice.",
+      "eligibility": "Any production filming on City property.",
+      "watch_out": "Parliament Hill is federal property, not City property, so it needs separate federal permission; ask the Film Office who to contact. An insurance certificate and indemnity for the City are required. Free permits save money but bring no cash.",
+      "deadline": "Rolling: apply to Event Central at least 5 business days before filming (longer for road closures or paid duty officers). Contact the Film Office by March 2027 about Parliament Hill.",
+      "url": "https://ottawa.film/blog/what-ottawas-new-film-by-law-means-for-you/",
+      "apply_url": "https://ottawa.film/contact/",
+      "guidelines_url": "https://ottawa.ca/filming",
+      "how_to_apply": "Contact the Ottawa Film Office through its form (phone 613-695-1955) for location help; apply for City permits through Event Central using the forms on ottawa.ca.",
+      "ask": "Location advice, introductions for Parliament Hill and federal sites, and free City permits for street scenes.",
+      "offer": "End-credit thanks to the Ottawa Film Office and City of Ottawa, and stills for the Film Office's channels.",
+      "phases": [
+        "pre-production",
+        "production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://documents.ottawa.ca/sites/default/files/film_guide_en.pdf"
+      ]
+    }
+  ]
+}

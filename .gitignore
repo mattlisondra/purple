@@ -1,0 +1,16 @@
+# Private working files: never publish the screenplay or the budget spreadsheet.
+*.pdf
+*.xlsx
+*.xls
+*.docx
+*.fdx
+*.fountain
+# The film's details are published only encrypted (data/project.enc.json, made by tools/seal.cjs).
+data/project.json
+# Research scratch files
+new*.json
+research/
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
