@@ -7,6 +7,8 @@
  */
 (function () {
   'use strict';
+  // The password check needs https (browsers only allow its encryption there and on localhost).
+  if (location.protocol === 'http:' && !/^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname)) { location.replace('https:' + location.href.slice(5)); return; }
 
   // ---------- password ----------
   // The film's details are published only encrypted, in SEALED (made from data/project.json by
