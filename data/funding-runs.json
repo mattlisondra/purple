@@ -13,7 +13,8 @@
       ],
       "time": "08:30",
       "tz": "America/Toronto",
-      "active": false
+      "active": true,
+      "since": "2026-11-17"
     },
     {
       "by": "weekly",
@@ -23,7 +24,8 @@
       ],
       "time": "11:00",
       "tz": "America/Toronto",
-      "active": false
+      "active": true,
+      "since": "2026-11-16"
     }
   ],
   "runs": [
