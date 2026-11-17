@@ -6,7 +6,7 @@ Three private pages for **PURPLE**: two for finding and winning money (made the 
 |---|---|
 | `purple-funding.html` | Grants, funds, tax credits, in-kind help, sponsors and crowdfunding for pre-production, production and post-production, with deadlines; your budget gap; an application draft for each one |
 | `purple-competitions.html` | Pitch competitions, labs, markets, screenplay contests and festivals for the finished film, with deadlines, fees, prizes and premiere rules |
-| `purple-locations.html` | Every location in the script with researched options (why it fits, permission, cost, risks, links), the scene breakdown, a rough day-by-day shooting schedule in four arcs, and the permit and child-performer rules for each province and the Philippines |
+| `purple-locations.html` | Every location in the script with researched options (why it fits, permission, cost, risks, links), the scene breakdown, a rough day-by-day shooting schedule in four arcs, four budget versions broken down by arc, and the permit and child-performer rules for each province and the Philippines |
 
 It is a static site: plain HTML, CSS and JavaScript, with no build step, published with GitHub Pages from the repository `mattlisondra/purple`:
 
@@ -62,6 +62,7 @@ To change the kit's starting text for good (for example after you rewrite the di
 - **The plan**: the four arcs (East, GTA, Alberta, the Philippines) with their days and pages, how many days and why, the decisions to make, what to watch out for, the light and moon for each block's dates, every day in calendar order, and the check of the Montreal list.
 - **Locations**: one card per place in the script: the scenes, what the scene needs, our pick, how to fake or double it, and 2 to 6 real options, each with why it fits, the permission it needs, the day's practicalities, cost, risk, a map link and official links, tagged by how sure the research is. Mark options as shortlisted, booked or ruled out, with a note (kept in this browser).
 - **Schedule**: every day with call and wrap, light, scenes, cast, child hours, moves and an hour-by-hour plan. The page works out each day's length and the rest since the previous day, and turns them red if a day runs over 11 hours or the rest is under 12. **Who works which days** lists every part.
+- **Budget**: four versions side by side and line by line, each broken down by arc: **v1** the spreadsheet as it is; **v2** the full plan on the Schedule tab (every exterior at the real place); **v3** the same money as today ($47,335) with every real exterior; **v4** starting with the $16,000 in hand (Arcs 1 and 2 now, 3 and 4 when funded). Each line shows what is paid at the shoot, what is paid later and what has to come in kind. All cast non-ACTRA, at the spreadsheet's rates.
 - **Scenes**: all 104 scenes with page, length in eighths, cast, where each is shot and on which day; filter by arc, cast member or day and night.
 - **Permits and rules**: by province (and the Philippines), with official links.
 

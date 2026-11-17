@@ -354,3 +354,34 @@ details.castdays table { margin-top: 10px; }
 .lnk.shotat .dotarc { margin-right: 6px; }
 table.checks td:nth-child(2) { white-space: nowrap; }
 .tag.st-notfound { background: var(--red-wash); border-color: var(--red-line); color: var(--red); }
+
+/* Budget tab */
+.vtabs { display: flex; gap: 6px; flex-wrap: wrap; margin: 0 0 10px; }
+table.bcomp tr[data-bv] { cursor: pointer; }
+table.bcomp tr[data-bv]:hover td { background: var(--wash); }
+table.bcomp tr.on td { background: var(--purple-wash); }
+table.bcomp td, table.bcomp th { font-size: 12.5px; }
+table.btab td { font-size: 12.5px; }
+table.btab td.later, table.bcomp td.later { color: var(--warm); }
+table.btab td.kind, table.bcomp td.kind { color: var(--sage); }
+.est { font-size: 10px; font-weight: 700; color: var(--muted); border: 1px dashed var(--line2); border-radius: 5px; padding: 0 4px; margin-left: 4px; }
+.bver .an { font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--purple); }
+details.barc { border: 1px solid var(--line); border-radius: 12px; padding: 0 12px; margin-top: 8px; background: #fff; }
+details.barc summary { cursor: pointer; list-style: none; padding: 10px 0; display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
+details.barc summary::-webkit-details-marker { display: none; }
+details.barc summary .bt { margin-left: auto; font-weight: 600; font-variant-numeric: tabular-nums; }
+details.barc[open] summary { border-bottom: 1px solid var(--line); margin-bottom: 6px; }
+.bsum { display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; padding: 8px 2px; font-variant-numeric: tabular-nums; }
+.bsum > span:first-of-type { font-weight: 700; }
+.bsum.grand { border-top: 2px solid var(--ink); margin-top: 10px; font-size: 15px; }
+.phases { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 6px 0 12px; }
+.phase { border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; }
+.phase.ok { border-color: var(--sage-line); background: var(--sage-wash); }
+.phase.short { border-color: var(--red-line); background: var(--red-wash); }
+.phase .pnum { font-family: var(--serif); font-size: 22px; margin: 4px 0; }
+.phase .pnum span { font-family: var(--sans); font-size: 12.5px; color: var(--body); }
+table.dplan td { font-size: 13px; }
+table.dplan td.tm { width: 110px; }
+@media (max-width: 760px) { .phases { grid-template-columns: 1fr; } }
+table.bcomp td:first-child { min-width: 190px; }
+table.bcomp th { white-space: nowrap; }

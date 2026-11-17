@@ -310,6 +310,67 @@
     $('scenes').innerHTML = h;
   }
 
+  // ---------- Budget versions ----------
+  function money(n) { var neg = n < 0; n = Math.abs(n || 0); var s = '$' + (Math.round(n * 100) % 100 ? n.toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) : Math.round(n).toLocaleString('en-CA')); return neg ? '-' + s : s; }
+  function money0(n) { return '$' + Math.round(n || 0).toLocaleString('en-CA'); }
+  var ARC_ORDER = ['east', 'gta', 'alberta', 'ph'];
+  function arcName(id) { var a = ARC[id] || {}; return 'Arc ' + (a.n || '') + ' · ' + (a.name || id); }
+  function budgetTable(lines, split) {
+    return '<div class="tablewrap"><table class="t btab"><thead><tr><th>Item</th><th class="n">Qty × rate</th><th class="n">Total</th>' + (split ? '<th class="n">At the shoot</th><th class="n">Later</th><th class="n">In kind</th>' : '') + '</tr></thead><tbody>' +
+      lines.map(function (l) {
+        return '<tr><td>' + esc(l.item) + (l.est ? ' <span class="est">est.</span>' : '') + (l.note ? '<div class="muted">' + esc(l.note) + '</div>' : '') + '</td><td class="n muted">' + (l.qty != null ? l.qty + ' ' + esc(l.unit) + (l.qty === 1 ? '' : 's') + ' × ' + money(l.rate) : '') + '</td><td class="n">' + money(l.amount) + '</td>' +
+          (split ? '<td class="n">' + (l.now ? money(l.now) : '–') + '</td><td class="n later">' + (l.later ? money(l.later) : '–') + '</td><td class="n kind">' + (l.kind ? money(l.kind) : '–') + '</td>' : '') + '</tr>';
+      }).join('') + '</tbody></table></div>';
+  }
+  function sumRow(label, t, split) {
+    return '<div class="bsum"><b>' + esc(label) + '</b><span>' + money(t.total) + '</span>' + (split ? '<span class="muted">at the shoot ' + money0(t.now) + ' · later ' + money0(t.later) + ' · in kind ' + money0(t.kind) + '</span>' : '') + '</div>';
+  }
+  function renderBudget() {
+    var Bd = D.budget; if (!Bd) { $('budget').innerHTML = '<div class="empty">No budget versions yet.</div>'; return; }
+    var vs = Bd.versions, cur = ui.bv && vs.some(function (v) { return v.id === ui.bv; }) ? ui.bv : 'v3';
+    var h = '<div class="panel"><h2>Budget versions</h2>' + (Bd.intro || []).map(function (t) { return '<p>' + rich(t) + '</p>'; }).join('') + '</div>';
+    h += '<div class="panel"><h2>The versions side by side</h2><p class="muted">Production by arc at its real cost; "At the shoot" is the cash needed while shooting; post-production is $16,000 in every version. Click a row to open it.</p><div class="tablewrap"><table class="t bcomp"><thead><tr><th>Version</th><th class="n">Shoot days</th>' +
+      ARC_ORDER.map(function (a) { return '<th class="n">' + esc(arcName(a)) + '</th>'; }).join('') + '<th class="n">Insurance, contingency</th><th class="n">Production</th><th class="n">At the shoot</th><th class="n">Later</th><th class="n">In kind</th><th class="n">Total cash with post</th></tr></thead><tbody>' +
+      vs.map(function (v) {
+        var p = v.totals.production;
+        return '<tr class="' + (v.id === cur ? 'on' : '') + '" data-bv="' + esc(v.id) + '"><td><b>' + esc(v.name) + '</b><div class="muted">' + esc(v.badge || '') + '</div></td><td class="n">' + v.daysCanada + ' + ' + v.days.ph + '</td>' +
+          ARC_ORDER.map(function (a) { return '<td class="n">' + (v.parts[a] ? money0(v.parts[a].t.total) : '–') + '</td>'; }).join('') +
+          '<td class="n">' + money0(v.all.t.total) + '</td><td class="n"><b>' + money0(p.total) + '</b></td><td class="n"><b>' + money0(p.now) + '</b></td><td class="n later">' + (p.later ? money0(p.later) : '–') + '</td><td class="n kind">' + (p.kind ? money0(p.kind) : '–') + '</td><td class="n"><b>' + money0(v.totals.cash) + '</b></td></tr>';
+      }).join('') + '</tbody></table></div><p class="muted" style="margin-top:8px">Shoot days are Canada + the Philippines (travel-only days not counted).</p></div>';
+    h += '<div class="vtabs">' + vs.map(function (v) { return '<button class="b' + (v.id === cur ? ' dark' : '') + '" data-bv="' + esc(v.id) + '">' + esc(v.name.split(' · ')[0]) + ' · ' + esc(v.name.split(' · ')[1] || '') + '</button>'; }).join('') + '</div>';
+    var v = vs.filter(function (x) { return x.id === cur; })[0], split = v.totals.production.later > 0 || v.totals.production.kind > 0, p = v.totals.production;
+    h += '<div class="panel bver"><div class="an">' + esc(v.badge || '') + '</div><h2>' + esc(v.name) + '</h2><p>' + rich(v.summary) + '</p>';
+    h += '<div class="big"><div><div class="n">' + money0(v.totals.grand) + '</div><div class="l">Real cost (production ' + money0(p.total) + ' + post ' + money0(v.totals.post) + ')</div></div>' +
+      '<div><div class="n">' + money0(v.totals.cash) + '</div><div class="l">Cash needed (at the shoot ' + money0(p.now) + ' + post)</div></div>' +
+      '<div><div class="n">' + money0(p.later) + '</div><div class="l">Paid later (deal memos)</div></div>' +
+      '<div><div class="n">' + money0(p.kind) + '</div><div class="l">In kind or free (to secure)</div></div>' +
+      '<div><div class="n">' + v.daysCanada + ' + ' + v.days.ph + '</div><div class="l">Shoot days: East ' + v.days.east + ', GTA ' + v.days.gta + ', Alberta ' + v.days.alberta + ', Philippines ' + v.days.ph + '</div></div></div>';
+    if (v.phases) {
+      h += '<div class="phases">' + v.phases.map(function (ph) {
+        var ok = ph.t.now <= ph.budgetCash;
+        return '<div class="phase ' + (ok ? 'ok' : 'short') + '"><b>' + esc(ph.title) + '</b><div class="muted">' + esc(ph.when) + '</div><div class="pnum">' + money0(ph.t.now) + ' <span>at the shoot, of ' + money0(ph.budgetCash) + (ok ? ' (fits, ' + money0(ph.budgetCash - ph.t.now) + ' spare)' : ' (short by ' + money0(ph.t.now - ph.budgetCash) + ')') + '</span></div><div class="muted">Real cost ' + money0(ph.t.total) + ' · later ' + money0(ph.t.later) + ' · in kind ' + money0(ph.t.kind) + '</div></div>';
+      }).join('') + '</div>';
+    }
+    if (v.cashNote) h += '<p>' + rich(v.cashNote) + '</p>';
+    if ((v.rules || []).length) h += '<h3>How the cash fits</h3><ul class="princ">' + v.rules.map(function (t) { return '<li>' + rich(t) + '</li>'; }).join('') + '</ul>';
+    if (v.schedule) h += '<h3>Day by day</h3><p>The full day-by-day plan is the <button class="lnk" data-gosched="east">Schedule tab</button>.</p>';
+    if ((v.dayplan || []).length) h += '<h3>Day by day</h3><table class="t dplan"><tbody>' + v.dayplan.map(function (d) { return '<tr><td class="tm"><span class="dotarc arc-' + esc(d.arc) + '"></span>' + esc(d.label) + '</td><td>' + esc(d.text) + '</td></tr>'; }).join('') + '</tbody></table>';
+    if ((v.cuts || []).length) h += '<h3>What is cut or simplified (compared with the full plan)</h3><ul class="princ">' + v.cuts.map(function (t) { return '<li>' + rich(t) + '</li>'; }).join('') + '</ul>';
+    h += '<h3>Breakdown by arc</h3>';
+    ARC_ORDER.forEach(function (a) {
+      var pt = v.parts[a]; if (!pt) return;
+      h += '<details class="barc arc-' + esc(a) + '" open><summary><span class="dotarc arc-' + esc(a) + '"></span><b>' + esc(arcName(a)) + '</b> <span class="muted">' + v.days[a] + ' shoot day' + (v.days[a] === 1 ? '' : 's') + '</span><span class="bt">' + money(pt.t.total) + (split ? ' <span class="muted">· at the shoot ' + money0(pt.t.now) + '</span>' : '') + '</span></summary>' + budgetTable(pt.lines, split) + sumRow('Arc total', pt.t, split) + '</details>';
+    });
+    if (v.all.lines.length) h += '<details class="barc" open><summary><b>Whole production</b><span class="bt">' + money(v.all.t.total) + '</span></summary>' + budgetTable(v.all.lines, split) + '</details>';
+    h += sumRow('Production', p, split);
+    h += '<details class="barc"><summary><b>Post-production</b> <span class="muted">(the same in every version)</span><span class="bt">' + money(v.post.t.total) + '</span></summary>' + budgetTable(v.post.lines, false) + '</details>';
+    h += '<div class="bsum grand"><b>Total</b><span>' + money(v.totals.grand) + '</span><span class="muted">cash needed ' + money0(v.totals.cash) + '</span></div>';
+    if ((v.notes || []).length) h += '<ul class="lnotes">' + v.notes.map(function (t) { return '<li>' + rich(t) + '</li>'; }).join('') + '</ul>';
+    h += '</div>';
+    h += '<div class="panel"><h2>Rates used</h2><p class="muted">From Budget Breakdown v6. All cast non-ACTRA.</p><table class="t"><tbody>' + (Bd.rates || []).map(function (r) { return '<tr><td>' + esc(r[0]) + '</td><td>' + esc(r[1]) + '</td></tr>'; }).join('') + '</tbody></table></div>';
+    $('budget').innerHTML = h;
+  }
+
   // ---------- Rules ----------
   function renderRules() {
     var h = '';
@@ -321,7 +382,7 @@
   }
 
   // ---------- tabs and events ----------
-  var TABS = ['plan', 'locs', 'sched', 'scenes', 'rules'];
+  var TABS = ['plan', 'locs', 'sched', 'budget', 'scenes', 'rules'];
   function showTab(name) {
     if (TABS.indexOf(name) < 0) name = 'plan';
     TABS.forEach(function (k) { $('tab-' + k).hidden = k !== name; });
@@ -345,6 +406,7 @@
       if ((x = t.closest('[data-loc]'))) { $('lArc').value = ''; $('lq').value = ''; $('lMine').value = ''; renderLocs(); showTab('locs'); setTimeout(function () { scrollToEl('loc-' + x.getAttribute('data-loc')); }, 30); return; }
       if (t.id === 'lclear') { $('lq').value = ''; $('lArc').value = ''; $('lMine').value = ''; renderLocs(); return; }
       if (t.id === 'openAll') { ui.openAll = !ui.openAll; store(K_UI, ui); t.textContent = ui.openAll ? 'Close every option' : 'Open every option'; renderLocs(); return; }
+      if ((x = t.closest('[data-bv]'))) { ui.bv = x.getAttribute('data-bv'); store(K_UI, ui); renderBudget(); var bv = document.querySelector('.bver'); if (bv && t.closest('.bcomp')) bv.scrollIntoView({ behavior: 'smooth', block: 'start' }); return; }
       if (t.id === 'lockBtn') { lock(); return; }
       if (t.id === 'printBtn') { window.print(); return; }
     });
@@ -373,7 +435,7 @@
   function start() {
     if (!D || !D.scenes) { $('banner').innerHTML = '<div class="bad">The locations file opened but is empty.</div>'; return; }
     index(); wire(); fillSelects();
-    renderPlan(); renderLocs(); renderSched(); renderScenes(); renderRules();
+    renderPlan(); renderLocs(); renderSched(); renderBudget(); renderScenes(); renderRules();
     showTab((location.hash || '').slice(1) || ui.tab || 'plan');
   }
   gate(start);
