@@ -74,7 +74,7 @@
       "how_to_apply": "Create or update an Access Reelworld Profile first, then submit the online E20 application with every item below before 2pm ET on 16 December 2026.",
       "fee": "No application fee listed on the program page",
       "prize": "One-on-one story editing; craft and pitch training; meetings with working screenwriters; curated industry meetings that can lead to letters of interest; ACTRA table read; E20 Face2Face industry mixer; pass to the Reelworld Film Festival+Summit",
-      "festival_dates": "Sessions February to May 2027; table reads and Face2Face in August 2027 (remote program)",
+      "festival_dates": "Five months of sessions from February 2027, with Face2Face and table reads in August 2027 (remote program); re-confirmed on the program page 2026-11-17",
       "phases": [
         "development",
         "pre-production"
@@ -124,7 +124,9 @@
       ],
       "evidence": [
         "https://www.reelworld.ca/reelworld-e20-program"
-      ]
+      ],
+      "updated": "2026-11-16",
+      "updated_by": "weekly"
     },
     {
       "id": "reelworld-reelworld-producer-program",
@@ -2051,6 +2053,185 @@
         "https://asianfilmfestivals.com/2026/05/12/new-york-international-childrens-film-festival-call-for-entry-2027/"
       ],
       "closed_since": "2026-11-16"
+    },
+    {
+      "id": "whistler-film-festival-society-whistler-film-festival-screenwriters-lab",
+      "added": "2026-11-16",
+      "added_by": "weekly",
+      "checked": "2026-11-16",
+      "priority": "B",
+      "name": "Whistler Film Festival Screenwriters Lab",
+      "funder": "Whistler Film Festival Society",
+      "type": "Lab",
+      "region": "Canada",
+      "amount": "No cash; script mentorship, pitch training and an industry pass. Tuition CA$2,950 + GST if accepted",
+      "why_fit": "Open to Canadian feature screenwriters living in Canada with a first draft, so PURPLE's finished script qualifies as an individual. It gives mentorship, pitch training and decision-maker meetings in Squamish and Whistler, useful before the May 2027 shoot and for the Whistler Borsos Competition in 2028.",
+      "priorities": "Develops feature-length narrative screenplays through mentorship, group feedback, pitch training and industry sessions; up to six writers a year.",
+      "eligibility": "Canadian citizen or permanent resident over 18 living in Canada full-time, holding the rights to a feature-length narrative screenplay (120 pages maximum; first drafts accepted). Financing or attachments are not required.",
+      "watch_out": "It costs money (CA$55 + GST to apply; CA$2,950 + GST tuition plus travel and lodging) and gives no cash, so it does not close the gap directly. The 2026 lab ran July to December 2026 including a mandatory August workshop; a 2027 lab would overlap the shoot. Needs at least one industry reference letter. The 2027 call and dates are not published yet.",
+      "deadline": "Not published for 2027. The 2026 call closed 25 May 2026, 11:59pm PT.",
+      "deadline_estimate": "2027-05",
+      "reopens": "Last call closed 25 May 2026 (workshop August, online intensive November, Whistler Film Festival 2-6 December 2026); next expected spring 2027.",
+      "url": "https://www.whistlerfilmfestival.com/talent-labs/screenwriters-lab",
+      "how_to_apply": "Online portal only: synopsis of 250 to 500 words, the screenplay, at least one industry reference letter and the fee by PayPal.",
+      "fee": "CA$55 + GST per project to apply; CA$2,950 + GST tuition if accepted",
+      "prize": "Script mentorship, group feedback, pitch training, sessions with decision-makers and one industry pass to the Whistler Film Festival + Content Summit",
+      "festival_dates": "2026 edition: workshop 7-10 Aug 2026 (Squamish), online intensive 9-13 Nov, festival 2-6 Dec 2026",
+      "premiere": "Not applicable: a script lab. Matthew's January 2028 screening has no effect.",
+      "notification": "Not published",
+      "phases": [
+        "development",
+        "pre-production"
+      ],
+      "questions": [
+        {
+          "q": "Synopsis",
+          "limit": "250-500 words",
+          "kit": "synopsis_long"
+        },
+        {
+          "q": "Feature screenplay",
+          "limit": "120 pages maximum",
+          "kit": "custom",
+          "hint": "The 65-page PURPLE script."
+        },
+        {
+          "q": "Industry reference letter (at least one)",
+          "kit": "custom",
+          "hint": "Ask someone who has seen Matthew's work, for example on Quiet Father."
+        },
+        {
+          "q": "CV or bio (optional)",
+          "kit": "bio"
+        }
+      ],
+      "evidence": [
+        "https://www.whistlerfilmfestival.com/talent-labs/screenwriters-lab"
+      ]
+    },
+    {
+      "id": "chilliwack-independent-film-festival-new-wave-collective-micro-budget-feature-gr",
+      "added": "2026-11-16",
+      "added_by": "weekly",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "New Wave Collective: micro-budget feature grant and mentorship",
+      "funder": "Chilliwack Independent Film Festival",
+      "type": "Fellowship",
+      "region": "Canada",
+      "amount": "CA$10,000 cash per selected feature, plus mentorship and festival presentation",
+      "why_fit": "A cash grant for Canadian feature filmmakers who have a script of 60 pages or more, which PURPLE's 65 pages meets, and the first edition shows the festival wants micro-budget features.",
+      "priorities": "Supports and elevates Canadian voices in feature filmmaking through grants and mentorship.",
+      "eligibility": "Canadian filmmakers with a first-draft feature script of 60 to 100 pages. The applicant must complete the application without help from third parties (assistants, grant writers, agents).",
+      "watch_out": "First edition closed 23 Aug 2026 and required finished films by 1 Sep 2027, which PURPLE (post to Feb 2028) could not meet, so apply only if a second edition has a later delivery date. Whether there will be a second edition is not confirmed. The page did not load for this check, so details come from search listings.",
+      "deadline": "Not published for a second edition. First edition closed 23 Aug 2026.",
+      "deadline_estimate": "2027-08",
+      "reopens": "First edition: submissions closed 23 Aug 2026, finalists 7 Sep, festival 21-25 Oct 2026; finished films due 1 Sep 2027. A second edition is not announced.",
+      "url": "https://filmfreeway.com/NewWaveCollective",
+      "fee": "Not confirmed",
+      "prize": "CA$10,000 cash, mentorship and a presentation at the Chilliwack Independent Film Festival",
+      "premiere": "Winning films are to be presented at the Chilliwack Independent Film Festival.",
+      "notification": "First edition: finalists announced 7 Sep 2026",
+      "phases": [
+        "development",
+        "production"
+      ],
+      "amount_max": 10000,
+      "evidence": [
+        "https://filmfreeway.com/NewWaveCollective",
+        "https://ciff.ca"
+      ]
+    },
+    {
+      "id": "cultural-center-of-the-philippines-cinemalaya-cinemalaya-philippine-independent",
+      "added": "2026-11-16",
+      "added_by": "weekly",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Cinemalaya Philippine Independent Film Festival: Full-Length Feature competition (2028 edition)",
+      "funder": "Cultural Center of the Philippines (Cinemalaya)",
+      "type": "Festival",
+      "region": "Philippines",
+      "amount": "Finalist production grant (amount not confirmed this run)",
+      "why_fit": "The leading Philippine independent film competition. PURPLE ends its shoot in the Philippines with a local crew and has Tagalog dialogue, so it may interest the committee as a diaspora story.",
+      "priorities": "Showcases new Filipino independent feature filmmaking; proponents submit a concept paper, ~20 are chosen for a lab, and 10 finalists screen at the festival.",
+      "eligibility": "Filipino filmmakers; those living abroad only in exceptional cases for a superior submission and if the director and producer can meet the selection committee in person. Dialogue must be primarily Filipino or another Philippine language; the proponent subtitles in English.",
+      "watch_out": "PURPLE is mostly English and French in Canada with some Tagalog, so the language rule may rule it out, and Matthew lives abroad. The 2027 call already closed (concept papers Sept 2026, pitching 31 Oct 2026; completed film due 18 June 2027). The 2028 call is inferred from that pattern, not published. A January 2028 private screening is unlikely to matter since entry is by concept paper first.",
+      "deadline": "Not published for 2028. For the 2027 edition the concept-paper stage closed about 17 Sep 2026 (third-party date) and finished films were due 18 Jun 2027.",
+      "deadline_estimate": "2027-09",
+      "reopens": "2027 edition festival 5-17 Aug 2027; the 2028 call is expected around the same time next year.",
+      "url": "https://www.cinemalaya.org/competition/",
+      "festival_dates": "2027 edition: 5-17 August 2027",
+      "premiere": "Not confirmed for 2028; check the mechanics when published.",
+      "notification": "2027 edition: 30 selected entries told 17 Oct 2026",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://www.cinemalaya.org/wp-content/uploads/2026/08/2027-Full-length-MECHANICS.pdf"
+      ]
+    },
+    {
+      "id": "hawai-i-international-film-festival-hawai-i-international-film-festival-hiff-202",
+      "added": "2026-11-16",
+      "added_by": "weekly",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Hawai'i International Film Festival (HIFF) 2028",
+      "funder": "Hawai'i International Film Festival",
+      "type": "Festival",
+      "region": "USA",
+      "amount": "Festival; Kau Ka Hōkū Award for first- or second-time feature directors",
+      "why_fit": "A festival with a special focus on Asian and Pacific Rim cinema that accepts narrative features and has an award for first or second features, which fits Matthew's first feature and its Philippines chapter.",
+      "priorities": "Asian, Pacific Rim and Hawai'i cinema; categories include Narrative Feature and New American Perspectives.",
+      "eligibility": "Narrative features; the Kau Ka Hōkū Award is for first- or second-time feature directors. A completion window applies (2026 listing: completed after 1 Jan 2025).",
+      "watch_out": "Premiere rules and fees were not found on the organizer page. The 2028 call is inferred from the 2026 deadline of 5 Jun 2026 (46th fall festival). A public January 2028 screening may matter if a premiere is required, so check the rules; keep it invitation-only.",
+      "deadline": "Not published for 2028. The 2026 call closed 5 Jun 2026 (FilmFreeway).",
+      "deadline_estimate": "2028-06",
+      "reopens": "2026 submissions closed 5 Jun 2026; next expected around June 2028.",
+      "url": "https://hiff.org/?p=332674",
+      "fee": "On FilmFreeway; not confirmed",
+      "festival_dates": "Fall festival (October)",
+      "premiere": "Not confirmed",
+      "notification": "Not confirmed",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://hiff.org/?p=332674"
+      ]
+    },
+    {
+      "id": "singapore-international-film-festival-singapore-international-film-festival-sgif",
+      "added": "2026-11-16",
+      "added_by": "weekly",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Singapore International Film Festival (SGIFF) 2028: Asian feature competition",
+      "funder": "Singapore International Film Festival",
+      "type": "Festival",
+      "region": "International",
+      "amount": "Silver Screen Awards (prizes not listed on the call page)",
+      "why_fit": "A top Asian festival for Asian feature-length films. PURPLE has a Philippines segment and a Filipino story, which may count as Asian-connected.",
+      "priorities": "New and upcoming Asian filmmakers; an international jury previews and awards competition films.",
+      "eligibility": "Asian feature-length and mid-length films; Singapore premiere at least. The page does not say whether a Canadian-produced diaspora film counts.",
+      "watch_out": "Eligibility of a Canadian production is unclear, so confirm with programme@sgiff.com. Premiere: not on TV or online, not publicly screened in Singapore, and not premiered before a cutoff date (1 Oct 2025 for the 37th edition); a public January 2028 screening in Toronto could count against it, so keep it private. 2028 dates are inferred.",
+      "deadline": "Not published for 2028. The 37th call ran 9 Apr to 15 Jun 2026 (extended), 11:59pm Singapore time.",
+      "deadline_estimate": "2028-06",
+      "reopens": "Next call expected April to June 2028.",
+      "url": "https://sgiff.com/call-for-entry/",
+      "contact_email": "programme@sgiff.com",
+      "contact_source": "https://sgiff.com/call-for-entry/",
+      "fee": "US$35 for Asian features (2026)",
+      "festival_dates": "37th edition: 21 Oct to 1 Nov 2026",
+      "premiere": "Singapore premiere at least; not available online or on TV",
+      "notification": "Mid-September (2026)",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://sgiff.com/call-for-entry/"
+      ]
     }
   ]
 }
