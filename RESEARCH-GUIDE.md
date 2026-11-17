@@ -137,4 +137,4 @@ Only `name`, `funder`, `type`, `region`, `priority`, `why_fit` and `url` are req
 3. Check: `node tools/check.cjs` (exit code 1 means a problem; fix it).
 4. Commit the data files together (`data/*.json`) and push to `main`.
 
-Never edit `added`, `added_by`, `checked`, `updated` or `updated_by` by hand; the merge sets them. Never touch `data/project.enc.json` (the film's details, encrypted with the site password); only people change it, with tools/seal.cjs.
+Never edit `added`, `added_by`, `checked`, `updated` or `updated_by` by hand; the merge sets them. Never touch `data/project.enc.json` or `data/locations.enc.json` (the film's details and the locations and schedule, encrypted with the site password); only people change them, with tools/seal.cjs.

@@ -1,21 +1,25 @@
 #!/usr/bin/env node
-// Encrypts data/project.json (the film, the budget and the Application kit) into
-// data/project.enc.json with the site password. Only the encrypted file is
-// published; data/project.json stays on this computer (.gitignore leaves it out).
-// The pages ask for the password and decrypt it in the browser.
+// Encrypts the private files with the site password. Only the encrypted copies are published;
+// the plain files stay on this computer (.gitignore leaves them out). The pages ask for the
+// password and decrypt in the browser.
 //
-//   node tools/seal.cjs                  after editing data/project.json (asks for the password)
+//   data/project.json    -> data/project.enc.json    the film, the budget and the Application kit
+//   data/locations.json  -> data/locations.enc.json  scene breakdown, locations, shooting schedule
+//
+//   node tools/seal.cjs                  after editing either file (asks for the password)
 //   node tools/seal.cjs --new-password   to change the password (asks for the new one twice)
 //
 // The password can also come from the PURPLE_PASSWORD environment variable.
-// AES-256-GCM with a key from PBKDF2-SHA256; the salt is kept between seals so
-// browsers that are already unlocked stay unlocked.
+// AES-256-GCM with a key from PBKDF2-SHA256. Every file uses the same salt, so one password
+// unlocks every page, and the salt is kept between seals so browsers already unlocked stay unlocked.
 'use strict';
 const crypto = require('crypto'), fs = require('fs'), path = require('path');
 
 const ROOT = path.join(__dirname, '..');
-const SRC = path.join(ROOT, 'data', 'project.json');
-const OUT = path.join(ROOT, 'data', 'project.enc.json');
+const FILES = [
+  { src: 'project.json', out: 'project.enc.json', about: 'PURPLE project details, encrypted with the site password (AES-256-GCM, key from PBKDF2-SHA256). Made by tools/seal.cjs from data/project.json, which is not published.' },
+  { src: 'locations.json', out: 'locations.enc.json', about: 'PURPLE scene breakdown, locations and shooting schedule, encrypted with the site password (AES-256-GCM, key from PBKDF2-SHA256). Made by tools/seal.cjs from data/locations.json, which is not published.' }
+].map(f => Object.assign(f, { srcPath: path.join(ROOT, 'data', f.src), outPath: path.join(ROOT, 'data', f.out) }));
 const ITER = 600000;
 const fresh = process.argv.includes('--new-password');
 
@@ -50,38 +54,57 @@ function open(box, k) {
   d.setAuthTag(tag);
   return Buffer.concat([d.update(raw.subarray(0, raw.length - 16)), d.final()]).toString('utf8');
 }
+function readJson(p) { return JSON.parse(fs.readFileSync(p, 'utf8').replace(/^\uFEFF/, '')); }
 
 (async () => {
-  if (!fs.existsSync(SRC)) { console.error('data/project.json is not on this computer, so there is nothing to seal.'); process.exit(1); }
-  let project;
-  try { project = JSON.parse(fs.readFileSync(SRC, 'utf8').replace(/^\uFEFF/, '')); }
-  catch (e) { console.error('data/project.json is not valid JSON: ' + e.message); process.exit(1); }
+  // What is on this computer.
+  for (const f of FILES) {
+    f.box = fs.existsSync(f.outPath) ? readJson(f.outPath) : null;
+    if (fs.existsSync(f.srcPath)) {
+      try { f.plain = JSON.stringify(readJson(f.srcPath)); }
+      catch (e) { console.error(`data/${f.src} is not valid JSON: ${e.message}`); process.exit(1); }
+    }
+  }
+  if (!FILES.some(f => f.plain)) { console.error('Neither data/project.json nor data/locations.json is on this computer, so there is nothing to seal.'); process.exit(1); }
 
-  const old = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, 'utf8')) : null;
+  const current = FILES.map(f => f.box).find(Boolean);   // any sealed file tells us the current salt
   const env = process.env.PURPLE_PASSWORD;
   let pw, salt;
-  if (old && !fresh) {
+  if (current && !fresh) {
     pw = (env != null ? env : await ask('Password: ')).trim();
-    salt = Buffer.from(old.salt, 'base64');
-    try { open(old, key(pw, salt, old.iter)); }
+    salt = Buffer.from(current.salt, 'base64');
+    try { open(current, key(pw, salt, current.iter)); }
     catch (e) { console.error('That is not the current password. To change the password, run: node tools/seal.cjs --new-password'); process.exit(1); }
   } else {
+    const missing = FILES.filter(f => f.box && !f.plain);
+    if (missing.length) { console.error(`Changing the password re-seals every file, so it needs ${missing.map(f => 'data/' + f.src).join(' and ')} on this computer. Nothing changed.`); process.exit(1); }
     pw = (env != null ? env : await ask('New password: ')).trim();
     if (env == null && (await ask('Same password again: ')).trim() !== pw) { console.error('The two passwords are different. Nothing changed.'); process.exit(1); }
     if (pw.length < 10) { console.error('Use at least 10 characters. Nothing changed.'); process.exit(1); }
     salt = crypto.randomBytes(16);
   }
 
-  const iv = crypto.randomBytes(12);
-  const c = crypto.createCipheriv('aes-256-gcm', key(pw, salt, ITER), iv);
-  const ct = Buffer.concat([c.update(JSON.stringify(project), 'utf8'), c.final(), c.getAuthTag()]);
-  const box = {
-    v: 1,
-    about: 'PURPLE project details, encrypted with the site password (AES-256-GCM, key from PBKDF2-SHA256). Made by tools/seal.cjs from data/project.json, which is not published.',
-    iter: ITER, salt: salt.toString('base64'), iv: iv.toString('base64'), ct: ct.toString('base64')
-  };
-  // Check the result opens before writing it.
-  if (open(box, key(pw, salt, ITER)) !== JSON.stringify(project)) { console.error('Encryption check failed. Nothing changed.'); process.exit(1); }
-  fs.writeFileSync(OUT, JSON.stringify(box, null, 1) + '\n');
-  console.log('Sealed data/project.json into data/project.enc.json' + (old && !fresh ? '.' : ' with the new password. Every browser will ask for it again.'));
+  const k = key(pw, salt, ITER), done = [], same = [];
+  for (const f of FILES) {
+    let text = f.plain;
+    if (text == null) {
+      // No plain copy here. Keep the sealed file if it already uses this salt, otherwise it cannot be re-sealed.
+      if (f.box && f.box.salt === salt.toString('base64')) continue;
+      if (f.box) { console.error(`data/${f.out} uses a different salt and data/${f.src} is not here to re-seal it.`); process.exit(1); }
+      continue;
+    }
+    // Unchanged since the last seal: leave the file alone, so git shows no change.
+    if (f.box && !fresh && f.box.salt === salt.toString('base64') && f.box.iter === ITER) {
+      try { if (open(f.box, k) === text) { same.push(f); continue; } } catch (e) { /* re-seal below */ }
+    }
+    const iv = crypto.randomBytes(12);
+    const c = crypto.createCipheriv('aes-256-gcm', k, iv);
+    const ct = Buffer.concat([c.update(text, 'utf8'), c.final(), c.getAuthTag()]);
+    const box = { v: 1, about: f.about, iter: ITER, salt: salt.toString('base64'), iv: iv.toString('base64'), ct: ct.toString('base64') };
+    if (open(box, k) !== text) { console.error(`Encryption check failed for data/${f.src}. Nothing changed.`); process.exit(1); }
+    f.next = box; done.push(f);
+  }
+  for (const f of done) fs.writeFileSync(f.outPath, JSON.stringify(f.next, null, 1) + '\n');
+  if (done.length) console.log('Sealed ' + done.map(f => `data/${f.src} into data/${f.out}`).join(' and ') + (current && !fresh ? '.' : ' with the new password. Every browser will ask for it again.'));
+  if (same.length) console.log('Unchanged, left as they are: ' + same.map(f => `data/${f.out}`).join(' and ') + '.');
 })();

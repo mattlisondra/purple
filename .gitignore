@@ -7,6 +7,8 @@
 *.fountain
 # The film's details are published only encrypted (data/project.enc.json, made by tools/seal.cjs).
 data/project.json
+# The scene breakdown, locations (with a home address) and schedule: published only as data/locations.enc.json.
+data/locations.json
 # Research scratch files
 new*.json
 research/

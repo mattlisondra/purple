@@ -1,5 +1,5 @@
-// Checks data/funding.json, data/competitions.json, their run logs and
-// data/project.enc.json before they are committed. Exit code 1 on any problem.
+// Checks data/funding.json, data/competitions.json, their run logs and the sealed
+// data/project.enc.json and data/locations.enc.json before they are committed. Exit code 1 on any problem.
 //
 //   node tools/check.cjs                 (both lists)
 //   node tools/check.cjs --list funding  (one list)
@@ -71,16 +71,23 @@ for (const name of names) {
   } catch { /* reported above */ }
 }
 
-// The film's details are published only encrypted (tools/seal.cjs). data/project.json stays on Matthew's computer.
-const SEALED = path.join(ROOT, 'data', 'project.enc.json'), PLAIN = path.join(ROOT, 'data', 'project.json')
-try {
-  const box = JSON.parse(fs.readFileSync(SEALED, 'utf8'))
-  if (!(box.v === 1 && box.iter > 0 && box.salt && box.iv && box.ct)) problems.push('project.enc.json: not a sealed file (run node tools/seal.cjs)')
-} catch (e) { problems.push(`project.enc.json: missing or not valid JSON (${e.message})`) }
-if (fs.existsSync(PLAIN)) {
-  try { JSON.parse(fs.readFileSync(PLAIN, 'utf8').replace(/^\uFEFF/, '')) } catch (e) { problems.push(`project.json: not valid JSON (${e.message})`) }
-  if (fs.existsSync(SEALED) && fs.statSync(PLAIN).mtimeMs > fs.statSync(SEALED).mtimeMs + 1000)
-    console.log('Note: data/project.json changed after it was sealed. Run node tools/seal.cjs so the pages show the change.')
+// The private files are published only encrypted (tools/seal.cjs); the plain copies stay on Matthew's computer.
+// Every sealed file must use the same salt, so one password unlocks every page.
+let firstSalt = null
+for (const [plain, sealed, required] of [['project.json', 'project.enc.json', true], ['locations.json', 'locations.enc.json', false]]) {
+  const SEALED = path.join(ROOT, 'data', sealed), PLAIN = path.join(ROOT, 'data', plain)
+  if (!fs.existsSync(SEALED)) { if (required) problems.push(sealed + ': missing (run node tools/seal.cjs)'); continue }
+  try {
+    const box = JSON.parse(fs.readFileSync(SEALED, 'utf8'))
+    if (!(box.v === 1 && box.iter > 0 && box.salt && box.iv && box.ct)) problems.push(sealed + ': not a sealed file (run node tools/seal.cjs)')
+    else if (firstSalt && box.salt !== firstSalt) problems.push(sealed + ': sealed with a different salt from project.enc.json; run node tools/seal.cjs to re-seal both')
+    else firstSalt = firstSalt || box.salt
+  } catch (e) { problems.push(sealed + ': not valid JSON (' + e.message + ')') }
+  if (fs.existsSync(PLAIN)) {
+    try { JSON.parse(fs.readFileSync(PLAIN, 'utf8').replace(/^\uFEFF/, '')) } catch (e) { problems.push(plain + ': not valid JSON (' + e.message + ')') }
+    if (fs.statSync(PLAIN).mtimeMs > fs.statSync(SEALED).mtimeMs + 1000)
+      console.log('Note: data/' + plain + ' changed after it was sealed. Run node tools/seal.cjs so the pages show the change.')
+  }
 }
 
 if (problems.length) { console.error(`\n${problems.length} problem(s):\n` + problems.join('\n')); process.exit(1) }

@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en" class="locked">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>PURPLE | Locations</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%233d1f73'/%3E%3Ccircle cx='16' cy='17' r='8' fill='%23c084fc'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/purple.css">
+</head>
+<body data-page="locations">
+
+<div class="gate">
+  <form id="gateForm" autocomplete="off">
+    <span class="wm">PURPLE</span>
+    <p>Locations and the shooting schedule for PURPLE. Enter the password to continue.</p>
+    <input id="gatePw" type="password" placeholder="Password" aria-label="Password" autocomplete="current-password">
+    <button type="submit">Enter</button>
+    <div class="err" id="gateErr"></div>
+  </form>
+</div>
+
+<div class="app">
+<header class="top">
+  <span class="wm">PURPLE</span>
+  <nav class="pages"><a href="purple-funding.html">Funding</a><a href="purple-competitions.html">Competitions</a><a href="purple-locations.html" class="on">Locations</a></nav>
+  <nav class="tabs">
+    <button class="tab on" data-tab="plan">The plan</button>
+    <button class="tab" data-tab="locs">Locations</button>
+    <button class="tab" data-tab="sched">Schedule</button>
+    <button class="tab" data-tab="scenes">Scenes</button>
+    <button class="tab" data-tab="rules">Permits and rules</button>
+  </nav>
+  <span class="sp"></span>
+  <button class="tb" id="printBtn">Print</button>
+  <button class="tb" id="lockBtn">Lock</button>
+</header>
+<div class="banner" id="banner"></div>
+<main>
+  <section id="tab-plan"><div id="plan"></div></section>
+
+  <section id="tab-locs" hidden>
+    <div class="filters">
+      <input type="search" id="lq" placeholder="Search places, scenes, permits…">
+      <select id="lArc"><option value="">Every arc</option></select>
+      <select id="lMine"><option value="">All options</option><option value="short">My shortlist</option><option value="booked">Booked</option><option value="no">Ruled out</option></select>
+      <button class="b" id="openAll">Open every option</button>
+    </div>
+    <div class="count" id="lcount"></div>
+    <div id="locs"></div>
+  </section>
+
+  <section id="tab-sched" hidden><div id="sched"></div></section>
+
+  <section id="tab-scenes" hidden>
+    <div class="filters">
+      <input type="search" id="sq" placeholder="Search scene headings…">
+      <select id="sArc"><option value="">Every arc</option></select>
+      <select id="sCast"><option value="">Anyone</option></select>
+      <select id="sTime"><option value="">Day or night</option><option value="day">Day (incl. morning, evening)</option><option value="night">Night</option></select>
+    </div>
+    <div class="count" id="scount"></div>
+    <div class="panel tablewrap" id="scenes"></div>
+  </section>
+
+  <section id="tab-rules" hidden><div id="rules"></div></section>
+</main>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="assets/locations.js"></script>
+</body>
+</html>
