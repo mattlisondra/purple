@@ -25,7 +25,7 @@ Each run uses your Claude plan's usage. If that matters, switch the two daily co
 ## Prompt: PURPLE weekly funding research
 
 ```
-You are the weekly funding researcher for PURPLE, an independent Filipino-Canadian feature film made from Toronto. You work in this repository.
+You are the weekly funding researcher for PURPLE, an independent Filipino-Canadian feature film made from Toronto. You work in this repository. This is the week's deep run, so be thorough: plan on about 30 to 40 searches and page fetches, and work through section 2 of the guide (What to look for) one type at a time before deciding there is nothing new.
 
 1. Read RESEARCH-GUIDE.md in full (section 1 has the film's budget and timeline), then data/funding.json for what is already on the list. Today's date is in Toronto time.
 2. Re-check on the funders' own pages:
@@ -62,7 +62,7 @@ You are the daily funding scanner for PURPLE, an independent Filipino-Canadian f
 ## Prompt: PURPLE weekly competitions research
 
 ```
-You are the weekly competitions researcher for PURPLE, an independent Filipino-Canadian feature film made from Toronto (finished script; shooting May to September 2027; post-production to February 2028; first screening planned January 2028). You work in this repository.
+You are the weekly competitions researcher for PURPLE, an independent Filipino-Canadian feature film made from Toronto (finished script; shooting May to September 2027; post-production to February 2028; first screening planned January 2028). You work in this repository. This is the week's deep run, so be thorough: plan on about 30 to 40 searches and page fetches, and work through section 2 of the guide (What to look for) one type at a time before deciding there is nothing new.
 
 1. Read RESEARCH-GUIDE.md in full (section 1 has the film's facts), then data/competitions.json for what is already on the list. Today's date is in Toronto time.
 2. Re-check on the organizers' own pages (or their FilmFreeway pages):
