@@ -2346,6 +2346,82 @@
       "evidence": [
         "https://documents.ottawa.ca/sites/default/files/film_guide_en.pdf"
       ]
+    },
+    {
+      "id": "telefilm-canada-production-program-english-language-window-for-budgets-under-3-5",
+      "added": "2026-11-16",
+      "added_by": "weekly",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Production Program: English-language window for budgets under $3.5M",
+      "funder": "Telefilm Canada",
+      "type": "Grant",
+      "region": "Canada",
+      "why_fit": "PURPLE's $47,335 budget sits far under the $3.5M line, and this is Telefilm's regular feature-film production window for English-language projects; a Canadian company with PURPLE as its project could use it after Talent to Watch.",
+      "watch_out": "Applicants must be Canadian audiovisual production companies with a head office in Canada, so PURPLE needs a corporation first. Only one submission per fiscal year. Decision around mid-June 2027 comes after the May 2027 shoot starts, so it fits post-production or a later phase better. Telefilm's page gave no amounts or a distributor rule; read the Guidelines and Essential Information Guide.",
+      "deadline": "Window opens 26 Jan 2027, 8:00am EST and closes 9 Feb 2027, 11:59pm EST (English, budgets under $3.5M).",
+      "deadline_date": "2027-02-09",
+      "opens": "2027-01-26",
+      "decision": "About mid-June 2027.",
+      "reopens": "Telefilm runs several windows a year; the next English under-$3.5M window after this one is not published yet.",
+      "url": "https://telefilm.ca/en/financing/production-program",
+      "apply_url": "https://telefilm.ca/en/financing/production-program",
+      "how_to_apply": "The applicant company applies through Telefilm's online portal, Dialogue, while the window is open. Register the company and read the Guidelines and Essential Information Guide first.",
+      "tips": "Telefilm's page says projects in languages other than English or French use the English low-budget window; PURPLE's Tagalog and French dialogue should be checked against the language rules.",
+      "phases": [
+        "production"
+      ],
+      "evidence": [
+        "https://telefilm.ca/en/we-finance-and-support/program-deadline"
+      ]
+    },
+    {
+      "id": "bureau-du-cinema-et-de-la-television-de-montreal-city-of-montreal-filming-permit",
+      "added": "2026-11-16",
+      "added_by": "weekly",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Filming permit and BCTM file (fee waivers for non-profit and student shoots)",
+      "funder": "Bureau du cinéma et de la télévision de Montréal (City of Montréal)",
+      "type": "In-kind",
+      "region": "Quebec",
+      "why_fit": "PURPLE shoots in Montreal in May to June 2027 (Notre-Dame Basilica, street and road-trip scenes); a permit is needed for any public-property filming, and costs are low.",
+      "watch_out": "Fees are small ($30 permit plus daily occupancy), and the page's 'no charge for non-profit, television news and student shoots' appears in one borough's section, so PURPLE may not qualify. Needs $1M to $5M third-party liability insurance naming the City as co-insured. Application form is in French. A separate application is needed for each public place.",
+      "deadline": "Rolling. Apply at least 10 to 15 business days before filming (14 in some boroughs).",
+      "reopens": "Always open.",
+      "url": "https://montreal.ca/en/how-to/get-permit-to-temporarily-occupy-public-property-filming-purposes",
+      "how_to_apply": "Contact the BCTM first to open a file and get a file number, then complete the online application for each public place. Permits are valid up to one month.",
+      "phases": [
+        "pre-production",
+        "production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://montreal.ca/en/departments/bureau-du-cinema-et-de-la-television-de-montreal"
+      ]
+    },
+    {
+      "id": "via-rail-canada-partnerships-and-sponsorships-program-train-tickets",
+      "added": "2026-11-16",
+      "added_by": "weekly",
+      "checked": "2026-11-16",
+      "priority": "C",
+      "name": "Partnerships and sponsorships program (train tickets)",
+      "funder": "VIA Rail Canada",
+      "type": "Sponsor",
+      "region": "Canada",
+      "why_fit": "PURPLE is a road trip across Canada; VIA Rail has given film-related help as train tickets, in exchange for visibility.",
+      "watch_out": "VIA Rail's own page says it has paused its partnerships and sponsorships program, so nothing can be requested now. It limits help to Canadian initiatives, has given tickets rather than cash, and expects equal-value visibility in return (from third-party reports).",
+      "deadline": "Program paused; no way to apply.",
+      "reopens": "No date given. Re-check each quarter.",
+      "closed_reason": "VIA Rail states on its sponsorship page that it has paused its partnerships and sponsorships program.",
+      "url": "https://corpo.viarail.ca/en/sustainability/community-support/partnership-sponsorship-request",
+      "ask": "Train tickets for cast and crew on a Toronto to Ottawa or Montreal leg.",
+      "offer": "End-credit thanks, logo on the poster, a thank-you social post and screening invitations.",
+      "phases": [
+        "production"
+      ],
+      "closed_since": "2026-11-16"
     }
   ]
 }
