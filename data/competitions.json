@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-18",
   "items": [
     {
       "id": "page-international-screenwriting-awards-page-international-screenwriting-awards",
@@ -2231,6 +2231,34 @@
       ],
       "evidence": [
         "https://sgiff.com/call-for-entry/"
+      ]
+    },
+    {
+      "id": "wep-productions-with-telefilm-canada-hessenfilm-medien-nordmedia-filminvest-norw",
+      "added": "2026-11-18",
+      "added_by": "daily",
+      "checked": "2026-11-18",
+      "priority": "B",
+      "name": "JETS (Junior Entertainment Talent Slate), 10th edition",
+      "funder": "WEP Productions with Telefilm Canada, HessenFilm & Medien, nordmedia, Filminvest Norway",
+      "type": "Pitch competition",
+      "region": "International",
+      "why_fit": "Pitching and networking day for fiction features in development from 1st to 3rd-time feature filmmakers, with producers, sales agents, financiers and distributors. 20 to 24 projects are selected and 6 to 10 are considered for possible funding. Telefilm lists a Canada call.",
+      "eligibility": "Fiction projects in development; 1st, 2nd and 3rd feature filmmakers. Full criteria are in the Call for Entries PDF.",
+      "watch_out": "Event date and location not stated on Telefilm's page. Check the Call for Entries PDF for criteria and materials. Another search listing gave 7 Dec 2026; Telefilm's page says 15 Dec.",
+      "deadline": "15 Dec 2026 (time not stated on Telefilm's page)",
+      "deadline_date": "2026-12-15",
+      "url": "https://telefilm.ca/appel-inscription/10th-jets-junior-entertainment-talent-slate",
+      "contact_email": "info@wepfilms.com",
+      "contact_source": "https://telefilm.ca/appel-inscription/10th-jets-junior-entertainment-talent-slate",
+      "how_to_apply": "Email info@wepfilms.com with the subject 'JETS 2026 + name of submitting person + Canada' and the supporting materials listed in the Call for Entries.",
+      "fee": "None listed",
+      "phases": [
+        "development"
+      ],
+      "evidence": [
+        "https://telefilm.ca/appel-inscription/10th-jets-junior-entertainment-talent-slate",
+        "https://cmpa.ca/calls-for-submission/"
       ]
     }
   ]
