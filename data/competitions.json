@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-23",
   "items": [
     {
       "id": "page-international-screenwriting-awards-page-international-screenwriting-awards",
@@ -2146,17 +2146,17 @@
       "id": "cultural-center-of-the-philippines-cinemalaya-cinemalaya-philippine-independent",
       "added": "2026-11-16",
       "added_by": "weekly",
-      "checked": "2026-11-16",
+      "checked": "2026-11-23",
       "priority": "C",
       "name": "Cinemalaya Philippine Independent Film Festival: Full-Length Feature competition (2028 edition)",
       "funder": "Cultural Center of the Philippines (Cinemalaya)",
       "type": "Festival",
       "region": "Philippines",
-      "amount": "Finalist production grant (amount not confirmed this run)",
+      "amount": "Each of 10 finalists receives two production grants of P1,000,000 (one from the CCP, one from the FDCP), released in tranches",
       "why_fit": "The leading Philippine independent film competition. PURPLE ends its shoot in the Philippines with a local crew and has Tagalog dialogue, so it may interest the committee as a diaspora story.",
       "priorities": "Showcases new Filipino independent feature filmmaking; proponents submit a concept paper, ~20 are chosen for a lab, and 10 finalists screen at the festival.",
       "eligibility": "Filipino filmmakers; those living abroad only in exceptional cases for a superior submission and if the director and producer can meet the selection committee in person. Dialogue must be primarily Filipino or another Philippine language; the proponent subtitles in English.",
-      "watch_out": "PURPLE is mostly English and French in Canada with some Tagalog, so the language rule may rule it out, and Matthew lives abroad. The 2027 call already closed (concept papers Sept 2026, pitching 31 Oct 2026; completed film due 18 June 2027). The 2028 call is inferred from that pattern, not published. A January 2028 private screening is unlikely to matter since entry is by concept paper first.",
+      "watch_out": "PURPLE is mostly English and French in Canada with some Tagalog, so the language rule may rule it out, and Matthew lives abroad. The 2027 call is open now on a conflicting schedule (the mechanics PDF says online entries run November 2026 to January 2027; the competition page says finished films are due 18 June 2027); too early for PURPLE, which has not shot. The 2028 call is inferred. Eligibility for directors abroad could not be confirmed.",
       "deadline": "Not published for 2028. For the 2027 edition the concept-paper stage closed about 17 Sep 2026 (third-party date) and finished films were due 18 Jun 2027.",
       "deadline_estimate": "2027-09",
       "reopens": "2027 edition festival 5-17 Aug 2027; the 2028 call is expected around the same time next year.",
@@ -2169,7 +2169,9 @@
       ],
       "evidence": [
         "https://www.cinemalaya.org/wp-content/uploads/2026/08/2027-Full-length-MECHANICS.pdf"
-      ]
+      ],
+      "updated": "2026-11-23",
+      "updated_by": "weekly"
     },
     {
       "id": "hawai-i-international-film-festival-hawai-i-international-film-festival-hiff-202",
@@ -2259,6 +2261,117 @@
       "evidence": [
         "https://telefilm.ca/appel-inscription/10th-jets-junior-entertainment-talent-slate",
         "https://cmpa.ca/calls-for-submission/"
+      ]
+    },
+    {
+      "id": "calgary-underground-film-festival-calgary-underground-film-festival-cuff-2028-fe",
+      "added": "2026-11-23",
+      "added_by": "weekly",
+      "checked": "2026-11-23",
+      "priority": "C",
+      "name": "Calgary Underground Film Festival (CUFF) 2028: feature submissions",
+      "funder": "Calgary Underground Film Festival",
+      "type": "Festival",
+      "region": "Alberta",
+      "why_fit": "Cheap Canadian-feature entry fee and only a Calgary-premiere rule, so a January 2028 first screening in Toronto does not block it. PURPLE also shoots in Banff, Lake Louise and Jasper.",
+      "priorities": "Films that 'defy convention'; programs features, documentaries, animation and shorts, with a lean to genre (horror, sci-fi, comedy, thriller, music).",
+      "eligibility": "Features must be a Calgary premiere: no earlier theatre, local-festival or Canadian broadcast screening in Calgary, and not available on VOD to Canadian audiences. Films finished before the previous year's festival are not programmed.",
+      "watch_out": "A quiet, intimate drama may sit outside its genre-leaning programme. A public screening in Toronto in January 2028 does not break the Calgary-premiere rule, but any Canadian VOD or broadcast release before April 2028 would. The 2028 call is inferred from the 2027 call (not yet published); no prizes are listed for the feature programme.",
+      "deadline": "Not published for 2028. 2027 edition: regular deadline 2 Feb 2027 (FilmFreeway opened 30 Jun 2026). Expect a similar pattern for April 2028.",
+      "deadline_estimate": "2028-02",
+      "reopens": "2027 edition (15-25 Apr 2027) regular deadline 2 Feb 2027, notification 16 Mar 2027; next call expected to open about June 2027.",
+      "url": "https://www.calgaryundergroundfilm.org/call-for-submission/",
+      "fee": "2027 edition: Canadian features C$30, other features C$40; free waiver codes for alumni and Alberta filmmakers",
+      "festival_dates": "2027 edition: 15-25 April 2027, Globe Cinema, Calgary",
+      "premiere": "Calgary premiere required; no earlier theatrical, local festival or Canadian broadcast screening; not on VOD.",
+      "notification": "2027 edition: 16 Mar 2027",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://www.calgaryundergroundfilm.org/call-for-submission/"
+      ]
+    },
+    {
+      "id": "sundance-institute-sundance-institute-feature-film-program-2027-producers-track",
+      "added": "2026-11-23",
+      "added_by": "weekly",
+      "checked": "2026-11-23",
+      "priority": "C",
+      "name": "Sundance Institute Feature Film Program: 2027 Producers Track",
+      "funder": "Sundance Institute",
+      "type": "Lab",
+      "region": "International",
+      "why_fit": "Producer lab for emerging independent fiction producers with a feature in progress; Johnson Luong, Dinitha Vithanage or Brandon Worden could apply with PURPLE once footage exists.",
+      "priorities": "Supports emerging independent fiction and nonfiction producers with works-in-progress features.",
+      "eligibility": "Emerging producers with a work-in-progress feature; the page does not state a Canada restriction.",
+      "watch_out": "The 10 Feb 2027 deadline falls before PURPLE shoots (May 2027), so PURPLE cannot qualify this cycle. Full eligibility (footage requirements, fee) could not be read this run; the programme page was not retrievable. Watch for the 2028 cycle, around Feb 2028, when a rough cut may exist.",
+      "deadline": "10 Feb 2027 (time zone not stated on the deadlines page)",
+      "deadline_date": "2027-02-10",
+      "reopens": "Next intake expected around February 2028.",
+      "url": "https://www.sundance.org/deadlines",
+      "phases": [
+        "post-production"
+      ],
+      "evidence": [
+        "https://www.sundance.org/deadlines"
+      ]
+    },
+    {
+      "id": "hamptonsfilm-hamptonsfilm-screenwriters-lab",
+      "added": "2026-11-23",
+      "added_by": "weekly",
+      "checked": "2026-11-23",
+      "priority": "C",
+      "name": "HamptonsFilm Screenwriters Lab",
+      "funder": "HamptonsFilm",
+      "type": "Lab",
+      "region": "USA",
+      "why_fit": "Feature screenwriting lab that accepts any genre and no prior credits; PURPLE has a finished 65-page script.",
+      "priorities": "Script development through mentorship for feature screenplays; writers and writing teams encouraged.",
+      "eligibility": "A feature-length screenplay as a PDF plus a non-refundable fee; treatments, outlines, shorts and pilots excluded. A cover letter is encouraged; no prior experience needed.",
+      "watch_out": "In-person lab in the Hamptons, New York (travel cost); lab dates are 9-11 April 2027 and PURPLE shoots from May 2027. The 2027 deadline has probably passed and the next call (for April 2028) is inferred from the last cycle (earlybird 13 Nov 2025, final 15 Jan 2026). Fee and rules could not be confirmed on the organizer's page this run (page blocked).",
+      "deadline": "Not published for 2028. Last cycle: earlybird 13 Nov 2025, regular 4 Dec 2025, late 22 Dec 2025, extended 15 Jan 2026.",
+      "deadline_estimate": "2027-11",
+      "reopens": "Last cycle opened autumn 2025 with a lab in April 2026; the next is expected to open autumn 2027.",
+      "url": "https://hamptonsfilmfest.org/",
+      "apply_url": "https://filmfreeway.com/hamptonsfilmscreenwriterslab",
+      "phases": [
+        "development"
+      ],
+      "evidence": [
+        "https://filmfreeway.com/hamptonsfilmscreenwriterslab",
+        "https://hamptonsfilmfest.org/features/2026-screenwriters-lab-participants/"
+      ]
+    },
+    {
+      "id": "victoria-film-festival-victoria-film-festival-2028-best-canadian-first-feature",
+      "added": "2026-11-23",
+      "added_by": "weekly",
+      "checked": "2026-11-23",
+      "priority": "B",
+      "name": "Victoria Film Festival 2028: Best Canadian First Feature",
+      "funder": "Victoria Film Festival",
+      "type": "Festival",
+      "region": "Canada",
+      "why_fit": "A Best Canadian First Feature prize ($1,000) suits PURPLE as a first feature, and the premiere rule is only local (Victoria).",
+      "priorities": "Showcases Canadian and international features; awards include Best Canadian Feature and Best Canadian First Feature.",
+      "eligibility": "Films with no broadcast, streaming or theatrical exposure in the Victoria, BC area, and not available online before the festival.",
+      "watch_out": "2028 call not published; dates and prize come from a third-party FilmFreeway listing of the 2027 cycle, and the festival's own page could not be read this run. A January 2028 screening in Toronto should not affect eligibility if the film is not online or shown in Victoria. Fees: only an out-of-date 2022 schedule was found.",
+      "deadline": "Not published for 2028. 2027 cycle: earlybird 16 Jun 2026, regular 31 Jul 2026, late 5 Sep 2026, notification 31 Dec 2026.",
+      "deadline_estimate": "2028-06",
+      "reopens": "2027 festival 5-14 Feb 2027; the 2028 call is expected to open about spring 2027, with the first deadlines in June 2027, before PURPLE is finished. A late deadline may fit around September 2027.",
+      "url": "https://www.victoriafilmfestival.com/",
+      "apply_url": "https://filmfreeway.com/VictoriaFilmFestival",
+      "prize": "Best Canadian First Feature: $1,000",
+      "festival_dates": "2027 edition: 5-14 February 2027",
+      "premiere": "No premiere status required; no prior exposure in the Victoria area and not available online.",
+      "notification": "2027 cycle: 31 Dec 2026",
+      "phases": [
+        "distribution"
+      ],
+      "evidence": [
+        "https://filmfreeway.com/VictoriaFilmFestival"
       ]
     }
   ]
