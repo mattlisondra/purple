@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-23",
   "items": [
     {
       "id": "canada-council-for-the-arts-explore-and-create-artistic-creation",
@@ -1301,27 +1301,25 @@
       "id": "lift-liaison-of-independent-filmmakers-of-toronto-digital-cinema-residency",
       "added": "2026-11-16",
       "added_by": "research",
-      "checked": "2026-11-16",
+      "checked": "2026-11-23",
       "priority": "C",
       "name": "Digital Cinema Residency",
       "funder": "LIFT (Liaison of Independent Filmmakers of Toronto)",
       "type": "Program",
       "region": "Toronto",
-      "amount": "2026 edition: $8,000 paid as wages over the 11-week residency, plus up to $3,000 in equipment and facilities and on-site studio space. Facilities include digital cinema cameras, lighting, the colour correction and finishing suite, editing and audio suites, and EasyDCP.",
+      "amount": "2027 edition: $8,000 paid as an hourly wage (40 hours a week for 10 weeks, with CPP, EI and vacation pay deducted), plus up to $3,000 in equipment and facilities and a dedicated on-site studio.",
       "currency": "CAD",
-      "why_fit": "A paid three-month residency with LIFT's colour, finishing, audio and DCP suites. A January to March 2028 residency would line up with PURPLE's final colour, mix and DCP before the early-2028 screening, and equity-priority groups are favoured.",
+      "why_fit": "A paid three-month residency with LIFT's colour, finishing, audio and DCP suites. The 2027 call is open now, but it runs 11 Jan to 31 Mar 2027, before PURPLE shoots, so it only helps if there is a new digital cinema work to make (a development or teaser piece). The better fit is the 2028 residency.",
       "priorities": "Emerging artists making a new digital cinema work, with priority to equity priority groups based on the Toronto Arts Council Equity Framework.",
-      "eligibility": "Emerging filmmakers aged 18 to 30. Canadian citizens, permanent residents or refugees (work permits not eligible), living in or within commuting distance of the GTHA. Must be self-identified as underemployed and have completed post-secondary studies, with no family or prior working relationship with LIFT.",
-      "watch_out": "Age cap of 30 and 'underemployed' status: Matthew must meet both. The residency is full-time and on site, and is meant for a 'new digital cinema work'; ask whether finishing an already-shot feature counts. The 2027 call has not been posted, and a January to March 2027 residency would come before the shoot.",
-      "deadline": "2027 call not yet posted. The last call closed 3 Dec 2025, 10:00am ET.",
-      "deadline_estimate": "2026-12",
-      "decision": "2026 cycle: results in mid-December, about 2 weeks after the deadline.",
-      "reopens": "Past calls were posted in October or November with early-December deadlines (2026 cycle: closed 3 Dec 2025). For PURPLE the better target is the 2028 residency (Jan to Mar 2028), with a call expected around November or December 2027.",
-      "closed_reason": "The 2026 residency call closed 3 Dec 2025; the 2027 call was not yet posted as of 16 Nov 2026.",
-      "url": "https://lift.ca/programming-home/call-for-proposals-digital-cinema-residency-2026/",
+      "eligibility": "Age 18 to 30 (an external funder's rule; LIFT says broader calls for other members are planned). Canadian citizen, permanent resident or refugee (work permits not eligible), living in the GTHA or within commuting distance. Self-identified as underemployed, post-secondary studies completed, no family or past working relationship with LIFT. Members and non-members both apply free. Priority to equity priority groups (Toronto Arts Council Equity Framework).",
+      "watch_out": "Closes 3 Dec 2026, 10:00am ET, so it needs a decision this week. Matthew must be 30 or under, underemployed and a post-secondary graduate. The residency is full-time and on site from 11 Jan to 31 Mar 2027 and is for a new digital cinema work, so it competes with pre-production time and may not allow finishing PURPLE. Ask director@lift.ca.",
+      "deadline": "Call open 21 Nov to 3 Dec 2026; closes Thursday 3 Dec 2026, 10:00am ET. The Google Form link opens 23 Nov 2026. Results mid-December 2026.",
+      "decision": "Results announced in mid-December 2026.",
+      "reopens": "The 2028 call is expected around November 2027 (the 2027 call opened 21 Nov 2026).",
+      "url": "https://lift.ca/programming-home/call-for-proposals-digital-cinema-residency-2027/",
       "contact_email": "director@lift.ca",
-      "contact_source": "https://lift.ca/programming-home/call-for-proposals-digital-cinema-residency-2026/",
-      "how_to_apply": "Free to apply, for members and non-members. In 2026: by Google Form (preferred), or by mail to Digital Cinema Residency, c/o LIFT, 1137 Dupont Street, Toronto ON M6H 2A3, arriving by the deadline.",
+      "contact_source": "https://lift.ca/programming-home/call-for-proposals-digital-cinema-residency-2027/",
+      "how_to_apply": "Submit the Google Form (link opens 23 Nov 2026), or mail the application to Digital Cinema Residency 2027, c/o LIFT, 1137 Dupont Street, Toronto ON M6H 2A3, to arrive before the deadline. Email subject for questions: Call for Proposals for Digital Cinema Residency 2027 - First and Last Name.",
       "phases": [
         "post-production"
       ],
@@ -1363,7 +1361,11 @@
         "https://lift.ca/programming-home/",
         "https://lift.ca/programming-home/lift-digital-cinema-residency-2026-announcement/"
       ],
-      "closed_since": "2026-11-16"
+      "deadline_date": "2026-12-03",
+      "opens": "2026-11-21",
+      "guidelines_url": "https://lift.ca/programming-home/call-for-proposals-digital-cinema-residency-2027/",
+      "updated": "2026-11-23",
+      "updated_by": "weekly"
     },
     {
       "id": "charles-street-video-media-art-creation-grant",
@@ -2422,6 +2424,67 @@
         "production"
       ],
       "closed_since": "2026-11-16"
+    },
+    {
+      "id": "gofundme-gofundme-crowdfunding-campaign",
+      "added": "2026-11-23",
+      "added_by": "weekly",
+      "checked": "2026-11-23",
+      "priority": "C",
+      "name": "GoFundMe crowdfunding campaign",
+      "funder": "GoFundMe",
+      "type": "Crowdfunding",
+      "region": "Canada",
+      "amount": "No cap. 0% platform fee for organizers; each donation pays 2.9% + $0.30 to the payment processor. Donors may add an optional tip to GoFundMe.",
+      "why_fit": "A no-platform-fee way to raise small gifts from the Filipino-Canadian community and family, keeping what is raised even if the goal is missed. A useful second route beside Seed&Spark, or for a quick bridge for the Philippines trip.",
+      "eligibility": "Anyone in Canada with a bank account can start a campaign.",
+      "watch_out": "Not film-specific, so there is no filmmaker audience on the platform: the campaign depends on PURPLE's own network. Donations are gifts with no tax receipts. Check GoFundMe's rules and withdrawal terms in the Help Center before launching; the fee page does not describe withdrawal fees.",
+      "deadline": "Rolling: launch any time. Plan a campaign of about 30 days that ends at least a month before the money is needed (May 2027 shoot).",
+      "url": "https://www.gofundme.com/en-ca/c/blog/gofundme-fees",
+      "how_to_apply": "Create a campaign page with a story, photos and a clear use of funds (flights, van, food, gear, sound mix), then share it. Withdraw to a bank account at any time once donations arrive.",
+      "tips": "Break the goal into named items (one flight, one day of the van). Line up first donors before launch.",
+      "phases": [
+        "pre-production",
+        "production",
+        "post-production"
+      ],
+      "rolling": true,
+      "evidence": [
+        "https://www.gofundme.com/en-ca/c/blog/top-crowdfunding-sites"
+      ]
+    },
+    {
+      "id": "awesome-foundation-toronto-chapter-awesome-foundation-toronto-chapter-microgrant",
+      "added": "2026-11-23",
+      "added_by": "weekly",
+      "checked": "2026-11-23",
+      "priority": "C",
+      "name": "Awesome Foundation Toronto chapter microgrant",
+      "funder": "Awesome Foundation, Toronto chapter",
+      "type": "Grant",
+      "region": "Toronto",
+      "amount": "$1,000 per project",
+      "currency": "CAD",
+      "why_fit": "A $1,000 microgrant from a group of local volunteers, with a short application and a monthly decision. Small, but it could cover a day of crew meals, a location fee or festival submission fees, and PURPLE's Toronto roots and Filipino-Canadian community angle suit a community-minded pitch.",
+      "priorities": "Community-minded projects in the Greater Toronto Area; the application is described as light and accessible to everyone.",
+      "eligibility": "Not formally stated on the chapter page. The chapter serves the Greater Toronto Area and asks for a community-oriented project. It has funded film-related projects such as a film festival and a cinema project.",
+      "watch_out": "The page does not say whether individuals can apply or whether a feature film production counts; ask toronto@awesomefoundation.org first. Pitch a community element (a Toronto screening for the Filipino-Canadian community), not only production costs.",
+      "deadline": "No fixed deadline: apply any time. Trustees meet at the start of each month to review the previous month's applications.",
+      "url": "https://www.awesomefoundation.org/en/chapters/toronto",
+      "apply_url": "https://www.awesomefoundation.org/en/chapters/toronto",
+      "contact_email": "toronto@awesomefoundation.org",
+      "contact_source": "https://www.awesomefoundation.org/en/chapters/toronto",
+      "how_to_apply": "Use the 'Apply For a Grant' link on the chapter page. The application is short; mention any time pressure in it.",
+      "phases": [
+        "pre-production",
+        "production",
+        "post-production"
+      ],
+      "amount_max": 1000,
+      "rolling": true,
+      "evidence": [
+        "https://www.awesomefoundation.org/en/chapters/toronto"
+      ]
     }
   ]
 }
